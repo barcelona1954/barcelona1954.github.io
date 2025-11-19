@@ -1,13 +1,8 @@
 # My Test Home Page
 This is a simple GitHub Pages test using Typora.
 
-
-
-![My Photo](images/photo.jpg)
-
-
+![Skull](images/correct-skull-original.jpg)
 
 <audio controls>
-  <source src="audio/song.mp3" type="audio/mpeg">
+  <source src="audio/GhostRiders.mp3" type="audio/mpeg">
 </audio>
-
