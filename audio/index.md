@@ -1,9 +1,10 @@
-# Audio Collections
+# Audio Library
 
-This section contains albums, singles, sound experiments, and other recorded work.
-
-## Collections
-
-- Example: [Sample Album](sample-album/index.md)
+Below are streaming-only tracks. No downloads are available.
 
 ---
+
+## Example Track
+<audio controls controlsList="nodownload" preload="none">
+  <source src="Example.mp3" type="audio/mpeg">
+</audio>

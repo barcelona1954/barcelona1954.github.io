@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Ghost Riders Album</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 700px; margin: auto; padding: 20px; }
+    li { margin-bottom: 8px; cursor: pointer; }
+    li.playing { font-weight: bold; color: #007acc; }
+  </style>
+</head>
+
+<body>
+
+<h1>Album: Ghost Riders</h1>
+
+<p>This playlist streams only — downloads disabled.</p>
+
+<audio id="player" controls controlsList="nodownload" preload="none" style="width:100%;"></audio>
+
+<h2>Tracks</h2>
+<ul id="playlist">
+  <li data-src="GhostRiders.mp3">Ghost Riders in the Sky</li>
+  <li data-src="PrairieNight.mp3">Prairie Night</li>
+  <li data-src="GhostCattle.mp3">Ghost Cattle</li>
+</ul>
+
+<script>
+  const player = document.getElementById('player');
+  const tracks = document.querySelectorAll('#playlist li');
+  let currentTrack = 0;
+
+  function loadTrack(index) {
+    tracks.forEach(t => t.classList.remove('playing'));
+    tracks[index].classList.add('playing');
+    player.src = tracks[index].dataset.src;
+    player.play();
+  }
+
+  tracks.forEach((track, index) => {
+    track.addEventListener('click', () => {
+      currentTrack = index;
+      loadTrack(index);
+    });
+  });
+
+  player.addEventListener('ended', () => {
+    currentTrack = (currentTrack + 1) % tracks.length;
+    loadTrack(currentTrack);
+  });
+
+  loadTrack(0);
+</script>
+
+</body>
+</html>
