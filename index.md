@@ -1,8 +1,12 @@
-# My Test Home Page
-This is a simple GitHub Pages test using Typora.
+# Welcome
 
-![Skull](images/skull-original.jpg)
+This site is an archive of audio projects, artwork, and collections.  
+Use the sections below to navigate.
 
-<audio controls>
-  <source src="audio/03 GhostRiders.mp3" type="audio/mpeg">
-</audio>
+## Audio Collections
+- [Audio Index](audio/index.md)
+
+## Artwork Collections
+- [Artwork Index](images/index.md)
+
+---
