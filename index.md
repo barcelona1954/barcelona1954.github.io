@@ -1,4 +1,7 @@
-# Audio Collections
+- # Welcome to My Site
 
-- [Ghost Riders](GhostRiders/index.html)   <!-- points to the HTML playlist page -->
-- [Sample Album](sample-album/index.md)   <!-- placeholder album -->
+  ## Audio Collections
+  [Go to Audio](audio/index.md)
+
+  ## Image Collections
+  [Go to Images](images/index.md)
