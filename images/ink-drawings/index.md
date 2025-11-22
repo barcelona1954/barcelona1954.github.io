@@ -11,8 +11,8 @@ Click any thumbnail to view the full-size image.
     <img src="thumbnails/skull-original-thumb.jpg" width="200" alt="Skull drawing">
   </a>
 
-  <a href="full/second-drawing.jpg">
-    <img src="thumbnails/second-drawing-thumb.jpg" width="200" alt="Second drawing">
+  <a href="full/sorry.jpg">
+    <img src="thumbnails/sorry-thumb.jpg" width="200" alt="Sorry drawing">
   </a>
 
 </div>
