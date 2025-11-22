@@ -4,6 +4,7 @@ This section contains drawings, sketches, cartoons, and visual explorations.
 
 ## Collections
 
-- Example: [Collection of Ink Drawings](ink-drawings/index.md)
+- [Collection of Ink Drawings](ink-drawings/index.md)
 
 ---
+
