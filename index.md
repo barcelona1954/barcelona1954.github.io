@@ -5,3 +5,8 @@
 
 ## Image Collections
 [Go to Images](images/index.md)
+
+
+
+## Writing Collections
+[Explore Writings](writings/index.md)
