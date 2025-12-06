@@ -1,29 +1,16 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>Ghost Riders Album</title>
-  <style>
-    body { font-family: Arial, sans-serif; max-width: 700px; margin: auto; padding: 20px; }
-    li { margin-bottom: 8px; cursor: pointer; }
-    li.playing { font-weight: bold; color: #007acc; }
-  </style>
-</head>
+# Audio Library
 
-<body>
+## Albums
 
-<h1>Album: Ghost Riders</h1>
+### Shake, Rattle, and Strain 
 
-<p>This playlist streams only — downloads disabled.</p>
 
-<audio id="player" controls controlsList="nodownload" preload="none" style="width:100%;"></audio>
 
-<h2>Tracks</h2>
 <ul id="playlist">
-    <li data-src="01 erfidia.mp3">Perfidia</li>
+    <li data-src="01 Perfidia.mp3">Perfidia</li>
     <li data-src="02 Surf Nouveau.mp3">Surf Nouveau</li>    
-  <li data-src="03 GhostRiders.mp3">Ghost Riders</li>
-     <li data-src="04 Malaguena.mp3">Malaguena</li>
+    <li data-src="03 GhostRiders.mp3">Ghost Riders</li>
+    <li data-src="04 Malaguena.mp3">Malaguena</li>
     <li data-src="05 Surfbilly.mp3">Surfbilly</li>    
     <li data-src="06 Sleepwalk.mp3">Sleepwalk</li>  
     <li data-src="07 ShesNotThere.mp3">ShesNotThere</li>   
