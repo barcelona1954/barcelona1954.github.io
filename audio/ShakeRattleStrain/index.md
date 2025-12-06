@@ -15,7 +15,7 @@
     <li data-src="07 ShesNotThere.mp3">Shes Not There</li>   
     <li data-src="08 TheQuietSurf.mp3">The Quiet Surf</li>    
     <li data-src="09 Stoked.mp3">Stoked</li>
-    <li data-src="10 TheGoodTheBadAndTheUgly.mp3">The Good, The bad, and The Ugly</li>    
+    <li data-src="10 TheGoodTheBadAndTheUgly.mp3">The Good, The Bad, and The Ugly</li>    
     <li data-src="11 ReefBreak.mp3">Reef Break</li>    
     <li data-src="12 Apache.mp3">Apache</li>   
     <li data-src="13 Theme For The Champions.mp3">Theme for the Champions</li>    
