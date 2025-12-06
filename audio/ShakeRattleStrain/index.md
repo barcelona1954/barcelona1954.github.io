@@ -1,9 +1,8 @@
 # Audio Library
-
 ## Albums
-
 ### Shake, Rattle, and Strain 
 
+<audio id="player" controls controlsList="nodownload" preload="none" style="width:100%;"></audio>
 
 
 <ul id="playlist">
