@@ -52,6 +52,5 @@
   loadTrack(0);
 </script>
 
-</body>
-</html>
+
 
