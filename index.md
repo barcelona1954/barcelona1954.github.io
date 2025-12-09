@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/style.css">
+
 # Welcome to My Site
 
 **!!!!SITE UNDER DEVELOPMENT!!!!**

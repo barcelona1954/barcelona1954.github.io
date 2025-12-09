@@ -1,0 +1,120 @@
+/* ===== Global layout & typography ===== */
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  background: #faf7f2;
+  color: #222222;
+  line-height: 1.7;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 3rem;
+}
+
+/* Make headings feel like a clean portfolio / notebook */
+
+h1, h2, h3, h4 {
+  font-weight: 600;
+  margin-top: 1.6rem;
+  margin-bottom: 0.6rem;
+  color: #222222;
+}
+
+h1 {
+  font-size: 2rem;
+  letter-spacing: 0.03em;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+}
+
+/* Paragraph spacing */
+
+p {
+  margin: 0.4rem 0 0.9rem;
+}
+
+/* Links: subtle but clear */
+
+a {
+  color: #0056a3;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(0, 86, 163, 0.3);
+}
+
+a:hover {
+  color: #b14424;
+  border-bottom-color: rgba(177, 68, 36, 0.6);
+}
+
+/* Lists */
+
+ul, ol {
+  padding-left: 1.2rem;
+  margin: 0.2rem 0 1rem;
+}
+
+/* Images: art-friendly defaults */
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+/* Later we can add a specific class like .art-thumb if needed */
+
+/* ===== Audio player & playlist styling ===== */
+
+audio {
+  width: 100%;
+  margin: 1rem 0 0.5rem;
+}
+
+#playlist {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+#playlist li {
+  cursor: pointer;
+  padding: 0.25rem 0;
+  border-bottom: 1px solid #e5ddd0;
+  transition: color 0.15s ease, background-color 0.15s ease;
+}
+
+#playlist li:last-child {
+  border-bottom: none;
+}
+
+#playlist li:hover {
+  color: #0056a3;
+  background-color: rgba(0, 0, 0, 0.02);
+}
+
+#playlist li.playing {
+  font-weight: 600;
+  color: #b14424;
+  background-color: rgba(177, 68, 36, 0.06);
+}
+
+/* ===== Section spacing ===== */
+
+section {
+  margin-bottom: 2rem;
+}
+
+/* Utility class we can use later for galleries or content blocks */
+.card {
+  padding: 1rem 1.25rem;
+  border-radius: 8px;
+  background: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+  margin-bottom: 1.5rem;
+}

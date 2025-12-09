@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/style.css">
+
 # Ink Drawings
 
 Click any thumbnail to view the full-size image.

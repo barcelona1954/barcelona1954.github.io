@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/style.css">
+
 # Artwork Collections
 
 This section contains drawings, sketches, cartoons, and visual explorations.
