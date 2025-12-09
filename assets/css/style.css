@@ -118,3 +118,103 @@ section {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
   margin-bottom: 1.5rem;
 }
+
+/* ===== Site header & navigation ===== */
+
+.site-header {
+  margin-bottom: 2rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid #e0d6c7;
+}
+
+.site-title {
+  font-size: 1.7rem;
+  font-weight: 650;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.site-tagline {
+  margin-top: 0.2rem;
+  font-size: 0.95rem;
+  color: #55504a;
+}
+
+.site-nav {
+  margin-top: 0.9rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  font-size: 0.95rem;
+}
+
+.site-nav a {
+  text-decoration: none;
+  border-bottom: none;
+  padding: 0.2rem 0.4rem;
+  border-radius: 999px;
+  background: transparent;
+  color: #44403a;
+  border: 1px solid transparent;
+}
+
+.site-nav a:hover {
+  border-color: #d1bda3;
+  background-color: #f3ebe1;
+  color: #b14424;
+}
+
+/* ===== Home page layout ===== */
+
+.home-intro {
+  margin-bottom: 1.5rem;
+}
+
+.home-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.home-card {
+  flex: 1 1 250px;
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 1rem 1.1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+}
+
+.home-card h2 {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+}
+
+.home-card p {
+  margin-bottom: 0.6rem;
+}
+
+/* Button-like link */
+
+.button-link {
+  display: inline-block;
+  padding: 0.35rem 0.9rem;
+  border-radius: 999px;
+  background-color: #0056a3;
+  color: #ffffff;
+  text-decoration: none;
+  border: none;
+  font-size: 0.9rem;
+}
+
+.button-link:hover {
+  background-color: #b14424;
+  color: #ffffff;
+}
+
+/* Stack cards vertically on small screens */
+@media (max-width: 640px) {
+  .home-grid {
+    flex-direction: column;
+  }
+}
+
