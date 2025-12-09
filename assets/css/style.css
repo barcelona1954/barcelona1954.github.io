@@ -218,3 +218,24 @@ section {
   }
 }
 
+/* ===== Footer ===== */
+
+.site-footer {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #e0d6c7;
+  font-size: 0.9rem;
+  color: #55504a;
+  text-align: center;
+}
+
+.site-footer a {
+  color: #44403a;
+  border-bottom: 1px solid rgba(68, 64, 58, 0.3);
+}
+
+.site-footer a:hover {
+  color: #b14424;
+  border-bottom-color: rgba(177, 68, 36, 0.6);
+}
+

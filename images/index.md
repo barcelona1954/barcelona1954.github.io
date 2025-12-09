@@ -23,4 +23,8 @@ I am an active artist, drawing and creating for my pleasure and maybe yours, too
 - [Collection of Ink Drawings](ink-drawings/index.md)
 
 ---
+<footer class="site-footer">
+  <p>© 2025 Pretzelvision. All content © respective creators.</p>
+  <p><a href="/">Return to top</a></p>
+</footer>
 

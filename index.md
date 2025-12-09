@@ -43,7 +43,7 @@
         <a class="button-link" href="/images/">Go to Images</a>
       </p>
     </div>
-
+    
     <div class="home-card">
       <h2>Writing Collections</h2>
       <p>
@@ -56,3 +56,8 @@
     </div>
   </section>
 </main>
+
+<footer class="site-footer">
+  <p>© 2025 Pretzelvision. All content © respective creators.</p>
+  <p><a href="/">Return to top</a></p>
+</footer>

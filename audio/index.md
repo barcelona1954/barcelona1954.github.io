@@ -15,7 +15,7 @@
 
 # Audio Library
 
-Below is an album ov cover songs by the Corpse Revivers. (Alan McClellan, lead guitar, Chuck Brenneman, rhythm guitar, Brian Smithey, bass and percussions). Tracks stream directly from the page, or you can select a specific track.
+Below is an album of cover songs by the Corpse Revivers. (Alan McClellan, lead guitar, Chuck Brenneman, rhythm guitar, Brian Smithey, bass and percussions). Tracks stream directly from the page, or you can select a specific track.
 
 
 ---
@@ -23,3 +23,10 @@ Below is an album ov cover songs by the Corpse Revivers. (Alan McClellan, lead g
 ## Albums
 
 - [Shake Rattle and Strain](ShakeRattleStrain/index.md)
+
+
+
+<footer class="site-footer">
+  <p>© 2025 Pretzelvision. All content © respective creators.</p>
+  <p><a href="/">Return to top</a></p>
+</footer>
