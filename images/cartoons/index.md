@@ -18,16 +18,14 @@ Click a thumbnail to view the full-size image.
 
 <div class="gallery-grid">
 
-  <!-- Placeholder examples. Replace with real images later. -->
-
-  <a href="full/cartoon-01.jpg">
-    <img src="thumbnails/cartoon-01-thumb.jpg" alt="Cartoon 1">
+  <a href="full/3000MinutePhoneCallCopyrighted.gif">
+    <img src="thumbnails/3000MinutePhoneCallCopyrighted-thumb.jpg"
+         alt="3000 Minute Phone Call Cartoon">
   </a>
 
-  <a href="full/cartoon-02.jpg">
-    <img src="thumbnails/cartoon-02-thumb.jpg" alt="Cartoon 2">
+  <a href="full/AmishTalkRadioCopyrighted.gif">
+    <img src="thumbnails/AmishTalkRadioCopyrighted-thumb.jpg"
+         alt="Amish Talk Radio Cartoon">
   </a>
-
-  <!-- Add more here when ready -->
 
 </div>
