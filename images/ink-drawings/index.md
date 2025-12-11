@@ -4,16 +4,16 @@
 
 Click any thumbnail to view the full-size image.
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px;">
+<div class="gallery-grid">
 
-  <!-- Skull drawing -->
   <a href="full/skull-original.jpg">
-    <img src="thumbnails/skull-original-thumb.jpg" width="200" alt="Skull drawing">
+    <img src="thumbnails/skull-original-thumb.jpg" alt="Skull drawing">
   </a>
 
-  <!-- Sorry drawing -->
   <a href="full/sorry.jpg">
-    <img src="thumbnails/sorry-thumb.jpg" width="200" alt="Sorry drawing">
+    <img src="thumbnails/sorry-thumb.jpg" alt="Sorry drawing">
   </a>
+
+  <!-- Add more drawings here using the same pattern -->
 
 </div>
