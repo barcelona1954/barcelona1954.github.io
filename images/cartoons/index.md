@@ -27,5 +27,15 @@ Click a thumbnail to view the full-size image.
     <img src="thumbnails/AmishTalkRadioCopyrighted-thumb.jpg"
          alt="Amish Talk Radio Cartoon">
   </a>
+  
+  <a href="full/BackScratchCopyrighted.jpg">
+    <img src="thumbnails/BackScratchCopyrighted-thumb.jpg"
+         alt="3000 Minute Phone Call Cartoon">
+  </a>
+  
+  <a href="full/BackToTheBasicsCopyrighted.jpg">
+    <img src="thumbnails/BackToTheBasicsCopyrighted-thumb.jpg"
+         alt="3000 Minute Phone Call Cartoon">
+  </a>
 
 </div>
