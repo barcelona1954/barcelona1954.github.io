@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="/assets/css/style.css">
+<b> SITE UNDER CONSTRUCTION </b>
 
 <header class="site-header">
   <div class="site-title">Pretzelvision</div>
