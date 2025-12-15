@@ -7,7 +7,7 @@
 
 <div class="gallery-grid">
   <a href="full/DeepThinkerCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/DeepThinkerCopyrighted-thumb.jpg" alt="Deep Thinker">
+    <img src=".//thumbnails/DeepThinkerCopyrighted-thumb.jpg" alt="Deep Thinker">
     <div class="gallery-caption">Deep Thinker</div>
   </a>
 

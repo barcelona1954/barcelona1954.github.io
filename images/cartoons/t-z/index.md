@@ -7,7 +7,7 @@
 
 <div class="gallery-grid">
   <a href="full/DeepThinkerCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/DeepThinkerCopyrighted-thumb.jpg" alt="Deep Thinker">
+    <img src="../thumbnails/DeepThinkerCopyrighted-thumb.jpg" alt="Deep Thinker">
     <div class="gallery-caption">Deep Thinker</div>
   </a>
 
@@ -16,7 +16,7 @@
     <div class="gallery-caption">Delicious Grapes</div>
   </a>
 
-  <a href="full/DentalHygieneMastersLesson12Copyrighted.jpg" class="gallery-item">
+  <a href="../full/DentalHygieneMastersLesson12Copyrighted.jpg" class="gallery-item">
     <img src="thumbnails/DentalHygieneMastersLesson12Copyrighted-thumb.jpg" alt="Dental Hygiene Masters Lesson 12">
     <div class="gallery-caption">Dental Hygiene Masters Lesson 12</div>
   </a>

@@ -6,13 +6,13 @@
 [Back to Images](/images/)  |  [Cartoons Home](/images/cartoons/)
 
 <div class="gallery-grid">
-  <a href="full/DeepThinkerCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/DeepThinkerCopyrighted-thumb.jpg" alt="Deep Thinker">
+  <a href="../full/DeepThinkerCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/DeepThinkerCopyrighted-thumb.jpg" alt="Deep Thinker">
     <div class="gallery-caption">Deep Thinker</div>
   </a>
 
   <a href="full/DeliciousGrapesCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/DeliciousGrapesCopyrighted-thumb.jpg" alt="Delicious Grapes">
+    <img src="../thumbnails/DeliciousGrapesCopyrighted-thumb.jpg" alt="Delicious Grapes">
     <div class="gallery-caption">Delicious Grapes</div>
   </a>
 

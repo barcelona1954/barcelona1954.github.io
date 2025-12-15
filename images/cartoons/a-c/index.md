@@ -6,13 +6,13 @@
 [Back to Images](/images/)  |  [Cartoons Home](/images/cartoons/)
 
 <div class="gallery-grid">
-  <a href="full/AmishTalkRadioCopyrighted.jpg" class="gallery-item">
+  <a href="../full/AmishTalkRadioCopyrighted.jpg" class="gallery-item">
     <img src="thumbnails/AmishTalkRadioCopyrighted-thumb.jpg" alt="Amish Talk Radio">
     <div class="gallery-caption">Amish Talk Radio</div>
   </a>
 
   <a href="full/BackScratchCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/BackScratchCopyrighted-thumb.jpg" alt="Back Scratch">
+    <img src=../"thumbnails/BackScratchCopyrighted-thumb.jpg" alt="Back Scratch">
     <div class="gallery-caption">Back Scratch</div>
   </a>
 
