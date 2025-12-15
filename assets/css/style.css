@@ -256,3 +256,14 @@ section {
   background-color: #f5f0e8;
 }
 
+.gallery-item {
+  text-decoration: none;
+}
+
+.gallery-caption {
+  margin-top: 0.4rem;
+  font-size: 0.95rem;
+  line-height: 1.2;
+}
+
+

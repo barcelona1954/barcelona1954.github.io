@@ -1,41 +1,14 @@
 <link rel="stylesheet" href="/assets/css/style.css">
 
-<header class="site-header">
-  <div class="site-title">Pretzelvision</div>
-  <div class="site-tagline">Surf covers, ink drawings, and words.</div>
-
-  <nav class="site-nav">
-    <a href="/">Home</a>
-    <a href="/audio/">Audio</a>
-    <a href="/images/">Images</a>
-    <a href="/writings/">Writings</a>
-  </nav>
-</header>
-
 # Cartoons
 
-Click a thumbnail to view the full-size image.
+Browse cartoons by title range:
 
-<div class="gallery-grid">
+- [0–9](/images/cartoons/0-9.md) (1)
+- [A–C](/images/cartoons/a-c.md) (26)
+- [D–H](/images/cartoons/d-h.md) (21)
+- [I–M](/images/cartoons/i-m.md) (18)
+- [N–S](/images/cartoons/n-s.md) (32)
+- [T–Z](/images/cartoons/t-z.md) (15)
 
-  <a href="full/3000MinutePhoneCallCopyrighted.jpg">
-    <img src="thumbnails/3000MinutePhoneCallCopyrighted-thumb.jpg"
-         alt="3000 Minute Phone Call Cartoon">
-  </a>
-
-  <a href="full/AmishTalkRadioCopyrighted.jpg">
-    <img src="thumbnails/AmishTalkRadioCopyrighted-thumb.jpg"
-         alt="Amish Talk Radio Cartoon">
-  </a>
-  
-  <a href="full/BackScratchCopyrighted.jpg">
-    <img src="thumbnails/BackScratchCopyrighted-thumb.jpg"
-         alt="3000 Minute Phone Call Cartoon">
-  </a>
-  
-  <a href="full/BackToTheBasicsCopyrighted.jpg">
-    <img src="thumbnails/BackToTheBasicsCopyrighted-thumb.jpg"
-         alt="3000 Minute Phone Call Cartoon">
-  </a>
-
-</div>
+[Back to Images](/images/)
