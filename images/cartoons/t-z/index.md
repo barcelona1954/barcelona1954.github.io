@@ -1,114 +1,85 @@
 <link rel="stylesheet" href="/assets/css/style.css">
 
 # Cartoons
-## D-H
+## T–Z
 
 [Back to Images](/images/)  |  [Cartoons Home](/images/cartoons/)
 
 <div class="gallery-grid">
-  <a href="full/DeepThinkerCopyrighted.jpg" class="gallery-item">
-    <img src="../thumbnails/DeepThinkerCopyrighted-thumb.jpg" alt="Deep Thinker">
-    <div class="gallery-caption">Deep Thinker</div>
+
+  <a href="../full/TeslasToughLoveCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/TeslasToughLoveCopyrighted-thumb.jpg" alt="Teslas Tough Love">
+    <div class="gallery-caption">Teslas Tough Love</div>
   </a>
 
-  <a href="full/DeliciousGrapesCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/DeliciousGrapesCopyrighted-thumb.jpg" alt="Delicious Grapes">
-    <div class="gallery-caption">Delicious Grapes</div>
+  <a href="../full/TheButlersCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/TheButlersCopyrighted-thumb.jpg" alt="The Butlers">
+    <div class="gallery-caption">The Butlers</div>
   </a>
 
-  <a href="../full/DentalHygieneMastersLesson12Copyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/DentalHygieneMastersLesson12Copyrighted-thumb.jpg" alt="Dental Hygiene Masters Lesson 12">
-    <div class="gallery-caption">Dental Hygiene Masters Lesson 12</div>
+  <a href="../full/TheJoyHeBringsCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/TheJoyHeBringsCopyrighted-thumb.jpg" alt="The Joy He Brings">
+    <div class="gallery-caption">The Joy He Brings</div>
   </a>
 
-  <a href="full/DentalHygieneMastersLesson19Copyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/DentalHygieneMastersLesson19Copyrighted-thumb.jpg" alt="Dental Hygiene Masters Lesson 19">
-    <div class="gallery-caption">Dental Hygiene Masters Lesson 19</div>
+  <a href="../full/ThisLittlePiggyCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/ThisLittlePiggyCopyrighted-thumb.jpg" alt="This Little Piggy">
+    <div class="gallery-caption">This Little Piggy</div>
   </a>
 
-  <a href="full/DentalHygieneMastersLesson38Copyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/DentalHygieneMastersLesson38Copyrighted-thumb.jpg" alt="Dental Hygiene Masters Lesson 38">
-    <div class="gallery-caption">Dental Hygiene Masters Lesson 38</div>
+  <a href="../full/ThreeBeanSoupCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/ThreeBeanSoupCopyrighted-thumb.jpg" alt="Three Bean Soup">
+    <div class="gallery-caption">Three Bean Soup</div>
   </a>
 
-  <a href="full/DinnerWithElrondCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/DinnerWithElrondCopyrighted-thumb.jpg" alt="Dinner With Elrond">
-    <div class="gallery-caption">Dinner With Elrond</div>
+  <a href="../full/ThrowMeABoneCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/ThrowMeABoneCopyrighted-thumb.jpg" alt="Throw Me A Bone">
+    <div class="gallery-caption">Throw Me A Bone</div>
   </a>
 
-  <a href="full/DodgeCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/DodgeCopyrighted-thumb.jpg" alt="Dodge">
-    <div class="gallery-caption">Dodge</div>
+  <a href="../full/TooMuchPressureCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/TooMuchPressureCopyrighted-thumb.jpg" alt="Too Much Pressure">
+    <div class="gallery-caption">Too Much Pressure</div>
   </a>
 
-  <a href="full/DontKnowWhatWereDoingCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/DontKnowWhatWereDoingCopyrighted-thumb.jpg" alt="Dont Know What Were Doing">
-    <div class="gallery-caption">Dont Know What Were Doing</div>
+  <a href="../full/TwiceViagraCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/TwiceViagraCopyrighted-thumb.jpg" alt="Twice Viagra">
+    <div class="gallery-caption">Twice Viagra</div>
   </a>
 
-  <a href="full/EdmundCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/EdmundCopyrighted-thumb.jpg" alt="Edmund">
-    <div class="gallery-caption">Edmund</div>
+  <a href="../full/UntrainedEyeCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/UntrainedEyeCopyrighted-thumb.jpg" alt="Untrained Eye">
+    <div class="gallery-caption">Untrained Eye</div>
   </a>
 
-  <a href="full/ElasticWaistCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/ElasticWaistCopyrighted-thumb.jpg" alt="Elastic Waist">
-    <div class="gallery-caption">Elastic Waist</div>
+  <a href="../full/VenetianBlindersCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/VenetianBlindersCopyrighted-thumb.jpg" alt="Venetian Blinders">
+    <div class="gallery-caption">Venetian Blinders</div>
   </a>
 
-  <a href="full/ElegantCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/ElegantCopyrighted-thumb.jpg" alt="Elegant">
-    <div class="gallery-caption">Elegant</div>
+  <a href="../full/WatchedByFreudCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/WatchedByFreudCopyrighted-thumb.jpg" alt="Watched By Freud">
+    <div class="gallery-caption">Watched By Freud</div>
   </a>
 
-  <a href="full/EmailGoingPostalCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/EmailGoingPostalCopyrighted-thumb.jpg" alt="Email Going Postal">
-    <div class="gallery-caption">Email Going Postal</div>
+  <a href="../full/WitchDoctorCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/WitchDoctorCopyrighted-thumb.jpg" alt="Witch Doctor">
+    <div class="gallery-caption">Witch Doctor</div>
   </a>
 
-  <a href="full/EndPavementWorkCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/EndPavementWorkCopyrighted-thumb.jpg" alt="End Pavement Work">
-    <div class="gallery-caption">End Pavement Work</div>
+  <a href="../full/WormInSystemCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/WormInSystemCopyrighted-thumb.jpg" alt="Worm In System">
+    <div class="gallery-caption">Worm In System</div>
   </a>
 
-  <a href="full/EyebrowCombOverCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/EyebrowCombOverCopyrighted-thumb.jpg" alt="Eyebrow Comb Over">
-    <div class="gallery-caption">Eyebrow Comb Over</div>
+  <a href="../full/WrestlingSchoolCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/WrestlingSchoolCopyrighted-thumb.jpg" alt="Wrestling School">
+    <div class="gallery-caption">Wrestling School</div>
   </a>
 
-  <a href="full/FalsifyAccountingRecordsCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/FalsifyAccountingRecordsCopyrighted-thumb.jpg" alt="Falsify Accounting Records">
-    <div class="gallery-caption">Falsify Accounting Records</div>
-  </a>
-
-  <a href="full/FertileMindCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/FertileMindCopyrighted-thumb.jpg" alt="Fertile Mind">
-    <div class="gallery-caption">Fertile Mind</div>
-  </a>
-
-  <a href="full/FlyFishingCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/FlyFishingCopyrighted-thumb.jpg" alt="Fly Fishing">
-    <div class="gallery-caption">Fly Fishing</div>
-  </a>
-
-  <a href="full/FreddyPickleCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/FreddyPickleCopyrighted-thumb.jpg" alt="Freddy Pickle">
-    <div class="gallery-caption">Freddy Pickle</div>
-  </a>
-
-  <a href="full/HellOnWheelsCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/HellOnWheelsCopyrighted-thumb.jpg" alt="Hell On Wheels">
-    <div class="gallery-caption">Hell On Wheels</div>
-  </a>
-
-  <a href="full/HolidayTeamworkCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/HolidayTeamworkCopyrighted-thumb.jpg" alt="Holiday Teamwork">
-    <div class="gallery-caption">Holiday Teamwork</div>
-  </a>
-
-  <a href="full/HurtALotCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/HurtALotCopyrighted-thumb.jpg" alt="Hurt A Lot">
-    <div class="gallery-caption">Hurt A Lot</div>
+  <a href="../full/WrongNumberCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/WrongNumberCopyrighted-thumb.jpg" alt="Wrong Number">
+    <div class="gallery-caption">Wrong Number</div>
   </a>
 
 </div>

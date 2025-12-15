@@ -1,114 +1,100 @@
 <link rel="stylesheet" href="/assets/css/style.css">
 
 # Cartoons
-## D-H
+## I–M
 
 [Back to Images](/images/)  |  [Cartoons Home](/images/cartoons/)
 
 <div class="gallery-grid">
-  <a href="../full/DeepThinkerCopyrighted.jpg" class="gallery-item">
-    <img src="../thumbnails/DeepThinkerCopyrighted-thumb.jpg" alt="Deep Thinker">
-    <div class="gallery-caption">Deep Thinker</div>
+
+  <a href="../full/ISayTomatoCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/ISayTomatoCopyrighted-thumb.jpg" alt="I Say Tomato">
+    <div class="gallery-caption">I Say Tomato</div>
   </a>
 
-  <a href="full/DeliciousGrapesCopyrighted.jpg" class="gallery-item">
-    <img src="../thumbnails/DeliciousGrapesCopyrighted-thumb.jpg" alt="Delicious Grapes">
-    <div class="gallery-caption">Delicious Grapes</div>
+  <a href="../full/JebediahStepsOutCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/JebediahStepsOutCopyrighted-thumb.jpg" alt="Jebediah Steps Out">
+    <div class="gallery-caption">Jebediah Steps Out</div>
   </a>
 
-  <a href="full/DentalHygieneMastersLesson12Copyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/DentalHygieneMastersLesson12Copyrighted-thumb.jpg" alt="Dental Hygiene Masters Lesson 12">
-    <div class="gallery-caption">Dental Hygiene Masters Lesson 12</div>
+  <a href="../full/JobCreationCelebrationCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/JobCreationCelebrationCopyrighted-thumb.jpg" alt="Job Creation Celebration">
+    <div class="gallery-caption">Job Creation Celebration</div>
   </a>
 
-  <a href="full/DentalHygieneMastersLesson19Copyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/DentalHygieneMastersLesson19Copyrighted-thumb.jpg" alt="Dental Hygiene Masters Lesson 19">
-    <div class="gallery-caption">Dental Hygiene Masters Lesson 19</div>
+  <a href="../full/JoneyGameFaceCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/JoneyGameFaceCopyrighted-thumb.jpg" alt="Joney Game Face">
+    <div class="gallery-caption">Joney Game Face</div>
   </a>
 
-  <a href="full/DentalHygieneMastersLesson38Copyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/DentalHygieneMastersLesson38Copyrighted-thumb.jpg" alt="Dental Hygiene Masters Lesson 38">
-    <div class="gallery-caption">Dental Hygiene Masters Lesson 38</div>
+  <a href="../full/JustALittlePinchCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/JustALittlePinchCopyrighted-thumb.jpg" alt="Just A Little Pinch">
+    <div class="gallery-caption">Just A Little Pinch</div>
   </a>
 
-  <a href="full/DinnerWithElrondCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/DinnerWithElrondCopyrighted-thumb.jpg" alt="Dinner With Elrond">
-    <div class="gallery-caption">Dinner With Elrond</div>
+  <a href="../full/KangarooCourtCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/KangarooCourtCopyrighted-thumb.jpg" alt="Kangaroo Court">
+    <div class="gallery-caption">Kangaroo Court</div>
   </a>
 
-  <a href="full/DodgeCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/DodgeCopyrighted-thumb.jpg" alt="Dodge">
-    <div class="gallery-caption">Dodge</div>
+  <a href="../full/LegalForceCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/LegalForceCopyrighted-thumb.jpg" alt="Legal Force">
+    <div class="gallery-caption">Legal Force</div>
   </a>
 
-  <a href="full/DontKnowWhatWereDoingCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/DontKnowWhatWereDoingCopyrighted-thumb.jpg" alt="Dont Know What Were Doing">
-    <div class="gallery-caption">Dont Know What Were Doing</div>
+  <a href="../full/LilJohnnyCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/LilJohnnyCopyrighted-thumb.jpg" alt="Lil Johnny">
+    <div class="gallery-caption">Lil Johnny</div>
   </a>
 
-  <a href="full/EdmundCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/EdmundCopyrighted-thumb.jpg" alt="Edmund">
-    <div class="gallery-caption">Edmund</div>
+  <a href="../full/LiveMannequinsCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/LiveMannequinsCopyrighted-thumb.jpg" alt="Live Mannequins">
+    <div class="gallery-caption">Live Mannequins</div>
   </a>
 
-  <a href="full/ElasticWaistCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/ElasticWaistCopyrighted-thumb.jpg" alt="Elastic Waist">
-    <div class="gallery-caption">Elastic Waist</div>
+  <a href="../full/LongDriveContestCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/LongDriveContestCopyrighted-thumb.jpg" alt="Long Drive Contest">
+    <div class="gallery-caption">Long Drive Contest</div>
   </a>
 
-  <a href="full/ElegantCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/ElegantCopyrighted-thumb.jpg" alt="Elegant">
-    <div class="gallery-caption">Elegant</div>
+  <a href="../full/LuciferCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/LuciferCopyrighted-thumb.jpg" alt="Lucifer">
+    <div class="gallery-caption">Lucifer</div>
   </a>
 
-  <a href="full/EmailGoingPostalCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/EmailGoingPostalCopyrighted-thumb.jpg" alt="Email Going Postal">
-    <div class="gallery-caption">Email Going Postal</div>
+  <a href="../full/MammothFossilBedCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/MammothFossilBedCopyrighted-thumb.jpg" alt="Mammoth Fossil Bed">
+    <div class="gallery-caption">Mammoth Fossil Bed</div>
   </a>
 
-  <a href="full/EndPavementWorkCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/EndPavementWorkCopyrighted-thumb.jpg" alt="End Pavement Work">
-    <div class="gallery-caption">End Pavement Work</div>
+  <a href="../full/ManglersBadChoicesCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/ManglersBadChoicesCopyrighted-thumb.jpg" alt="Manglers Bad Choices">
+    <div class="gallery-caption">Manglers Bad Choices</div>
   </a>
 
-  <a href="full/EyebrowCombOverCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/EyebrowCombOverCopyrighted-thumb.jpg" alt="Eyebrow Comb Over">
-    <div class="gallery-caption">Eyebrow Comb Over</div>
+  <a href="../full/MansBestFriendCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/MansBestFriendCopyrighted-thumb.jpg" alt="Mans Best Friend">
+    <div class="gallery-caption">Mans Best Friend</div>
   </a>
 
-  <a href="full/FalsifyAccountingRecordsCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/FalsifyAccountingRecordsCopyrighted-thumb.jpg" alt="Falsify Accounting Records">
-    <div class="gallery-caption">Falsify Accounting Records</div>
+  <a href="../full/MisterTabbysAccident.jpg" class="gallery-item">
+    <img src="../thumbnails/MisterTabbysAccident-thumb.jpg" alt="Mister Tabbys Accident">
+    <div class="gallery-caption">Mister Tabbys Accident</div>
   </a>
 
-  <a href="full/FertileMindCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/FertileMindCopyrighted-thumb.jpg" alt="Fertile Mind">
-    <div class="gallery-caption">Fertile Mind</div>
+  <a href="../full/ModelJewelryCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/ModelJewelryCopyrighted-thumb.jpg" alt="Model Jewelry">
+    <div class="gallery-caption">Model Jewelry</div>
   </a>
 
-  <a href="full/FlyFishingCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/FlyFishingCopyrighted-thumb.jpg" alt="Fly Fishing">
-    <div class="gallery-caption">Fly Fishing</div>
+  <a href="../full/MouthwashCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/MouthwashCopyrighted-thumb.jpg" alt="Mouthwash">
+    <div class="gallery-caption">Mouthwash</div>
   </a>
 
-  <a href="full/FreddyPickleCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/FreddyPickleCopyrighted-thumb.jpg" alt="Freddy Pickle">
-    <div class="gallery-caption">Freddy Pickle</div>
-  </a>
-
-  <a href="full/HellOnWheelsCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/HellOnWheelsCopyrighted-thumb.jpg" alt="Hell On Wheels">
-    <div class="gallery-caption">Hell On Wheels</div>
-  </a>
-
-  <a href="full/HolidayTeamworkCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/HolidayTeamworkCopyrighted-thumb.jpg" alt="Holiday Teamwork">
-    <div class="gallery-caption">Holiday Teamwork</div>
-  </a>
-
-  <a href="full/HurtALotCopyrighted.jpg" class="gallery-item">
-    <img src="thumbnails/HurtALotCopyrighted-thumb.jpg" alt="Hurt A Lot">
-    <div class="gallery-caption">Hurt A Lot</div>
+  <a href="../full/MultiplyingRabbitsCopyrighted.jpg" class="gallery-item">
+    <img src="../thumbnails/MultiplyingRabbitsCopyrighted-thumb.jpg" alt="Multiplying Rabbits">
+    <div class="gallery-caption">Multiplying Rabbits</div>
   </a>
 
 </div>
