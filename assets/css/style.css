@@ -266,4 +266,16 @@ section {
   line-height: 1.2;
 }
 
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 16px;
+  align-items: start;
+}
 
+.gallery-item img {
+  width: 100%;
+  max-width: 300px;   /* prevents upscaling beyond thumbnail size */
+  height: auto;
+  display: block;
+}
