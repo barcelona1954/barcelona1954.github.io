@@ -2,14 +2,19 @@
 
 # Cartoons
 
-Browse cartoons by title range:
+Browse cartoons alphabetically.
 
-- [0–9](/images/cartoons/0-9/)
-- [A–C](/images/cartoons/a-c/)
-- [D–H](/images/cartoons/d-h/)
-- [I–M](/images/cartoons/i-m/)
-- [N–S](/images/cartoons/n-s/)
-- [T–Z](/images/cartoons/t-z/)
+---
 
+## Galleries
 
-[Back to Images](/images/)
+- **[0–9](/images/cartoons/0-9/)**
+- **[A–C](/images/cartoons/a-c/)**
+- **[D–H](/images/cartoons/d-h/)**
+- **[I–M](/images/cartoons/i-m/)**
+- **[N–S](/images/cartoons/n-s/)**
+- **[T–Z](/images/cartoons/t-z/)**
+
+---
+
+[← Back to Images](/images/)
