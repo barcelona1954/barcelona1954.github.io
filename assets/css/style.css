@@ -279,3 +279,17 @@ section {
   height: auto;
   display: block;
 }
+
+/* Thumbnails: never upscale beyond their native size */
+.gallery-item img {
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 16px;
+  align-items: start;
+}
