@@ -2,18 +2,22 @@
 
 # Ink Drawings
 
-Click any thumbnail to view the full-size image.
+Browse ink drawings by year.
 
-<div class="gallery-grid">
+---
 
-  <a href="full/skull-original.jpg">
-    <img src="thumbnails/skull-original-thumb.jpg" alt="Skull drawing">
-  </a>
+## Years
 
-  <a href="full/sorry.jpg">
-    <img src="thumbnails/sorry-thumb.jpg" alt="Sorry drawing">
-  </a>
+- **[2019](/images/ink-drawings/2019/)**
+- **[2020](/images/ink-drawings/2020/)**
+- **[2021](/images/ink-drawings/2021/)**
+- **[2022](/images/ink-drawings/2022/)**
+- **[2023](/images/ink-drawings/2023/)**
+- **[2024](/images/ink-drawings/2024/)**
+- **[2025](/images/ink-drawings/2025/)**
+- **[2026](/images/ink-drawings/2026/)**
 
-  <!-- Add more drawings here using the same pattern -->
+---
 
-</div>
+[← Back to Images](/images/)
+
