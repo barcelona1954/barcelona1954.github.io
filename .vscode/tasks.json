@@ -1,0 +1,20 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Start local preview server",
+      "type": "shell",
+      "command": "python3 -m http.server 8080 --bind 0.0.0.0",
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "Stop local preview server",
+      "type": "shell",
+      "command": "lsof -ti :8080 | xargs -r kill"
+    }
+  ]
+}

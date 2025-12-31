@@ -3,7 +3,7 @@
 
 <header class="site-header">
   <div class="site-title">Pretzelvision</div>
-  <div class="site-tagline">Surf covers, ink drawings, and words.</div>
+  <div class="site-tagline">Cool instrumentals, ink drawings, cartoons, and writings.</div>
 
   <nav class="site-nav">
     <a href="/">Home</a>
@@ -26,7 +26,7 @@
     <div class="home-card">
       <h2>Audio Collections</h2>
       <p>
-        Stream surf-inspired covers and other band recordings.
+        Stream surf-inspired and spaghetti western covers.
         Albums are organized into simple playlists you can play straight from the page.
       </p>
       <p>
