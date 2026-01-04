@@ -1,3 +1,5 @@
+<meta name="robots" content="noindex, nofollow">
+
 <link rel="stylesheet" href="/assets/css/style.css">
 
 <header class="site-header">
@@ -31,5 +33,4 @@ I enjoy writing about the world around me and the world I've experienced. These 
   <p><a href="/">Return to top</a></p>
 </footer>
 
-  
 

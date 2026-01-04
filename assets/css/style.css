@@ -1,3 +1,20 @@
+/* ===== Under Construction Disclaimer ===== */
+
+body::before {
+  content: "🚧 PRETZELVISION — SITE UNDER CONSTRUCTION 🚧";
+  display: block;
+  text-align: center;
+  font-size: 14px;
+  letter-spacing: 0.08em;
+  padding: 10px 0;
+  background: #fff3cd;
+  color: #333;
+  border-bottom: 1px solid #e0d8a8;
+}
+
+
+
+
 /* ===== Global layout & typography ===== */
 
 body {

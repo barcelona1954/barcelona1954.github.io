@@ -13,6 +13,11 @@
 </header>
 
 
+<meta name="robots" content="noindex, nofollow">
+
+
+<meta name="robots" content="noindex, nofollow">
+
 # Audio Library
 
 Below is an album of cover songs by the Corpse Revivers. (Alan McClellan, lead guitar, Chuck Brenneman, rhythm guitar, Brian Smithey, bass and percussions). Tracks stream directly from the page, or you can select a specific track.

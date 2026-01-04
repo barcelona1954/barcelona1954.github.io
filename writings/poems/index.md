@@ -1,3 +1,7 @@
+
+
+<meta name="robots" content="noindex, nofollow">
+
 <link rel="stylesheet" href="/assets/css/style.css">
 
 # Poems

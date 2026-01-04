@@ -1,3 +1,5 @@
+<meta name="robots" content="noindex, nofollow">
+
 # Audio Library
 ## Albums
 ### Shake, Rattle, and Strain 
