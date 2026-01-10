@@ -10,10 +10,6 @@
 <!--
 Add one block per drawing, like this:
 
-<a href="../full/2026/YourFileName.jpg" class="gallery-item">
-  <img src="../thumbnails/2026/YourFileName-thumb.jpg" alt="Your Title">
-  <div class="gallery-caption">Your Title</div>
-</a>
--->
+<a href="../full/2026/2026-Drawings-001.jpg" class="gallery-item"><img src="../thumbnails/2026/2026-Drawings-001-thumb.jpg" alt="2025-Drawings-001"><div class="gallery-caption">2026-Drawings-001</div></a>
 
-</div>
+-->
