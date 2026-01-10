@@ -18,9 +18,9 @@
 <main>
   <section class="home-intro">
     <p>
-      Welcome to Pretzelvision — a small archive of guitar-driven cover tunes,
-      ink drawings, and occasional writings. Think of this as a working sketchbook
-      where audio, images, and notes slowly accumulate over time.
+      Welcome to Pretzelvision — an archive of guitar-driven cover tunes,
+      ink drawings, cartoons, and occasional writings. Think of this as a working sketchbook
+      where audio, images, and notes slowly accumulate over time. 
     </p>
   </section>
 
