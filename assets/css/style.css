@@ -179,6 +179,16 @@ section {
   color: #b14424;
 }
 
+
+
+.site-nav {
+  align-items: center;
+}
+
+.site-nav a, .site-nav .nav-disabled {
+  line-height: 1.2;
+}
+
 /* ===== Home page layout ===== */
 
 .home-intro {

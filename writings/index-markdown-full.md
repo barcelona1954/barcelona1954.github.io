@@ -14,14 +14,20 @@
   </nav>
 </header>
 
-<link rel="stylesheet" href="/assets/css/style.css">
 
-# Writings
+# Writing Collections
 
-🚧 Under construction.
+I enjoy writing about the world around me and the world I've experienced. These experiences take shape in reflective narratives and an occassional poem. Sometime I get serious and tackle and essay on a topic that occupies my mind. .
 
-Please check back soon.
+## Available Writings
 
+- [Poems](poems/index.md)
+
+- [Travel](travel/index.md)
+
+- [Reflections](reflections/index.md)
+
+  
 <footer class="site-footer">
   <p>© 2025 Pretzelvision. All content © respective creators.</p>
   <p><a href="/">Return to top</a></p>
