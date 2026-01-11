@@ -4,6 +4,19 @@
 
 <link rel="stylesheet" href="/assets/css/style.css">
 
+<header class="site-header">
+  <div class="site-title">Pretzelvision</div>
+  <div class="site-tagline">Surf covers, ink drawings, and words.</div>
+
+  <nav class="site-nav">
+    <a href="/">Home</a>
+    <span class="nav-disabled" title="Under construction">Audio</span>
+    <a href="/images/">Images</a>
+    <span class="nav-disabled" title="Under construction">Writings</span>
+  </nav>
+</header>
+
+
 # Cartoons
 ## T–Z
 
