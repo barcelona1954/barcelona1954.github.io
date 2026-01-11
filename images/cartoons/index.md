@@ -18,10 +18,10 @@ During the dot.com bust of the early 2000s, I was let go from my job in technolo
       loading="lazy"
     >
   </a>
-
   <div class="featured-caption">
-    Fat fingered that one. 
+    Wrong Number. (Fat fingered that one.) 
   </div>
+
 
 </section>
 
