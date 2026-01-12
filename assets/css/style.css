@@ -351,5 +351,20 @@ section {
   color: #333;
 }
 
- 
 
+
+ /* Thumbnails: clickable thumbnails feel clickable */
+
+.gallery-item {
+  text-decoration: none;
+}
+
+.gallery-item img {
+  cursor: pointer;
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+
+.gallery-item:hover img {
+  transform: scale(1.02);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.10);
+}
