@@ -25,6 +25,9 @@ During the dot.com bust of the early 2000s, I was let go from my job in technolo
   <div class="featured-caption">
     Wrong Number. (Fat fingered that one.) 
   </div>
+
+
+
 **Reader Notes**
 
 _Notes from readers will appear here._
