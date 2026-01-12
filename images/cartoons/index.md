@@ -9,9 +9,10 @@ During the dot.com bust of the early 2000s, I was let go from my job in technolo
 <link rel="stylesheet" href="/assets/css/style.css">
 
 # Featured Cartoon
+[For past featured cartoons, click here to see the archive.](/images/cartoons/featured/)
 
 <section class="featured-cartoon">
-  <div class="featured-label">Featured Cartoon of the Week</div>
+  <div class="featured-label">Featured Cartoon</div>
 <!--<Replace the PUT-FILE-NAME-HERE.jpg with cartoon of the week.-->
 <!--<a href="/images/cartoons/full/PUT-FILE-NAME-HERE.jpg"-->
     <a href="/images/cartoons/full/WrongNumberCopyrighted.jpg">
@@ -28,7 +29,7 @@ During the dot.com bust of the early 2000s, I was let go from my job in technolo
 
 </section>
 
-[See past featured cartoons](/images/cartoons/featured/)
+
 
 # Galleries
 
