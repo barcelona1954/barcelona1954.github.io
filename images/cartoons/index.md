@@ -50,5 +50,9 @@ _Notes from readers will appear here._
 
 Have a reaction to a cartoon? Email me at [pretzelvision@gmail.com](mailto:pretzelvision@gmail.com). Selected responses may be featured here.
 
+[View selected reader notes](/reader-notes/)
+
+
+
 [← Back to Images](/images/)
 
