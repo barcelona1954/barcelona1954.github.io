@@ -12,7 +12,7 @@ During the dot.com bust of the early 2000s, I was let go from my job in technolo
 <!--<Replace the PUT-FILE-NAME-HERE.jpg with cartoon of the week.-->
 <!--<a href="/images/cartoons/full/PUT-FILE-NAME-HERE.jpg"-->
     <a href="/images/cartoons/full/WrongNumberCopyrighted.jpg">
-    <img
+    <img 
       src="/images/cartoons/thumbnails/WrongNumberCopyrighted-thumb.jpg"
       alt="Featured cartoon"
       loading="lazy"
