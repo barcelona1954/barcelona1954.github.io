@@ -11,7 +11,7 @@
 Add one block per drawing, like this:
 
 <a href="../full/2024/2024-Drawings-001.jpg" class="gallery-item">
-  <img src="../thumbnails/2024/2024-Drawings-001-thumb.jpg" alt="2019 Drawings 001">
+  <img src="../thumbnails/2024/2024-Drawings-001-thumb.jpg" alt="2024 Drawings 001">
   <div class="gallery-caption">2024 Drawings 001</div>
 </a>
 -->
