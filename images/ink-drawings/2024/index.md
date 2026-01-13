@@ -9,15 +9,16 @@
 
 <!--
 Add one block per drawing, like this:
-
-<a href="../full/2024/2024-Drawings-001.jpg" class="gallery-item">
-  <img src="../thumbnails/2024/2024-Drawings-001-thumb.jpg" alt="2024 Drawings 001">
-  <div class="gallery-caption">2024 Drawings 001</div>
-</a>
 -->
 <a href="../full/2024/2024-Drawings-001.jpg" class="gallery-item"><img src="../thumbnails/2024/2024-Drawings-001-thumb.jpg" alt="2024-Drawings-001"><div class="gallery-caption">2024-Drawings-001</div></a>
+
 <a href="../full/2024/2024-Drawings-002.jpg" class="gallery-item"><img src="../thumbnails/2024/2024-Drawings-002-thumb.jpg" alt="2024-Drawings-002"><div class="gallery-caption">2024-Drawings-002</div></a>
-<a href="../full/2024/2024-Drawings-003.jpg" class="gallery-item"><img src="../thumbnails/2024/2024-Drawings-003-thumb.jpg" alt="2024-Drawings-003"><div class="gallery-caption">2024-Drawings-003</div></a>
+
+<a href="../full/2024/2024-Drawings-003.jpg" class="gallery-item">
+   <img src="../thumbnails/2024/2024-Drawings-003-thumb.jpg" alt="2024-Drawings-003">
+   <div class="gallery-caption">2024-Drawings-003</div>
+   </a>
+
 <a href="../full/2024/2024-Drawings-004.jpg" class="gallery-item"><img src="../thumbnails/2024/2024-Drawings-004-thumb.jpg" alt="2024-Drawings-004"><div class="gallery-caption">2024-Drawings-004</div></a>
 <a href="../full/2024/2024-Drawings-005.jpg" class="gallery-item"><img src="../thumbnails/2024/2024-Drawings-005-thumb.jpg" alt="2024-Drawings-005"><div class="gallery-caption">2024-Drawings-005</div></a>
 <a href="../full/2024/2024-Drawings-006.jpg" class="gallery-item"><img src="../thumbnails/2024/2024-Drawings-006-thumb.jpg" alt="2024-Drawings-006"><div class="gallery-caption">2024-Drawings-006</div></a>
