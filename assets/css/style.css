@@ -211,6 +211,19 @@ display: inline-flex;
   cursor: default;
 }
 
+/* Disabled content links on Home page */
+.content-disabled {
+  color: #777;
+  font-weight: 500;
+}
+
+.coming-soon {
+  font-size: 0.75em;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #8a7a63;
+}
+
 .nav-disabled::after {
   content: "Coming soon";
   font-size: 0.75em;

@@ -1,7 +1,6 @@
 <meta name="robots" content="noindex, nofollow">
 
 <link rel="stylesheet" href="/assets/css/style.css">
-<b> SITE UNDER CONSTRUCTION </b>
 
 <header class="site-header">
   <div class="site-title">Pretzelvision</div>
@@ -13,6 +12,7 @@
   <a href="/images/">Images</a>
   <span class="nav-disabled">Writings</span>
 </nav>
+
 
 </header>
 
@@ -28,15 +28,20 @@
   <section class="home-grid">
     <div class="home-card">
       <h2>Audio Collections</h2>
+<span class="content-disabled">Explore Audio Collections</span>  
+<span class="coming-soon">Coming soon</span>
+
+       <--
       <p>
         Stream surf-inspired and spaghetti western covers.
         Albums are organized into simple playlists you can play straight from the page.
-      </p>
+             </p>
+        -->
       <p>
         <a class="button-link" href="/audio/">Go to Audio</a>
       </p>
     </div>
-
+    
     <div class="home-card">
       <h2>Image Collections</h2>
       <p>
@@ -50,10 +55,14 @@
     
     <div class="home-card">
       <h2>Writing Collections</h2>
-      <p>
-        Short pieces, poems, reflections, and travel notes — a written complement
-        to the music and drawings.
-      </p>
+<span class="content-disabled">Explore Writing Collections</span>  
+<span class="coming-soon">Coming soon</span>
+      <--
+         <p>
+        Short pieces, poems, reflections, and travel notes — a written complement to the music and drawings.
+         </p>
+        -->
+      
       <p>
         <a class="button-link" href="/writings/">Go to Writings</a>
       </p>
