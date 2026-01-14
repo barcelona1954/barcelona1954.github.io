@@ -1,5 +1,11 @@
 /* ===== Under Construction Disclaimer ===== */
 
+/* 
+body::before {
+  ...
+}
+*/
+
 body::before {
   content: "🚧 Site under construction. Cartoons are LIVE!  🚧";
   display: block;
@@ -11,6 +17,8 @@ body::before {
   color: #333;
   border-bottom: 1px solid #e0d8a8;
 }
+
+*/
 
 
 /* ===== Global layout & typography ===== */
@@ -187,6 +195,28 @@ section {
 
 .site-nav a, .site-nav .nav-disabled {
   line-height: 1.2;
+
+display: inline-flex;
+
+}
+
+/* Disabled nav items: stacked "Coming soon" label */
+.nav-disabled {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.15rem;
+
+  color: #777;
+  cursor: default;
+}
+
+.nav-disabled::after {
+  content: "Coming soon";
+  font-size: 0.75em;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #8a7a63;
 }
 
 /* ===== Home page layout ===== */
