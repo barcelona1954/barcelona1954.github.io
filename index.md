@@ -26,33 +26,29 @@
 
   <section class="home-grid">
 
-    <div class="home-card">
-## Audio Collections
-<span class="content-disabled">Go to Audio</span>  
-<span class="coming-soon">Coming soon</span>
-
-
-
+<-- Audio button --> 
+   <div class="home-card">
 ​        <a class="button-link" href="/audio/">Go to Audio</a>
-​      
+    <span class="content-disabled">Go to Audio</span>  
+    <span class="coming-soon">Coming soon</span>    
 ​    </div>
 ​    
+<-- Art  button --> 
 ​    <div class="home-card">
-​      <h2>Image Collections</h2>
+​      <h2>Art Collections</h2>
 ​      <p>
-​        Browse my ink drawings, cartoons, and other visual experiments. Thumbnails open into ​        full-size images so you can see the line work more clearly.
+​        Browse my ink drawings, cartoons, and other visual experiments. Thumbnails open into   full-size images so you can see the line work more clearly.
 ​      </p>
 ​      <p>
-​        <a class="button-link" href="/images/">Go to Images</a>
+​        <a class="button-link" href="/images/">Go to Art</a>
 ​      </p>
 ​    </div>
-​    
+
+<-- Writings  button --> 
 ​    <div class="home-card">
-## Writing Collections
-<span class="content-disabled">Go to Writings</span>  
-<span class="coming-soon">Coming soon</span>
-​        <a class="button-link" href="/writings/">Go to Writings</a>
-​      </p>
+   <a class="button-link" href="/audio/">Go to Writings</a>
+   <span class="content-disabled">Go to Writings</span>  
+    <span class="coming-soon">Coming soon</span>
 ​    </div>
   </section>
 </main>
