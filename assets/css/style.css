@@ -225,47 +225,37 @@ display: inline-flex;
 }
 
 .home-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+  margin-top: 24px;
 }
 
 .home-card {
-  flex: 1 1 250px;
-  background: #ffffff;
-  border-radius: 10px;
-  padding: 1rem 1.1rem;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+  background: #fff;
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
 }
 
-.home-card h2 {
-  margin-top: 0;
-  margin-bottom: 0.4rem;
+.home-card.disabled {
+  opacity: 0.6;
 }
 
-.home-card p {
-  margin-bottom: 0.6rem;
-}
-
-/* Button-like link */
-
-.button-link {
+.primary-button {
   display: inline-block;
-  padding: 0.35rem 0.9rem;
+  margin-top: 12px;
+  padding: 10px 16px;
+  background: #1f4fbf;
+  color: white;
   border-radius: 999px;
-  background-color: #0056a3;
-  color: #ffffff;
   text-decoration: none;
-  border: none;
   font-size: 0.9rem;
 }
 
-.button-link:hover {
-  background-color: #b14424;
-  color: #ffffff;
-}
-
-/* Stack cards vertically on small screens */
+.primary-button:hover {
+  background: #183c93;
+}/* Stack cards vertically on small screens */
 @media (max-width: 640px) {
   .home-grid {
     flex-direction: column;
