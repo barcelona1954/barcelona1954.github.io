@@ -4,9 +4,7 @@ title: Pretzelvision
 
 # Welcome to Pretzelvision
 
-An archive of guitar-driven cover tunes, ink drawings, cartoons, and occasional writings.
-
-Think of this as a working sketchbook where audio, images, and notes slowly accumulate over time.
+An archive of instrumental n cover tunes, ink drawings, cartoons, and occasional writings. Think of this as a working sketchbook where audio, images, and notes slowly accumulate over time.
 
 <div class="home-grid">
 
