@@ -6,7 +6,7 @@
 
 <header class="site-header">
   <div class="site-title">Pretzelvision</div>
-  <div class="site-tagline">Cool instrumentals, ink drawings, cartoons, and writings.</div>
+  <div class="site-tagline">Cool instrumentals, ink drawings, cartoons, and writings, Yeah..</div>
 
 <nav class="site-nav">
   <a href="/">Home</a>
