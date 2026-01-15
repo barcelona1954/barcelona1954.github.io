@@ -1,52 +1,31 @@
-<meta name="robots" content="noindex, nofollow">
-<link rel="stylesheet" href="/assets/css/style.css">
-
-<header class="site-header">
-  <div class="site-title">Pretzelvision</div>
-  <div class="site-tagline">Cool instrumentals, ink drawings, cartoons, and writings, Yeah..</div>
-
-<nav class="site-nav">
-  <a href="/">Home</a>
-  <span class="nav-disabled">Audio</span>
-  <a href="/images/">Images</a>
-  <span class="nav-disabled">Writings</span>
-</nav>
-
-
+---
+title: Pretzelvision
+---
 
 # Welcome to Pretzelvision
 
-An archive of guitar-driven cover tunes, ink drawings, cartoons, and occasional writings. Think of this as a working sketchbook where audio, images, and notes slowly accumulate over time.
+An archive of guitar-driven cover tunes, ink drawings, cartoons, and occasional writings.
 
----
+Think of this as a working sketchbook where audio, images, and notes slowly accumulate over time.
 
-## Image Collections
+<div class="home-grid">
 
-Browse my ink drawings and cartoons.
+  <div class="home-card">
+    <h2>Image Collections</h2>
+    <p>Browse my ink drawings and cartoons.</p>
+    <a class="primary-button" href="/images/">Go to Images</a>
+  </div>
 
-[Go to Images](/images/)
+  <div class="home-card disabled">
+    <h2>Audio Collections</h2>
+    <p>Cool instrumentals and cover tunes.</p>
+    <div class="coming-soon">Coming soon</div>
+  </div>
 
----
+  <div class="home-card disabled">
+    <h2>Writing Collections</h2>
+    <p>Notes, sketches, and short writing.</p>
+    <div class="coming-soon">Coming soon</div>
+  </div>
 
-## Audio Collections
-
-<span class="content-disabled">Audio collections</span>  
-<span class="coming-soon">Coming soon</span>
-
----
-
-## Writing Collections
-
-<span class="content-disabled">Writing collections</span>  
-<span class="coming-soon">Coming soon</span>
-
-
-
-
-
-<footer class="site-footer">  
-    <p>© 2025 Pretzelvision. All content © respective creators.</p>  
-    <p><a href="/">Return to top</a></p>
-</footer>
-  © 2025 Pretzelvision. All content © respective creators.
-  Return to top
+</div>
