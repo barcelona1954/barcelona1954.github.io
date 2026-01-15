@@ -1,3 +1,5 @@
+<!-- DEPLOY TEST 2026-01-14 -->
+
 <meta name="robots" content="noindex, nofollow">
 
 <link rel="stylesheet" href="/assets/css/style.css">
@@ -46,13 +48,13 @@
 ​      </p>
 ​    </div>
 ​    
-    <div class="home-card">
-      <h2>Writing Collections</h2>
+​    <div class="home-card">
+​      <h2>Writing Collections</h2>
 <span class="content-disabled">Explore Writing Collections</span>  
 <span class="coming-soon">Coming soon</span>
-        <a class="button-link" href="/writings/">Go to Writings</a>
-      </p>
-    </div>
+​        <a class="button-link" href="/writings/">Go to Writings</a>
+​      </p>
+​    </div>
   </section>
 </main>
 
