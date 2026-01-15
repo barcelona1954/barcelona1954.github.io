@@ -23,7 +23,7 @@
   </section>
 
   <section class="home-grid">
-  
+
     <div class="home-card">
       <h2>Audio Collections</h2>
 <span class="content-disabled">Explore Audio Collections</span>  
@@ -36,23 +36,20 @@
 ​      
 ​    </div>
 ​    
-    <div class="home-card">
-      <h2>Image Collections</h2>
-      <p>
-        Browse ink drawings and other visual experiments. Thumbnails open into
-        full-size images so you can see the line work more clearly.
-      </p>
-      <p>
-        <a class="button-link" href="/images/">Go to Images</a>
-      </p>
-    </div>
-    
+​    <div class="home-card">
+​      <h2>Image Collections</h2>
+​      <p>
+​        Browse my ink drawings, cartoons, and other visual experiments. Thumbnails open into ​        full-size images so you can see the line work more clearly.
+​      </p>
+​      <p>
+​        <a class="button-link" href="/images/">Go to Images</a>
+​      </p>
+​    </div>
+​    
     <div class="home-card">
       <h2>Writing Collections</h2>
 <span class="content-disabled">Explore Writing Collections</span>  
 <span class="coming-soon">Coming soon</span>
-
-
         <a class="button-link" href="/writings/">Go to Writings</a>
       </p>
     </div>
