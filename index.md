@@ -18,14 +18,12 @@
 
 <main>
   <section class="home-intro">
-    <p>
-      Welcome to Pretzelvision — an archive of guitar-driven cover tunes,
-      ink drawings, cartoons, and occasional writings. Think of this as a working sketchbook
-      where audio, images, and notes slowly accumulate over time. 
+    <p>  Welcome to Pretzelvision — an archive of guitar-driven cover tunes, ink drawings, cartoons, and occasional writings. Think of this as a working sketchbook where audio, images, and notes slowly accumulate over time. 
     </p>
   </section>
 
   <section class="home-grid">
+  
     <div class="home-card">
       <h2>Audio Collections</h2>
 <span class="content-disabled">Explore Audio Collections</span>  
@@ -33,11 +31,11 @@
 
 ​      
 ​        
-      <p>
-        <a class="button-link" href="/audio/">Go to Audio</a>
-      </p>
-    </div>
-    
+​      
+​        <a class="button-link" href="/audio/">Go to Audio</a>
+​      
+​    </div>
+​    
     <div class="home-card">
       <h2>Image Collections</h2>
       <p>
