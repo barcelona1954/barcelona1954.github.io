@@ -37,6 +37,7 @@
         Albums are organized into simple playlists you can play straight from the page.
              </p>
         -->
+        
       <p>
         <a class="button-link" href="/audio/">Go to Audio</a>
       </p>
@@ -57,6 +58,7 @@
       <h2>Writing Collections</h2>
 <span class="content-disabled">Explore Writing Collections</span>  
 <span class="coming-soon">Coming soon</span>
+
       <--
          <p>
         Short pieces, poems, reflections, and travel notes — a written complement to the music and drawings.
