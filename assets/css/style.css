@@ -272,6 +272,18 @@ p {
   max-width: none;
 }
 
+/* Hover emphasis for live homepage cards only */
+
+.home-card.live {
+  transition: transform 0.12s ease, box-shadow 0.12s ease, border-color 0.12s ease;
+}
+
+.home-card.live:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px rgba(0,0,0,0.10);
+  border-color: rgba(31,79,191,0.25);
+}
+
 .home-card.disabled {
   opacity: 0.62;
 }
@@ -294,6 +306,34 @@ p {
 
 .primary-button:hover {
   background: #183c93;
+}
+
+/* Homepage featured teaser */
+.home-teaser {
+  margin: 18px 0 6px;
+  padding: 14px 16px;
+  border-radius: 12px;
+  background: #faf7f2;
+  border: 1px solid rgba(0,0,0,0.06);
+  max-width: 720px;
+}
+
+.teaser-label {
+  font-size: 0.75em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #8a7a63;
+  margin-bottom: 4px;
+}
+
+.teaser-title a {
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.teaser-subtitle {
+  margin-top: 2px;
+  color: #555;
 }
 
 }

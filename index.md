@@ -6,11 +6,19 @@ title: Pretzelvision
 
 An archive of instrumental cover tunes, ink drawings, cartoons, and occasional writings. Think of this as a working sketchbook where audio, images, and notes slowly accumulate over time.
 
+<div class="home-teaser">
+  <div class="teaser-label">Featured</div>
+  <div class="teaser-title">
+    <a href="/images/cartoons/">Cartoon of the Week</a>
+  </div>
+  <div class="teaser-subtitle">A rotating pick from the cartoons archive.</div>
+</div>
+
 <div class="home-grid">
 
-  <div class="home-card">
+  <div class="home-card-live">
     <h2>Image Collections</h2>
-    <p>Browse my ink drawings and cartoons.</p>
+    <p>Browse my cartoons and ink drawings.</p>
     <a class="primary-button" href="/images/">Go to Images</a>
   </div>
 
@@ -34,4 +42,3 @@ An archive of instrumental cover tunes, ink drawings, cartoons, and occasional w
   <p>© 2025 Pretzelvision. All content © respective creators.</p>
   <p><a href="/">Return to top</a></p>
 </footer>
-
