@@ -31,12 +31,7 @@
 <span class="content-disabled">Explore Audio Collections</span>  
 <span class="coming-soon">Coming soon</span>
 
-       <--
-      <p>
-        Stream surf-inspired and spaghetti western covers.
-        Albums are organized into simple playlists you can play straight from the page.
-             </p>
-        -->
+      
         
       <p>
         <a class="button-link" href="/audio/">Go to Audio</a>
@@ -59,13 +54,7 @@
 <span class="content-disabled">Explore Writing Collections</span>  
 <span class="coming-soon">Coming soon</span>
 
-      <--
-         <p>
-        Short pieces, poems, reflections, and travel notes — a written complement to the music and drawings.
-         </p>
-        -->
       
-      <p>
         <a class="button-link" href="/writings/">Go to Writings</a>
       </p>
     </div>
