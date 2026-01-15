@@ -27,13 +27,12 @@
   <section class="home-grid">
 
     <div class="home-card">
-      <h2>Audio Collections</h2>
-<span class="content-disabled">Explore Audio Collections</span>  
+## Audio Collections
+<span class="content-disabled">Go to Audio</span>  
 <span class="coming-soon">Coming soon</span>
 
-​      
-​        
-​      
+
+
 ​        <a class="button-link" href="/audio/">Go to Audio</a>
 ​      
 ​    </div>
@@ -49,8 +48,8 @@
 ​    </div>
 ​    
 ​    <div class="home-card">
-​      <h2>Writing Collections</h2>
-<span class="content-disabled">Explore Writing Collections</span>  
+## Writing Collections
+<span class="content-disabled">Go to Writings</span>  
 <span class="coming-soon">Coming soon</span>
 ​        <a class="button-link" href="/writings/">Go to Writings</a>
 ​      </p>
