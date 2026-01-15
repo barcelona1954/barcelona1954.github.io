@@ -4,7 +4,7 @@
 body::before {
   ...
 }
-*/
+*/ ==================
 
 body::before {
   content: "🚧 Site under construction. Cartoons are LIVE!  🚧";
@@ -18,7 +18,7 @@ body::before {
   border-bottom: 1px solid #e0d8a8;
 }
 
-*/
+===================== */
 
 
 /* ===== Global layout & typography ===== */
