@@ -31,8 +31,8 @@
 <span class="content-disabled">Explore Audio Collections</span>  
 <span class="coming-soon">Coming soon</span>
 
-      
-        
+​      
+​        
       <p>
         <a class="button-link" href="/audio/">Go to Audio</a>
       </p>
@@ -54,7 +54,7 @@
 <span class="content-disabled">Explore Writing Collections</span>  
 <span class="coming-soon">Coming soon</span>
 
-      
+
         <a class="button-link" href="/writings/">Go to Writings</a>
       </p>
     </div>
