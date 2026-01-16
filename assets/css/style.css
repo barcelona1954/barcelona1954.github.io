@@ -390,10 +390,11 @@ p {
 
 }
 
-/* Featured cartoon hero */
+/* Featured cartoon */
+
 .featured-cartoon {
   max-width: 900px;
-  margin: 2rem auto 3rem auto;
+  margin: 2.5rem auto;
   padding: 1.25rem;
   background: #faf7f2;
   border: 1px solid #e4dccf;
@@ -402,18 +403,18 @@ p {
 }
 
 .featured-cartoon img {
+  display: block;
+  margin: 0 auto;
   max-width: 100%;
   height: auto;
   border-radius: 8px;
   box-shadow: 0 10px 22px rgba(0,0,0,0.12);
 }
 
-.featured-cartoon .featured-label {
-  font-size: 0.8rem;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: #8a7a63;
-  margin-bottom: 0.5rem;
+.featured-caption {
+  margin-top: 0.75rem;
+  font-size: 1rem;
+  color: #333;
 }
 
 .featured-cartoon .featured-caption {

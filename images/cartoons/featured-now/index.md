@@ -8,10 +8,18 @@
   </nav>
 
 
-# Featured Cartoon
+# Featured  <img
+    src="../full/WrongNumberCopyrighted.jpg"
+    alt="Wrong Number cartoon"
+    loading="lazy"
+  />
 
-![](../full/WrongNumberCopyrighted.jpg)
 
+
+
+</section>
+
+  
 
 
   [Back to Cartoons](/images/cartoons/) | [Featured Archive](/images/cartoons/featured/)

@@ -9,12 +9,13 @@
   An archive of instrumental cover tunes, ink drawings, cartoons, and occasional writings. Think of this as a working sketchbook where audio, images, and notes slowly accumulate over time.
 </p>
 <div class="home-teaser">
-  <div class="teaser-label">Featured</div>
+  <div class="teaser-label">Featured Work</div>
   <div class="teaser-title">
-    <a href="/images/cartoons/featured-now/">Feature Now...</a>
+    <a href="/images/cartoons/featured-now/">Featuring Now...</a>
   </div>
   <div class="teaser-subtitle">A rotating pick from the my portfolio.</div>
 </div>
+
 
 
 <div class="home-grid">
