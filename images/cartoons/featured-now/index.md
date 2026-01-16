@@ -8,16 +8,13 @@
   </nav>
 
 
-# Featured  <img
-    src="../full/WrongNumberCopyrighted.jpg"
+# Featured  
+
+    <img  src="../full/WrongNumberCopyrighted.jpg"
     alt="Wrong Number cartoon"
     loading="lazy"
-  />
-
-
-
-
-</section>
+    />
+    </section
 
   
 
