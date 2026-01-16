@@ -10,7 +10,7 @@
   # Featured Cartoon
 
   <a href="/images/cartoons/full/WrongNumberCopyrighted.jpg">
-    <img src="/images/cartoons/thumbnails/WrongNumberCopyrighted-thumb.jpg" alt="Wrong Number" loading="lazy">
+    <img src="/images/cartoons/full/WrongNumberCopyrighted-thumb.jpg" alt="Wrong Number" loading="lazy">
   </a>
 
   **Wrong Number**
