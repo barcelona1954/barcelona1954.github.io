@@ -15,10 +15,9 @@ An archive of instrumental cover tunes, ink drawings, cartoons, and occasional w
 </div>
 
 <div class="home-grid">
-
-  <div class="home-card-live">
+ <div class="home-card live">
     <h2>Image Collections</h2>
-    <p>Browse my cartoons and ink drawings.</p>
+    <p>Browse cartoons (live now) and ink drawings (coming soon).</p>
     <a class="primary-button" href="/images/">Go to Images</a>
   </div>
 
@@ -33,8 +32,9 @@ An archive of instrumental cover tunes, ink drawings, cartoons, and occasional w
     <p>Notes, sketches, and short writing.</p>
     <div class="coming-soon">Coming soon</div>
   </div>
+  </div>
 
-</div>
+
 
 
 
