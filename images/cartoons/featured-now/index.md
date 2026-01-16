@@ -7,9 +7,11 @@
     <span class="nav-disabled" title="Coming soon">Writings</span>
   </nav>
 
-  # Featured Cartoon
+
+# Featured Cartoon
 
 ![](../full/WrongNumberCopyrighted.jpg)
+
 
 
   [Back to Cartoons](/images/cartoons/) | [Featured Archive](/images/cartoons/featured/)
