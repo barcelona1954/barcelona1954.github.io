@@ -1,5 +1,9 @@
+
+<link rel="stylesheet" href="/assets/css/style.css">
+
 ---
 title: Pretzelvision
+
 ---
 
 <div id="top"></div>
