@@ -19,8 +19,6 @@ body {
 
 /* Make headings feel like a clean portfolio / notebook */
 
-/* Make headings feel like a clean portfolio / notebook */
-
 h1, h2, h3, h4 {
   font-weight: 600;
   margin-top: 1.6rem;
@@ -78,7 +76,11 @@ img {
   border-radius: 4px;
 }
 
+
+
 /* Later we can add a specific class like .art-thumb if needed */
+
+
 
 /* ===== Audio player & playlist styling ===== */
 
@@ -116,6 +118,8 @@ audio {
   background-color: rgba(177, 68, 36, 0.06);
 }
 
+
+
 /* ===== Section spacing ===== */
 
 section {
@@ -130,6 +134,8 @@ section {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
   margin-bottom: 1.5rem;
 }
+
+
 
 /* ===== Site header & navigation ===== */
 
@@ -176,8 +182,6 @@ section {
   color: #b14424;
 }
 
-
-
 .site-nav {
   align-items: center;
 }
@@ -187,7 +191,10 @@ section {
   line-height: 1.2;
 }
 
+
+
 /* Disabled nav items: stacked "Coming soon" label */
+
 .nav-disabled {
   display: inline-flex;
   flex-direction: column;
@@ -197,6 +204,8 @@ section {
   color: #777;
   cursor: default;
 }
+
+
 
 /* Disabled content links on Home page */
 .content-disabled {
@@ -221,12 +230,16 @@ section {
   color: #8a7a63;
 }
 
+
+
 /*==== Global page container==== */
 .page {
   max-width: 1100px;
   margin: 0 auto;
   padding: 28px 24px 40px;
 }
+
+
 
 /* ===== Home page layout ===== */
 
@@ -258,6 +271,8 @@ section {
   margin: 0 0 0.9rem;
   max-width: none;
 }
+
+
 
 /* Hover emphasis for live homepage cards only */
 
@@ -295,6 +310,8 @@ section {
   background: #183c93;
 }
 
+
+
 /* Homepage featured teaser */
 .home-teaser {
   margin: 18px 0 6px;
@@ -323,12 +340,16 @@ section {
   color: #555;
 }
 
+
+
  /* Optimize for layout on mobile devices */
 
 @media (max-width: 480px) {
   .page { padding: 18px 14px 28px; }
   h1 { font-size: 1.8rem; }
 }
+
+
 
 /* ===== Footer ===== */
 
@@ -350,6 +371,8 @@ section {
   color: #b14424;
   border-bottom-color: rgba(177, 68, 36, 0.6);
 }
+
+
 
 /* ===== Image galleries ===== */
 
@@ -386,8 +409,6 @@ section {
   margin-top: 0.4rem;
   font-size: 0.95rem;
   line-height: 1.2;
-}
-
 }
 
 /* Featured cartoon */
