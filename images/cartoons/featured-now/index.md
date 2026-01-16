@@ -1,4 +1,4 @@
-- <link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="/assets/css/style.css">
 
   <nav class="site-nav">
     <a href="/">Home</a>
@@ -9,10 +9,7 @@
 
   # Featured Cartoon
 
-  <a href="/images/cartoons/full/WrongNumberCopyrighted.jpg">
-    <img src="/images/cartoons/full/WrongNumberCopyrighted-thumb.jpg" alt="Wrong Number" loading="lazy">
-  </a>
+![](../full/WrongNumberCopyrighted.jpg)
 
-  **Wrong Number**
 
   [Back to Cartoons](/images/cartoons/) | [Featured Archive](/images/cartoons/featured/)
