@@ -19,6 +19,8 @@ body {
 
 /* Make headings feel like a clean portfolio / notebook */
 
+/* Make headings feel like a clean portfolio / notebook */
+
 h1, h2, h3, h4 {
   font-weight: 600;
   margin-top: 1.6rem;
@@ -39,11 +41,14 @@ h3 {
   font-size: 1.2rem;
 }
 
-/* Paragraph spacing */
+/* Paragraph spacing & measure */
 
 p {
   margin: 0.4rem 0 0.9rem;
+  max-width: 70ch;
 }
+
+
 
 /* Links: subtle but clear */
 
@@ -221,18 +226,6 @@ section {
   max-width: 1100px;
   margin: 0 auto;
   padding: 28px 24px 40px;
-}
-
-/* ====Typography baseline ==== */
-
-h1 {
-  font-size: 2.2rem;
-  margin: 0.2rem 0 0.6rem;
-}
-
-p {
-  margin: 0 0 1rem;
-  max-width: 70ch;
 }
 
 /* ===== Home page layout ===== */
