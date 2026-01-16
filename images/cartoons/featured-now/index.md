@@ -9,13 +9,13 @@
 
 
 # Featured  
-   <section 
+   <section>
     <img  
       src="/images/cartoons/full/WrongNumberCopyrighted.jpg"
       alt="Wrong Number cartoon"
       loading="lazy"
     />
-    </section
+    </section>
 
 
 
