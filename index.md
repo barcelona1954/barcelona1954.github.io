@@ -9,10 +9,11 @@ An archive of instrumental cover tunes, ink drawings, cartoons, and occasional w
 <div class="home-teaser">
   <div class="teaser-label">Featured</div>
   <div class="teaser-title">
-    <a href="/images/cartoons/featured-this-week/">Cartoon of the Week</a>
+    <a href="/images/cartoons/featured-now/">Cartoon of the Week</a>
   </div>
   <div class="teaser-subtitle">A rotating pick from the cartoons archive.</div>
 </div>
+
 
 <div class="home-grid">
  <div class="home-card live">
