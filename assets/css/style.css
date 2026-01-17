@@ -1,3 +1,7 @@
+/* ===== Canary Rule to confirm css is active ===== */
+
+html { scroll-behavior: smooth; }
+
 /* ===== Under Construction Disclaimer ===== */
 
 /*
