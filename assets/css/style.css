@@ -411,6 +411,8 @@ section {
   line-height: 1.2;
 }
 
+
+
 /* Featured cartoon */
 
 .featured-cartoon {
@@ -433,12 +435,6 @@ section {
 }
 
 .featured-caption {
-  margin-top: 0.75rem;
-  font-size: 1rem;
-  color: #333;
-}
-
-.featured-cartoon .featured-caption {
   margin-top: 0.75rem;
   font-size: 1rem;
   color: #333;
