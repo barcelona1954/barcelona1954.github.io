@@ -3,8 +3,9 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{{ page.title | default: site.title | default: "Pretzelvision" }}</title>
-
+    <title>
+  {% if page.title %}{{ page.title }} | {% endif %}{{ site.title | default: "Pretzelvision" }}
+</title>
     <!-- Your site CSS -->
     <link rel="stylesheet" href="/assets/css/style.css" />
   </head>
@@ -13,4 +14,4 @@
       {{ content }}
     </main>
   </body>
-</html>
+</html>
