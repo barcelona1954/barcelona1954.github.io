@@ -7,6 +7,7 @@
   <span class="nav-disabled">Writings</span>
 </nav>
 
+<!-- RELEASE: public -->
 
 
 # Ink Drawings
@@ -16,14 +17,7 @@
 
 <div class="gallery-grid">
 
-<!--
-Add one block per drawing, like this:
 
-<a href="../full/2019/2019-Drawings-001.jpg" class="gallery-item">
-  <img loading="lazy" src="../thumbnails/2019/2019-Drawings-001-thumb.jpg" alt="2019 Drawings 001">
-  <div class="gallery-caption">2019 Drawings 001</div>
-</a>
--->
 
 <a href="../full/2019/2019-Drawings-001.jpg" class="gallery-item"><img loading="lazy" src="../thumbnails/2019/2019-Drawings-001-thumb.jpg" alt="2019-Drawings-001"><div class="gallery-caption">2019-Drawings-001</div></a>
 <a href="../full/2019/2019-Drawings-002.jpg" class="gallery-item"><img loading="lazy" src="../thumbnails/2019/2019-Drawings-002-thumb.jpg" alt="2019-Drawings-002"><div class="gallery-caption">2019-Drawings-002</div></a>
