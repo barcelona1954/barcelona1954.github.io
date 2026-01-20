@@ -1,8 +1,11 @@
 <!doctype html>
 <html lang="en">
   <head>
-  <!-- Temporary for Google search -->
-    <meta name="robots" content="noindex, nofollow"> 
+  <!-- Temporary for Global noindexing by Google search -->
+  
+  {% assign robots_value = page.robots | default: "noindex, nofollow" %}
+<meta name="robots" content="{{ robots_value }}">
+
    <!-  End temporary for Google search -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
