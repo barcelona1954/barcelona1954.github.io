@@ -20,7 +20,7 @@ Background coming soon....
 <section class="featured-cartoon" id="featured">
 
   <div class="featured-label">Featured Drawing</div>
-   <a href="/images/ink-drawings/full/2019-Drawings.jpg">
+   <a href="/">
   
 <section class="featured-cartoon" id="featured">
 
@@ -29,7 +29,7 @@ Background coming soon....
 
     <a href="/images/ink-drawings/full/2019/2019-Drawings-013.jpg">
     <img 
-      src="/images/ink-drawings/thumbnails/2019-Drawings-013.jpg"
+      src="/images/ink-drawings/thumbnails/2019-Drawings-013-thumb.jpg"
       alt="Featured drawing"
       loading="lazy"
     >
