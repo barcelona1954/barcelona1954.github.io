@@ -18,10 +18,15 @@
 <div class="gallery-grid">
 
 
-<a href="../full/2020/2020-Drawings-001.jpg" class="gallery-item">
-  <img loading="lazy" src="../thumbnails/2020/2020-Drawings-001-thumb.jpg" alt="001 – Fish">
+<a href="../full/2020/2020-Drawings-001.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 001 – Fish">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-001-thumb.jpg"
+       alt="001 – Fish">
   <div class="gallery-caption">001 – Fish</div>
 </a>
+
 
 <a href="../full/2020/2020-Drawings-002.jpg" class="gallery-item">
   <img loading="lazy" src="../thumbnails/2020/2020-Drawings-002-thumb.jpg" alt="002 – Wisp">
