@@ -17,15 +17,9 @@ Background coming soon....
 # Featured Cartoon
 [For past featured drawings, click here to see the archive.](/images/ink-drawings/featured/)
 
-<section class="featured-cartoon" id="featured">
+<section class="featured-art" id="featured">
 
   <div class="featured-label">Featured Drawing</div>
-   <a href="/">
-  
-<section class="featured-cartoon" id="featured">
-
-
-  <div class="featured-label">Featured Cartoon</div>
 
     <a href="/images/ink-drawings/full/2019/2019-Drawings-013.jpg">
     <img 

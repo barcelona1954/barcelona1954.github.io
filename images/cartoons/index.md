@@ -19,7 +19,7 @@ During the dot.com bust of the early 2000s, I was let go from my job in technolo
 # Featured Cartoon
 [For past featured cartoons, click here to see the archive.](/images/cartoons/featured/)
 
-<section class="featured-cartoon" id="featured">
+<section class="featured-art" id="featured">
 
   <div class="featured-label">Featured Cartoon</div>
 
