@@ -22,8 +22,7 @@ During the dot.com bust of the early 2000s, I was let go from my job in technolo
 <section class="featured-cartoon" id="featured">
 
   <div class="featured-label">Featured Cartoon</div>
-<!--<Replace the PUT-FILE-NAME-HERE.jpg with cartoon of the week.-->
-<!--<a href="/images/cartoons/full/PUT-FILE-NAME-HERE.jpg"-->
+
     <a href="/images/cartoons/full/WrongNumberCopyrighted.jpg">
     <img 
       src="/images/cartoons/thumbnails/WrongNumberCopyrighted-thumb.jpg"
