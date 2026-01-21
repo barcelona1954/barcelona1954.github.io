@@ -17,14 +17,7 @@
 
 <div class="gallery-grid">
 
-<!--
-Add one block per drawing, like this:
-<a href="../full/2021/2021-Drawings-001.jpg" class="gallery-item">
-  <img loading="lazy" src="../thumbnails/2021/2021-Drawings-001-thumb.jpg" alt="2021 Drawings 001">
-  <div class="gallery-caption">2021 Drawings 001</div>
-</a>
 
--->
 <a href="../full/2021/2021-Drawings-001.jpg" class="gallery-item"><img loading="lazy" src="../thumbnails/2021/2021-Drawings-001-thumb.jpg" alt="2021-Drawings-001"><div class="gallery-caption">2021-Drawings-001</div></a>
 <a href="../full/2021/2021-Drawings-002.jpg" class="gallery-item"><img loading="lazy" src="../thumbnails/2021/2021-Drawings-002-thumb.jpg" alt="2021-Drawings-002"><div class="gallery-caption">2021-Drawings-002</div></a>
 <a href="../full/2021/2021-Drawings-003.jpg" class="gallery-item"><img loading="lazy" src="../thumbnails/2021/2021-Drawings-003-thumb.jpg" alt="2021-Drawings-003"><div class="gallery-caption">2021-Drawings-003</div></a>
