@@ -21,16 +21,24 @@ Background coming soon....
 
   <div class="featured-label">Featured Drawing</div>
    <a href="/images/ink-drawings/full/2019-Drawings.jpg">
+  
+<section class="featured-cartoon" id="featured">
+
+
+  <div class="featured-label">Featured Cartoon</div>
+
+    <a href="/images/ink-drawings/full/2019/2019-Drawings-013.jpg">
     <img 
-      src="/images/ink-drawings/thumbnails/2019-Drawings-013-thumb.jpg"
+      src="/images/ink-drawings/thumbnails/2019-Drawings-013.jpg"
       alt="Featured drawing"
       loading="lazy"
     >
-  </a>
-  <div class="featured-caption">
-    Launch
-  </div>
 
+  </a>
+
+  <div class="featured-caption">
+    Launch 
+  </div>
 
 </section>
 
@@ -43,11 +51,24 @@ Background coming soon....
 - **[2020](/images/ink-drawings/2020/)**
 
 ### Coming soon
-- 2021
-- 2022
-- 2023
-- 2024
-- 2025
-- 2026
+2021
 
-[Back to Images](/images/) | [Go to Cartoons](/images/cartoons/)
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+# Feedback
+
+Have a reaction to a drawing? Email me at [pretzelvision@gmail.com](mailto:pretzelvision@gmail.com). Selected responses may be featured here.
+
+[View selected reader notes](/reader-notes/)
+
+
+
+[Back to Drawings](/images/) | [Go to Cartoons](/images/cartoons/)

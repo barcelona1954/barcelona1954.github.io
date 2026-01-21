@@ -62,5 +62,6 @@ Have a reaction to a cartoon? Email me at [pretzelvision@gmail.com](mailto:pretz
 
 
 
-[← Back to Images](/images/)
 
+
+ [Back to Cartoons](/images/cartoons/) | [Go to Drawings](/images/) 
