@@ -15,7 +15,7 @@ Background coming soon....
 
 
 # Featured Cartoon
-[For past featured cartoons, click here to see the archive.](/images/cartoons/featured/)
+[For past featured drawings, click here to see the archive.](/images/cartoons/featured/)
 
 <section class="featured-cartoon" id="featured">
 
@@ -23,7 +23,7 @@ Background coming soon....
 
     <a href="/images/ink-drawings/full/2019-Drawings-013.jpg">
     <img 
-      src="/images/images/thumbnails/2019-Drawings-013-thumb.jpg"
+      src="/images/ink-drawings/thumbnails/2019-Drawings-013-thumb.jpg"
       alt="Featured drawing"
       loading="lazy"
     >
