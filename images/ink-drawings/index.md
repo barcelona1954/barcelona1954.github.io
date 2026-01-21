@@ -12,7 +12,7 @@ During the dot.com bust of the early 2000s, I was let go from my job in technolo
 
 <link rel="stylesheet" href="/assets/css/style.css">
 
-# Featured Cartoon
+# Featured Drawing
 
 [For past featured cartoons, click here to see the archive.](/images/cartoons/featured/)
 
