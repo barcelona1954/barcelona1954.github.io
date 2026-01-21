@@ -410,9 +410,11 @@ section {
 }
 
 .gallery-caption {
-  margin-top: 0.4rem;
-  font-size: 0.95rem;
-  line-height: 1.2;
+  margin-top: 0.35rem;
+  font-size: 0.9rem;
+  line-height: 1.25;
+  text-align: center;
+  color: #333;
 }
 
 
