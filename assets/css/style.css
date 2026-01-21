@@ -389,6 +389,9 @@ section {
 }
 
 .gallery-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   text-decoration: none;
 }
 
