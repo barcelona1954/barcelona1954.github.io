@@ -52,9 +52,6 @@ During the dot.com bust of the early 2000s, I was let go from my job in technolo
 ---
 
 
-## Feedback
-
-Have a reaction to a cartoon? Email me at [pretzelvision@gmail.com](mailto:pretzelvision@gmail.com). Selected responses may be featured here.
 
 <details class="pv-reveal">
   <summary>Reader Notes</summary>
@@ -65,6 +62,8 @@ _Notes from readers will appear here._
 
 </details>
 
+## Feedback
 
+Have a reaction to a cartoon? Email me at [pretzelvision@gmail.com](mailto:pretzelvision@gmail.com). Selected responses may be featured here.
 
  [Back to Cartoons](/images/cartoons/) | [Go to Drawings](/images/) 
