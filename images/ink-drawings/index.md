@@ -11,7 +11,7 @@
 <details class="pv-reveal">
   <summary>My Story</summary>
 Story coming soon.....
- </details
+ </details>
 
 ## Featured Drawing
 
