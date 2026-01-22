@@ -14,7 +14,15 @@
 
 # Art
 
-<details class="pv-reveal">
+				HTML
+				
+					
+				
+				
+						
+				
+			
+  <details class="pv-reveal">
   <summary>My Story</summary>
 
   <p>

@@ -80,7 +80,18 @@ img {
   border-radius: 4px;
 }
 
+/* Make summary look like an H2 */
+details.pv-reveal > summary {
+  font-size: 1.4rem;      /* roughly h2 */
+  font-weight: 700;
+  margin: 0;
+}
 
+/* Optional H3 variant */
+details.pv-reveal.h3 > summary {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
 
 /* Later we can add a specific class like .art-thumb if needed */
 
