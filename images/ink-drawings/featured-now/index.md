@@ -11,11 +11,12 @@
 # Featured  
    <section>
     <img  
-      src="/images/cartoons/full/WrongNumberCopyrighted.jpg"
-      alt="Wrong Number cartoon"
+      src="/images/ink-drawings/full/2019/2019-Drawings-013.jpg"
+      alt="Launch drawing"
       loading="lazy"
     />
     </section>
+
 
 
 
