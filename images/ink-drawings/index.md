@@ -8,11 +8,10 @@
 </nav>
 # Drawings
 
-## My Story
-
-Background story coming soon....
-
-<link rel="stylesheet" href="/assets/css/style.css">
+<details class="pv-reveal">
+  <summary>My Story</summary>
+Story coming soon.....
+ </details
 
 ## Featured Drawing
 
@@ -49,7 +48,9 @@ Background story coming soon....
 - **[2019](/images/ink-drawings/2019/)**
 - **[2020](/images/ink-drawings/2020/)**
 
-### Coming soon
+
+<details class="pv-reveal h3">
+  <summary>Coming Soon</summary>
 2021
 
 2022
@@ -61,17 +62,20 @@ Background story coming soon....
 2025
 
 2026
-
-**Reader Notes**
-
-_Notes from readers will appear here._
+</details>
 
 ## Feedback
 
 Have a reaction to a drawing? Email me at [pretzelvision@gmail.com](mailto:pretzelvision@gmail.com). Selected responses may be featured here.
 
+<details class="pv-reveal h3">
+  <summary>Reader Notes</summary>
+
+_Notes from readers will appear here._
+
 [View selected reader notes](/reader-notes/)
 
+</details>
 
 
 [Back to Drawings](/images/) | [Go to Cartoons](/images/cartoons/)
