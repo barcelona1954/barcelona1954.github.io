@@ -8,11 +8,13 @@
 </nav>
 # Drawings
 
+## My Story
+
 Background story coming soon....
 
 <link rel="stylesheet" href="/assets/css/style.css">
 
-# Featured Drawing
+## Featured Drawing
 
 [For past featured cartoons, click here to see the archive.](/images/cartoons/featured/)
 
@@ -37,9 +39,7 @@ Background story coming soon....
 
 </section>
 
-**Reader Notes**
 
-_Notes from readers will appear here._
 
 ---
 
@@ -62,7 +62,11 @@ _Notes from readers will appear here._
 
 2026
 
-# Feedback
+**Reader Notes**
+
+_Notes from readers will appear here._
+
+## Feedback
 
 Have a reaction to a drawing? Email me at [pretzelvision@gmail.com](mailto:pretzelvision@gmail.com). Selected responses may be featured here.
 
