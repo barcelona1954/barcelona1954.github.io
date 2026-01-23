@@ -1,25 +1,24 @@
 > ```
-> <link rel="stylesheet" href="/assets/css/style.css">
-> 
-> <header class="site-header">
->   <div class="site-title">Pretzelvision</div>
->   <div class="site-tagline">Surf covers, ink drawings, and words.</div>
-> 
-> 
-> <nav class="site-nav">
->   <a href="/">Home</a>
->   <span class="nav-disabled">Audio</span>
->   <a href="/images/">Images</a>
->   <span class="nav-disabled">Writings</span>
-> </nav>
-> 
-> </header>
-> ```
+> ---
+> layout: default
+> title: Writing Collections
+>   ---
+>   ```
 
 
 # Writing Collections
 
-I enjoy writing about the world around me and the world I've experienced. These experiences take shape in reflective narratives and an occassional poem. Sometime I get serious and tackle and essay on a topic that occupies my mind. .
+
+
+```
+
+<details class="pv-reveal">
+  <summary>My Story</summary>
+  <p>I enjoy writing about the world around me and the world I've experienced. These experiences take shape in reflective narratives and an ocassional poem. Sometime I get serious and tackle and essay on a topic that occupies my mind. .</p>
+</details>
+```
+
+
 
 ## Available Writings
 
