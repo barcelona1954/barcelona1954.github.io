@@ -11,8 +11,6 @@
   <span class="nav-disabled">Audio</span>
   <a href="/images/">Images</a>
   <span class="nav-disabled">Writings</span>
-</nav>
-n>
   </nav>
 </header>
 
