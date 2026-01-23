@@ -144,4 +144,248 @@
   <div class="gallery-caption">014 – Armor</div>
 </a>
 
+<a href="../full/2020/2020-Drawings-015.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 015 – Outpost">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-015-thumb.jpg"
+       alt="015 – Outpost">
+  <div class="gallery-caption">015 – Outpost</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-016.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 016 – Rocket">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-016-thumb.jpg"
+       alt="016 – Rocket">
+  <div class="gallery-caption">016 – Rocket</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-017.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 017 – Storm">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-017-thumb.jpg"
+       alt="017 – Storm">
+  <div class="gallery-caption">017 – Storm</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-018.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 018 – Trap">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-018-thumb.jpg"
+       alt="018 – Trap">
+  <div class="gallery-caption">018 – Trap</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-019.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 019 – Dizzy">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-019-thumb.jpg"
+       alt="019 – Dizzy">
+  <div class="gallery-caption">019 – Dizzy</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-020.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 020 – Sleep">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-020-thumb.jpg"
+       alt="020 – Sleep">
+  <div class="gallery-caption">020 – Sleep</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-021.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 021 – Chef">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-021-thumb.jpg"
+       alt="021 – Chef">
+  <div class="gallery-caption">021 – Chef</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-022.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 022 – Rip">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-022-thumb.jpg"
+       alt="022 – Rip">
+  <div class="gallery-caption">022 – Rip</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-023.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 023 – Dig">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-023-thumb.jpg"
+       alt="023 – Dig">
+  <div class="gallery-caption">023 – Dig</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-024.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 024 – Peek">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-024-thumb.jpg"
+       alt="024 – Peek">
+  <div class="gallery-caption">024 – Peek</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-025.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 025 – Buddy">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-025-thumb.jpg"
+       alt="025 – Buddy">
+  <div class="gallery-caption">025 – Buddy</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-026.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 026 – Hide">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-026-thumb.jpg"
+       alt="026 – Hide">
+  <div class="gallery-caption">026 – Hide</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-027.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 027 – Music">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-027-thumb.jpg"
+       alt="027 – Music">
+  <div class="gallery-caption">027 – Music</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-028.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 028 – Float">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-028-thumb.jpg"
+       alt="028 – Float">
+  <div class="gallery-caption">028 – Float</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-029.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 029 – Ominous">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-029-thumb.jpg"
+       alt="029 – Ominous">
+       
+  <div class="gallery-caption">029 – Ominous</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-030.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 030 – Crawl">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-030-thumb.jpg"
+       alt="030 – Crawl">
+  <div class="gallery-caption">030 – Crawl</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-031.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 031 – Poisonous">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-031-thumb.jpg"
+       alt="031 – Poisonous">
+  <div class="gallery-caption">031 – Poisonous</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-032.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 032 – Tranquil">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-032-thumb.jpg"
+       alt="032 – Tranquil">
+  <div class="gallery-caption">032 – Tranquil</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-033.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 033 – Pain">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-033-thumb.jpg"
+       alt="033 – Pain">
+  <div class="gallery-caption">033 – Pain</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-034.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 034 – Satellite">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-034-thumb.jpg"
+       alt="034 – Satellite">
+  <div class="gallery-caption">034 – Satellite</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-035.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 035 – Stairs">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-035-thumb.jpg"
+       alt="035 – Stairs">
+  <div class="gallery-caption">035 – Stairs</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-036.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 036 – Hand">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-036-thumb.jpg"
+       alt="036 – Hand">
+  <div class="gallery-caption">036 – Hand</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-037.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 037 – Gift 1">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-037-thumb.jpg"
+       alt="037 – Gift 1">
+  <div class="gallery-caption">037 – Gift 1</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-038.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 038 – Yawn">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-038-thumb.jpg"
+       alt="038 – Yawn">
+  <div class="gallery-caption">038 – Yawn</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-039.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 039 – Book">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-039-thumb.jpg"
+       alt="039 – Book">
+  <div class="gallery-caption">039 – Book</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-040.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 040 – Yeti">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-040-thumb.jpg"
+       alt="040 – Yeti">
+  <div class="gallery-caption">040 – Yeti</div>
+</a>
+
+<a href="../full/2020/2020-Drawings-041.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 041 – Shoes">
+  <img loading="lazy"
+       src="../thumbnails/2020/2020-Drawings-041-thumb.jpg"
+       alt="041 – Shoes">
+  <div class="gallery-caption">041 – Shoes</div>
+</a>
+
 </div>
