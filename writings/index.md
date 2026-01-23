@@ -1,9 +1,6 @@
 > ```
-> ---
-> layout: default
-> title: Writing Collections
->   ---
->   ```
+> 
+> ```
 
 
 # Writing Collections
