@@ -1,0 +1,29 @@
+```
+{%- assign indexing_enabled = site.indexing.enabled | default: true -%}
+{%- assign noindex_sections = site.indexing.noindex_sections | default: empty -%}
+
+{%- assign page_path = page.url | default: "" -%}
+{%- assign block = false -%}
+
+{%- if indexing_enabled == false -%}
+  {%- assign block = true -%}
+{%- else -%}
+  {%- for p in noindex_sections -%}
+    {%- if page_path contains p -%}
+      {%- assign block = true -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
+{%- if page.noindex == true -%}
+  {%- assign block = true -%}
+{%- endif -%}
+
+{%- if block -%}
+<meta name="robots" content="noindex, nofollow">
+{%- endif -%}
+
+```
+
+
+

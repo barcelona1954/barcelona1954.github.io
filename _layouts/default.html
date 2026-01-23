@@ -1,6 +1,10 @@
+
 <!doctype html>
 <html lang="en">
   <head>
+
+
+```
   <!-- Temporary for Global noindexing by Google search
    Indexing control:
     Default = noindex, nofollow
@@ -8,20 +12,28 @@
     Do not remove without intent
     -->  
   {% assign robots_value = page.robots | default: "noindex, nofollow" %}
+
 <meta name="robots" content="{{ robots_value }}">
    <!-  End temporary for Google search -->
-   
+
+
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>
+      {% include robots-meta.html %}
+
   {% if page.title %}{{ page.title }} | {% endif %}{{ site.title | default: "Pretzelvision" }}
 </title>
     <!-- Your site CSS -->
     <link rel="stylesheet" href="/assets/css/style.css" />
   </head>
   <body>
+
     <main class="page">
       {{ content }}
     </main>
+
   </body>
 </html>
+```
+

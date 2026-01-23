@@ -1,2 +1,22 @@
+```
 theme: null
 title: Pretzelvision
+
+# ----------------------------
+# Indexing controls (Pretzelvision)
+# ----------------------------
+indexing:
+  enabled: true
+  noindex_sections:
+    - /audio/
+    - /writings/
+# ----------------------------
+# Set enabled: true = site indexable by default, 
+# e xcept blocked sections.
+# if you want “lock everything down,” set enabled: false
+# ----------------------------    
+
+```
+
+
+
