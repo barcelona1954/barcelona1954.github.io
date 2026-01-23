@@ -5,35 +5,49 @@
 
 
 ```
-  <!-- Temporary for Global noindexing by Google search
-   Indexing control:
-    Default = noindex, nofollow
-    Opt-in via page.robots or URL-based rule
-    Do not remove without intent
-    -->  
-  {% assign robots_value = page.robots | default: "noindex, nofollow" %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<meta name="robots" content="{{ robots_value }}">
-   <!-  End temporary for Google search -->
+  <!-- Robots / indexing control (section-scoped via _config.yml) -->
+  {% include robots-meta.html %}
 
+  <title>
+    {% if page.title %}{{ page.title }} | {% endif %}
+    {{ site.title | default: "Pretzelvision" }}
+  </title>
 
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>
-      {% include robots-meta.html %}
+  <!-- Site CSS -->
+  <link rel="stylesheet" href="/assets/css/style.css" />
+</head>
 
-  {% if page.title %}{{ page.title }} | {% endif %}{{ site.title | default: "Pretzelvision" }}
-</title>
-    <!-- Your site CSS -->
-    <link rel="stylesheet" href="/assets/css/style.css" />
-  </head>
-  <body>
+<body>
 
-    <main class="page">
-      {{ content }}
-    </main>
+  <header class="site-header">
+    <div class="site-title">Pretzelvision</div>
+    <div class="site-tagline">Surf covers, ink drawings, and words.</div>
 
-  </body>
+    <nav class="site-nav">
+      <a href="/">Home</a>
+      <span class="nav-disabled">Audio</span>
+      <a href="/images/">Images</a>
+      <span class="nav-disabled">Writings</span>
+    </nav>
+  </header>
+
+  <main class="page">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <p>© {{ site.time | date: "%Y" }} Pretzelvision. All content © respective creators.</p>
+    <p><a href="/">Return to top</a></p>
+  </footer>
+
+</body>
 </html>
+
 ```
 
