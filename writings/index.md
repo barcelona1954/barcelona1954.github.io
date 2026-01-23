@@ -1,18 +1,20 @@
-<meta name="robots" content="noindex, nofollow">
-
-<link rel="stylesheet" href="/assets/css/style.css">
-
-<header class="site-header">
-  <div class="site-title">Pretzelvision</div>
-  <div class="site-tagline">Surf covers, ink drawings, and words.</div>
-
-  <nav class="site-nav">
-    <a href="/">Home</a>
-    <a href="/audio/">Audio</a>
-    <a href="/images/">Images</a>
-    <a href="/writings/">Writings</a>
-  </nav>
-</header>
+> ```
+> <link rel="stylesheet" href="/assets/css/style.css">
+> 
+> <header class="site-header">
+>   <div class="site-title">Pretzelvision</div>
+>   <div class="site-tagline">Surf covers, ink drawings, and words.</div>
+> 
+> 
+> <nav class="site-nav">
+>   <a href="/">Home</a>
+>   <span class="nav-disabled">Audio</span>
+>   <a href="/images/">Images</a>
+>   <span class="nav-disabled">Writings</span>
+> </nav>
+> 
+> </header>
+> ```
 
 
 # Writing Collections
