@@ -1,4 +1,3 @@
-
 {%- assign indexing_enabled = site.indexing.enabled | default: true -%}
 {%- assign noindex_sections = site.indexing.noindex_sections | default: empty -%}
 
@@ -18,11 +17,8 @@
 {%- if page.noindex == true -%}
   {%- assign block = true -%}
 {%- endif -%}
-
 {%- if block -%}
+
 <meta name="robots" content="noindex, nofollow">
 {%- endif -%}
-
-
-
 
