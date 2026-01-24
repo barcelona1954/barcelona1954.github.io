@@ -1,2 +1,7 @@
 title: Pretzelvision
 theme: null
+indexing:
+  enabled: true
+  noindex_sections:
+    - /audio/
+    - /writings/
