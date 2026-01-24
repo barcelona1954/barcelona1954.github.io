@@ -1,4 +1,7 @@
-<link rel="stylesheet" href="/assets/css/style.css">
+---
+layout: default
+title: My Art
+---
 
 <header class="site-header">
   <div class="site-title">Pretzelvision</div>
@@ -39,10 +42,3 @@
 
 - [Cartoons](cartoons/index.md)
 - [Ink Drawings](ink-drawings/index.md)
-
-
----
-<footer class="site-footer">
-  <p>© 2025 Pretzelvision. All content © respective creators.</p>
-  <p><a href="/">Return to top</a></p>
-</footer>
