@@ -1,22 +1,16 @@
-<link rel="stylesheet" href="/assets/css/style.css">
+```
+layout: default
+title: Welcome to Pretzelvision
+```
 
 
-<div id="top"></div>
+
 
 # Welcome to Pretzelvision
 
 <p class="home-intro">
   An archive of instrumental cover tunes, ink drawings, cartoons, and occasional writings. Think of this as a working sketchbook where audio, images, and notes slowly accumulate over time.
 </p>
-<div class="home-teaser">
-  <div class="teaser-label">Featured Work</div>
-  <div class="teaser-title">
-    <a href="/images/cartoons/featured-now/">Featuring Now...</a>
-  </div>
-  <div class="teaser-subtitle">A rotating pick from the my portfolio.</div>
-</div>
-
-
 
 <div class="home-grid">
 
@@ -37,7 +31,14 @@
     <p>Notes, sketches, and short writing.</p>
     <div class="coming-soon">Coming soon</div>
   </div>
+</div>
 
+<div class="home-teaser">
+  <div class="teaser-label">Featured Work</div>
+  <div class="teaser-title">
+    <a href="/images/cartoons/featured-now/">Featuring Now...</a>
+  </div>
+  <div class="teaser-subtitle">A rotating pick from the my portfolio.</div>
 </div>
 
 <footer class="site-footer">
