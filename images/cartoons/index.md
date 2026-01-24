@@ -1,13 +1,7 @@
-<meta name="robots" content="noindex, nofollow">
-
-<link rel="stylesheet" href="/assets/css/style.css">
-
-<nav class="site-nav">
-  <a href="/">Home</a>
-  <span class="nav-disabled">Audio</span>
-  <a href="/images/">Images</a>
-  <span class="nav-disabled">Writings</span>
-</nav>
+---
+layout: default
+title: My Cartoons
+---
 
 
 # Cartoons
