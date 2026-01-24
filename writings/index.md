@@ -1,6 +1,8 @@
-> ```
-> 
-> ```
+---
+layout: default
+title: …
+---
+
 
 
 # Writing Collections
