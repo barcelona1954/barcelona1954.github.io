@@ -154,11 +154,18 @@ section {
 
 /* ===== Site header & navigation ===== */
 
+/* Header spacing */
 .site-header {
-  margin-bottom: 2rem;
-  padding-bottom: 0.75rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
   border-bottom: 1px solid #e0d6c7;
 }
+
+/* Remove extra gap above first page heading */
+.site-content > h1:first-child {
+  margin-top: 0;
+}
+
 
 .site-title {
   font-size: 1.7rem;
