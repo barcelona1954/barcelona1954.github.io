@@ -1,14 +1,9 @@
 ---
 layout: default
-title: …
+title: Writing Collections
 ---
 
-
-
 # Writing Collections
-
-
-
 
 <details class="pv-reveal">
   <summary>My Story</summary>
