@@ -167,6 +167,10 @@ section {
   text-transform: uppercase;
 }
 
+.site-content {
+  padding-top: 24px;
+}
+
 .site-tagline {
   margin-top: 0.2rem;
   font-size: 0.95rem;
@@ -245,11 +249,15 @@ section {
   color: #8a7a63;
 }
 
+/*==== Global page container==== */ 
 
+.page {  
 
+   max-width: 1100px;  
+   margin: 0 auto;  
+   padding: 28px 24px 40px; 
 
-
-
+}  
 
 /* ===== Home page layout ===== */
 
