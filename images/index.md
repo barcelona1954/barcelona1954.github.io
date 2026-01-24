@@ -3,9 +3,6 @@ layout: default
 title: My Art
 ---
 
-<header class="site-header">
-  <div class="site-title">Pretzelvision</div>
-  <div class="site-tagline">Surf covers, ink drawings, and words.</div>
 
 <nav class="site-nav">
   <a href="/">Home</a>
