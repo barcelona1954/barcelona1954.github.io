@@ -3,7 +3,7 @@ layout: default
 title: Welcome to Pretzelvision
 ---
 
-
+<h1>Welcome to Pretzelvision</h1> 
 <p class="home-intro">
   An archive of instrumental cover tunes, ink drawings, cartoons, and occasional writings. Think of this as a working sketchbook where audio, images, and notes slowly accumulate over time.
 </p>
@@ -36,8 +36,3 @@ title: Welcome to Pretzelvision
   </div>
   <div class="teaser-subtitle">A rotating pick from the my portfolio.</div>
 </div>
-
-<footer class="site-footer">
-  <p>© 2025 Pretzelvision. All content © respective creators.</p>
-  <p><a href="#top">Return to top</a></p>
-</footer>
