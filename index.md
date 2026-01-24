@@ -1,12 +1,6 @@
-```
 layout: default
 title: Welcome to Pretzelvision
-```
 
-
-
-
-# Welcome to Pretzelvision
 
 <p class="home-intro">
   An archive of instrumental cover tunes, ink drawings, cartoons, and occasional writings. Think of this as a working sketchbook where audio, images, and notes slowly accumulate over time.
