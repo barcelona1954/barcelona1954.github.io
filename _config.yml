@@ -1,5 +1,11 @@
+indexing:
+  enabled: true
+  noindex_sections:
+    - /audio/
+    - /writings/
 title: Pretzelvision
 theme: null
+
 indexing:
   enabled: true
   noindex_sections:
