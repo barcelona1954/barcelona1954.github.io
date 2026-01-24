@@ -1,5 +1,7 @@
+---
 layout: default
 title: Welcome to Pretzelvision
+---
 
 
 <p class="home-intro">
