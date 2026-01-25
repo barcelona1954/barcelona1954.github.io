@@ -1,6 +1,8 @@
-<meta name="robots" content="noindex, nofollow">
-
-<link rel="stylesheet" href="/assets/css/style.css">
+---
+layout: default
+title: My Music
+noindex: true
+---
 
 <header class="site-header">
   <div class="site-title">Pretzelvision</div>
@@ -22,9 +24,5 @@
 
 Please check back soon.
 
-<footer class="site-footer">
-  <p>© 2025 Pretzelvision. All content © respective creators.</p>
-  <p><a href="/">Return to top</a></p>
-</footer>
 
 

@@ -1,5 +1,8 @@
-<meta name="robots" content="noindex, nofollow">
-
+---
+layout: default
+title: Shake Rattle and Strain
+noindex: true
+---
 # Audio Library
 ## Albums
 ### Shake, Rattle, and Strain 
