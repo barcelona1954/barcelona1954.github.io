@@ -23,6 +23,19 @@ Some of my favorite art from my archives and new/recent creations.
 
 <details class="pv-reveal">
   <summary>Reader Notes</summary>
+  <!--
+Sample of galler entries....
+
+  <a href="../full/2021/2021-Drawings-014.jpg"
+   class="gallery-item"
+   aria-label="Open full image: 014 – Armor">
+  <img loading="lazy"
+       src="../thumbnails/2021/2021-Drawings-014-thumb.jpg"
+       alt="014 – Armor">
+  <div class="gallery-caption">014 – Armor</div>
+</a>
+--> 
+
 
 _Notes from readers will appear here._
 
