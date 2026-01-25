@@ -55,21 +55,15 @@ Now, after 6 years of doing this, I have quite a collection of drawings. I certa
 ### Released
 - **[2019](/images/ink-drawings/2019/)**
 - **[2020](/images/ink-drawings/2020/)**
+- **[2020](/images/ink-drawings/2021/)**
+- **[2020](/images/ink-drawings/2022/)**
+- **[2020](/images/ink-drawings/2023/)**
+- **[2020](/images/ink-drawings/2024/)**
+- **[2020](/images/ink-drawings/2025/)**
 
 
 <details class="pv-reveal h3">
-  <summary>Coming Soon</summary>
-2021
-
-2022
-
-2023
-
-2024
-
-2025
-
-2026
+  <summary>2026 Coming Soon</summary>
 </details>
 
 
