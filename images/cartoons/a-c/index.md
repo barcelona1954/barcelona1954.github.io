@@ -1,6 +1,7 @@
-<meta name="robots" content="noindex, nofollow">	
-
-<link rel="stylesheet" href="/assets/css/style.css">
+---
+layout: default
+title: Cartoons A - C
+---
 
 <header class="site-header">
   <div class="site-title">Pretzelvision</div>
