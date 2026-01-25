@@ -1,12 +1,9 @@
-<link rel="stylesheet" href="/assets/css/style.css">
+---
+layout: default
+title: Art Archives
+---
 
-<nav class="site-nav">
-  <a href="/">Home</a>
-  <span class="nav-disabled">Audio</span>
-  <a href="/images/">Images</a>
-  <span class="nav-disabled">Writings</span>
-</nav>
-# Drawings
+# Art Archives
 
 <details class="pv-reveal">
   <summary>My Story</summary>
@@ -55,11 +52,11 @@ Now, after 6 years of doing this, I have quite a collection of drawings. I certa
 ### Released
 - **[2019](/images/ink-drawings/2019/)**
 - **[2020](/images/ink-drawings/2020/)**
-- **[2020](/images/ink-drawings/2021/)**
-- **[2020](/images/ink-drawings/2022/)**
-- **[2020](/images/ink-drawings/2023/)**
-- **[2020](/images/ink-drawings/2024/)**
-- **[2020](/images/ink-drawings/2025/)**
+- **[2021](/images/ink-drawings/2021/)**
+- **[2022](/images/ink-drawings/2022/)**
+- **[2023](/images/ink-drawings/2023/)**
+- **[2024](/images/ink-drawings/2024/)**
+- **[2025](/images/ink-drawings/2025/)**
 
 
 <details class="pv-reveal h3">
