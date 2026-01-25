@@ -1,12 +1,7 @@
-<link rel="stylesheet" href="/assets/css/style.css">
-
-<nav class="site-nav">
-  <a href="/">Home</a>
-  <span class="nav-disabled">Audio</span>
-  <a href="/images/">Images</a>
-  <span class="nav-disabled">Writings</span>
-</nav>
-
+---
+layout: default
+title: Reader Notes
+---
 # Reader Notes
 
 Occasional responses from readers, shared with permission.

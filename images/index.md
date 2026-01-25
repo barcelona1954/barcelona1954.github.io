@@ -2,7 +2,6 @@
 layout: default
 title: My Art
 ---
-
 # Art
 
   <details class="pv-reveal">

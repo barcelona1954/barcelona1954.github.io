@@ -1,7 +1,8 @@
-<meta name="robots" content="noindex, nofollow">
-
-<link rel="stylesheet" href="/assets/css/style.css">
-
+---
+layout: default
+title: Reflections
+noindex: true
+---
 # Reflections
 
 Welcome to the writings section. This is a placeholder document showing how writing pieces will appear on your site.
