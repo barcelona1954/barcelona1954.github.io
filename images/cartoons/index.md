@@ -3,7 +3,6 @@ layout: default
 title: My Cartoons
 ---
 
-
 # Cartoons
 
 <details class="pv-reveal">
