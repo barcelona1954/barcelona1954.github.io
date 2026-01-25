@@ -1,12 +1,7 @@
-
-
-<meta name="robots" content="noindex, nofollow">
-
-<link rel="stylesheet" href="/assets/css/style.css">
-
-<header class="site-header">
-  <div class="site-title">Pretzelvision</div>
-  <div class="site-tagline">Surf covers, ink drawings, and words.</div>
+---
+layout: default
+title: Cartoons I - M
+---
 
 <nav class="site-nav">
   <a href="/">Home</a>

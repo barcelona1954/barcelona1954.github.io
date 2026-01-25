@@ -1,11 +1,7 @@
-<link rel="stylesheet" href="/assets/css/style.css">
-
-  <nav class="site-nav">
-    <a href="/">Home</a>
-    <span class="nav-disabled" title="Coming soon">Audio</span>
-    <a href="/images/">Images</a>
-    <span class="nav-disabled" title="Coming soon">Writings</span>
-  </nav>
+---
+layout: default
+title: Writing Collections
+---
 
 
 # Featured  

@@ -1,4 +1,7 @@
-<link rel="stylesheet" href="/assets/css/style.css">
+---
+layout: default
+title: Ink Drawings 2019
+---
 
 <nav class="site-nav">
   <a href="/">Home</a>
