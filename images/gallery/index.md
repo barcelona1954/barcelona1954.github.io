@@ -380,8 +380,6 @@ Some of my favorite art from my archives and new/recent creations.
 </div>
 
 
-
-
 <details class="pv-reveal">
   <summary>Reader Notes</summary>
   <!--
