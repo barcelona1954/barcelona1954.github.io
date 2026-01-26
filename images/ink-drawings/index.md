@@ -33,11 +33,9 @@ Now, after 6 years of doing this, I have quite a collection of drawings. I certa
 - **[2023](/images/ink-drawings/2023/)**
 - **[2024](/images/ink-drawings/2024/)**
 - **[2025](/images/ink-drawings/2025/)**
+- **2026 Comming Soon]**
 
 
-<details class="pv-reveal h3">
-  <summary>2026 Coming Soon</summary>
-</details>
 
 
 
