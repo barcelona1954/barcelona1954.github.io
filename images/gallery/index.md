@@ -9,11 +9,11 @@ title: Ink Drawings – Gallery
 
 <section class="gallery-grid">
 <a href="/images/ink-drawings/full/2026/2026-Drawings-001.jpg" class="gallery-item" aria-label="Open full image: 001 – Resolution">
-  <img loading="lazy" src="../thumbnails/2026/2026-Drawings-001-thumb.jpg" alt="001 – Resolution">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-001-thumb.jpg" alt="001 – Resolution">
   <div class="gallery-caption">001 – Resolution</div>
 </a>
-<a href="../full/2026/2026-Drawings-003.jpg" class="gallery-item" aria-label="Open full image: 003 – Hummer">
-  <img loading="lazy" src="../thumbnails/2026/2026-Drawings-003-thumb.jpg" alt="003 – Hummer">
+<a href="/images/ink-drawings/full/2026/2026-Drawings-003.jpg" class="gallery-item" aria-label="Open full image: 003 – Hummer">
+  <img loading="lazy" src="images/ink-drawings/thumbnails/2026/2026-Drawings-003-thumb.jpg" alt="003 – Hummer">
   <div class="gallery-caption">003 – Hummer</div>
 </a>
 <a href="../full/2026/2026-Drawings-004.jpg" class="gallery-item" aria-label="Open full image: 004 – Hammer">
@@ -25,8 +25,8 @@ title: Ink Drawings – Gallery
 ## 2025
 
 <section class="gallery-grid">
-<a href="../full/2025/2025-Drawings-007.jpg" class="gallery-item" aria-label="Open full image: 007 – Hunter">
-  <img loading="lazy" src="../thumbnails/2025/2025-Drawings-007-thumb.jpg" alt="007 – Hunter">
+<a href="/images/ink-drawings/full/2025/2025-Drawings-007.jpg" class="gallery-item" aria-label="Open full image: 007 – Hunter">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2025/2025-Drawings-007-thumb.jpg" alt="007 – Hunter">
   <div class="gallery-caption">007 – Hunter</div>
 </a>
 <a href="../full/2025/2025-Drawings-010.jpg" class="gallery-item" aria-label="Open full image: 010 – Balance">
