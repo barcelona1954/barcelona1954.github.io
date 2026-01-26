@@ -85,9 +85,9 @@ title: Ink Drawings – Gallery
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-001-thumb.jpg" alt="001 – Pattern">
   <div class="gallery-caption">001 – Pattern</div>
 </a>
-<a href="/images/ink-drawings/full/2024/2024-Drawings-002.jpg" class="gallery-item" aria-label="Open full image: 002 – Band">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-002-thumb.jpg" alt="002 – Band">
-  <div class="gallery-caption">002 – Band</div>
+<a href="/images/ink-drawings/full/2024/2024-Drawings-002.jpg" class="gallery-item" aria-label="Open full image: 002 – Band (Self Portrait)">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-002-thumb.jpg" alt="002 – Band (Self Portrait)">
+  <div class="gallery-caption">002 – Band (Self Portrait)</div>
 </a>
 <a href="/images/ink-drawings/full/2024/2024-Drawings-003.jpg" class="gallery-item" aria-label="Open full image: 003 – Content">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-003-thumb.jpg" alt="003 – Content">
@@ -109,9 +109,9 @@ title: Ink Drawings – Gallery
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-015-thumb.jpg" alt="015 – Intricate">
   <div class="gallery-caption">015 – Intricate</div>
 </a>
-<a href="/images/ink-drawings/full/2024/2024-Drawings-017.jpg" class="gallery-item" aria-label="Open full image: 017 – Vibrant">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-017-thumb.jpg" alt="017 – Vibrant">
-  <div class="gallery-caption">017 – Vibrant</div>
+<a href="/images/ink-drawings/full/2024/2024-Drawings-017.jpg" class="gallery-item" aria-label="Open full image: 017 – Vibrant (The Corpse Revivers)">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-017-thumb.jpg" alt="017 – Vibrant (The Corpse Revivers)">
+  <div class="gallery-caption">017 – Vibrant (The Corpse Revivers)</div>
 </a>
 <a href="/images/ink-drawings/full/2024/2024-Drawings-024.jpg" class="gallery-item" aria-label="Open full image: 024 – Serenity">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-024-thumb.jpg" alt="024 – Serenity">

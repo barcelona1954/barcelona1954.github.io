@@ -12,31 +12,13 @@ During the dot.com bust of the early 2000s, I was let go from my job in technolo
 </details>
 
 
-## Featured Cartoon
-[For past featured cartoons, click here to see the archive.](/images/cartoons/featured/)
+
 
 <details class="pv-reveal">
   <summary>Featured Cartoon</summary>
+  [For past featured cartoons, click here to see the archive.](/images/cartoons/featured/)
 
-  <details class="pv-reveal">
-  <summary>SECTION TITLE</summary>
-
-  <p>
-    First paragraph.
-  </p>
-
-  <p>
-    Second paragraph.
-  </p>
-</details>
-
-  
-</details>
-
-
-
-
-<section class="featured-art" id="featured">
+  <section class="featured-art" id="featured">
 
   <div class="featured-label">Featured Cartoon</div>
 
@@ -51,8 +33,10 @@ During the dot.com bust of the early 2000s, I was let go from my job in technolo
     Wrong Number. (Fat fingered that one.) 
   </div>
 
-
 </section>
+
+</details>
+
 
 ## Galleries
 
