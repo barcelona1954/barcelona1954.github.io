@@ -5,11 +5,8 @@ title: My Art
 # Art
 
   <details class="pv-reveal">
-  <summary>
-  <h2>My Story
-  </h2>
+  <summary><h2>My Story</h2>
   </summary>
-
   <p>
   When I was in 2nd or 3rd grade, I started drawing images with a Ticonderoga pencil on lined notebook paper. I specifically remember sitting on the couch in my grandparents living room, looking through library and school books, and drawing profiles of one of the Wright brothers and trying to capture the likeness of an elephant.
   </p>
