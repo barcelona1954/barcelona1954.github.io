@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Writing Collections
+title: New Featured
 ---
 
 

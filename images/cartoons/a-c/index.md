@@ -3,14 +3,6 @@ layout: default
 title: Cartoons A - C
 ---
 
-<nav class="site-nav">
-  <a href="/">Home</a>
-  <span class="nav-disabled">Audio</span>
-  <a href="/images/">Images</a>
-  <span class="nav-disabled">Writings</span>
-</nav>
-
-</header>
 
 
 # Cartoons

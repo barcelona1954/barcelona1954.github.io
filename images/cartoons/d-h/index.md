@@ -3,14 +3,7 @@ layout: default
 title: Cartoons D - H
 ---
 
-<nav class="site-nav">
-  <a href="/">Home</a>
-  <span class="nav-disabled">Audio</span>
-  <a href="/images/">Images</a>
-  <span class="nav-disabled">Writings</span>
-</nav>
 
-</header>
 
 
 # Cartoons

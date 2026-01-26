@@ -3,18 +3,6 @@ layout: default
 title: Cartoons N - S
 ---
 
-<header class="site-header">
-  <div class="site-title">Pretzelvision</div>
-  <div class="site-tagline">Surf covers, ink drawings, and words.</div>
-
-<nav class="site-nav">
-  <a href="/">Home</a>
-  <span class="nav-disabled">Audio</span>
-  <a href="/images/">Images</a>
-  <span class="nav-disabled">Writings</span>
-</nav>
-
-</header>
 
 
 # Cartoons
