@@ -167,10 +167,11 @@ section {
   border-bottom: 1px solid #e0d6c7;
 }
 
-/* Remove extra gap above first page heading */
-.site-content > h1:first-child {
+/* Remove extra gap above the first content element inside the page container */
+.page > :first-child {
   margin-top: 0;
 }
+
 
 
 .site-title {
@@ -181,8 +182,9 @@ section {
 }
 
 .site-content {
-  padding-top: 24px;
+  padding-top: 0;
 }
+
 
 .site-tagline {
   margin-top: 0.2rem;
