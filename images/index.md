@@ -28,4 +28,4 @@ title: My Art
 ## Collections
 - [Art Gallery](gallery/index.md)
 - [Cartoons](cartoons/index.md)
-- [Art archive](ink-drawings/index.md)
+- [Archive](ink-drawings/index.md)
