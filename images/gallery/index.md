@@ -12,10 +12,17 @@ title: Ink Drawings – Gallery
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-001-thumb.jpg" alt="001 – Resolution">
   <div class="gallery-caption">001 – Resolution</div>
 </a>
+
+<a href="/images/ink-drawings/full/2026/2026-Drawings-002.jpg" class="gallery-item" aria-label="Open full image: 002 – Doll">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-002-thumb.jpg" alt="002 – Doll">
+  <div class="gallery-caption">002 – Doll</div>
+</a>
+
 <a href="/images/ink-drawings/full/2026/2026-Drawings-003.jpg" class="gallery-item" aria-label="Open full image: 003 – Hummer">
-  <img loading="lazy" src="images/ink-drawings/thumbnails/2026/2026-Drawings-003-thumb.jpg" alt="003 – Hummer">
+ <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-003-thumb.jpg"  alt="003 – Hummer">
   <div class="gallery-caption">003 – Hummer</div>
 </a>
+
 <a href="/images/ink-drawings/full/2026/2026-Drawings-004.jpg" class="gallery-item" aria-label="Open full image: 004 – Hammer">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-004-thumb.jpg" alt="004 – Hammer">
   <div class="gallery-caption">004 – Hammer</div>
