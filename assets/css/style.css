@@ -78,20 +78,24 @@ img {
   border-radius: 4px;
 }
 
-/* Make summary look like an H2 */
-details.pv-reveal > summary {
-  font-size: 1.4rem;      /* roughly h2 */
-  font-weight: 700;
-  margin: 0;
+/* pv-reveal: predictable spacing */
+details.pv-reveal {
+  margin: 1rem 0;
 }
 
-/* Optional H3 variant */
-details.pv-reveal.h3 > summary {
-  font-size: 1.2rem;
-  font-weight: 600;
+/* If pv-reveal follows a heading, tighten the gap */
+.site-content h1 + details.pv-reveal,
+.site-content h2 + details.pv-reveal,
+.site-content h3 + details.pv-reveal {
+  margin-top: 0.5rem;
 }
 
-/* Later we can add a specific class like .art-thumb if needed */
+/* If a heading follows pv-reveal, tighten the gap */
+.site-content details.pv-reveal + h1,
+.site-content details.pv-reveal + h2,
+.site-content details.pv-reveal + h3 {
+  margin-top: 1.1rem; /* choose a clean “section break” */
+}
 
 
 
