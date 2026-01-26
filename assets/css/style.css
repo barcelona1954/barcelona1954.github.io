@@ -84,19 +84,43 @@ details.pv-reveal {
 }
 
 /* If pv-reveal follows a heading, tighten the gap */
-.site-content h1 + details.pv-reveal,
-.site-content h2 + details.pv-reveal,
-.site-content h3 + details.pv-reveal {
+.page h1 + details.pv-reveal,
+.page h2 + details.pv-reveal,
+.page h3 + details.pv-reveal {
   margin-top: 0.5rem;
 }
 
 /* If a heading follows pv-reveal, tighten the gap */
-.site-content details.pv-reveal + h1,
-.site-content details.pv-reveal + h2,
-.site-content details.pv-reveal + h3 {
-  margin-top: 1.1rem; /* choose a clean “section break” */
+.page details.pv-reveal + h1,
+.page details.pv-reveal + h2,
+.page details.pv-reveal + h3 {
+  margin-top: 1.1rem;
 }
 
+details.pv-reveal > summary {
+  font-weight: 600;
+  color: #222222;
+  font-size: 1.35rem;   /* h2-ish */
+  line-height: 1.2;
+  margin: 0 0 0.6rem 0;
+  cursor: pointer;
+  list-style: none;
+}
+
+details.pv-reveal > summary::-webkit-details-marker {
+  display: none;
+}
+
+details.pv-reveal > summary::before {
+  content: "▸";
+  display: inline-block;
+  width: 1.1em;
+  margin-right: 0.15em;
+}
+
+details.pv-reveal[open] > summary::before {
+  content: "▾";
+}
 
 
 /* ===== Audio player & playlist styling ===== */
