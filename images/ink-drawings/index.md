@@ -6,7 +6,7 @@ title: Art Archives
 # Art Archives
 
 <details class="pv-reveal">
-  <summary>My Story</summary>
+  <summary><h3>My Story</h2></summary>
 <p>
 Several years ago, my daughter, Li-Mae, told me about an internet led art program called Inktober. The idea of the program was that each day of the month, a prompt was given, and then people drew something that that prompt meant to them. The guy who started it was looking for a way to improve his own drawing skills and develop regular drawing habits.(This program grew to include thousands of artists across the internet.)  Also, part of the goal was that the art had to be shared...on the internet, on the kitchen fridge, a bathroom stall...anywhere someone else could see it. 
 </p>
