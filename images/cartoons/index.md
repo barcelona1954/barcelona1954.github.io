@@ -15,7 +15,7 @@ During the dot.com bust of the early 2000s, I was let go from my job in technolo
 
 
 <details class="pv-reveal">
-  <summary><h2>Featured Cartoon</h2></summary>
+  <summary>Featured Cartoon</summary>
   [For past featured cartoons, click here to see the archive.](/images/cartoons/featured/)
 
   <section class="featured-art" id="featured">
