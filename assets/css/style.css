@@ -209,6 +209,12 @@ section {
   padding-top: 0;
 }
 
+/* Remove extra gap above the first content element */
+.site-content > :first-child {
+  margin-top: 0;
+}
+
+
 
 .site-tagline {
   margin-top: 0.2rem;
