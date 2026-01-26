@@ -14,10 +14,10 @@ Some of my favorite art from my archives and new/recent creations.
 
   <div class="featured-label">Gallery Feature</div>
 
-    <a href="/images/ink-drawings/full/FILENAME.jpg">
+    <a href="/images/ink-drawings/full/2023-Drawings-026.jpg">
     <img 
-      src="/images/ink-drawings/thumbnails/FILENAME-thumb.jpg"
-      alt="Featured cartoon"
+      src="/images/ink-drawings/thumbnails/2023-Drawings-026-thumb.jpg"
+      alt="Gallery Feature"
       loading="lazy"
     >
   </a>
@@ -149,6 +149,7 @@ Some of my favorite art from my archives and new/recent creations.
     <img loading="lazy" src="../thumbnails/2022/2022-Drawings-022-thumb.jpg" alt="022 – Smoker">
     <div class="gallery-caption">022 – Smoker</div>
   </a>
+
 
   <a href="../full/2022/2022-Drawings-023.jpg" class="gallery-item" aria-label="Open full image: 023 – Dandelion">
     <img loading="lazy" src="../thumbnails/2022/2022-Drawings-023-thumb.jpg" alt="023 – Dandelion">
@@ -363,6 +364,8 @@ Some of my favorite art from my archives and new/recent creations.
     <div class="gallery-caption">040 – Frost</div>
   </a>
 
+<!-- 2026 -->
+
 <a href="../full/2026/2026-Drawings-001.jpg" class="gallery-item" aria-label="Open full image: 001 – Resolution">
 <img loading="lazy" src="../thumbnails/2026/2026-Drawings-001-thumb.jpg" alt="001 – Resolution">
     <div class="gallery-caption">001 – Resolution</div>
@@ -377,6 +380,7 @@ Some of my favorite art from my archives and new/recent creations.
 <img loading="lazy" src="../thumbnails/2026/2026-Drawings-004-thumb.jpg" alt="004 – Hammer">
     <div class="gallery-caption">004 – Hammer</div>
   </a>
+
 </div>
 
 
