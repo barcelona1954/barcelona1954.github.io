@@ -13,10 +13,6 @@ title: Ink Drawings – Gallery
   <div class="gallery-caption">001 – Resolution</div>
 </a>
 
-<a href="/images/ink-drawings/full/2026/2026-Drawings-002.jpg" class="gallery-item" aria-label="Open full image: 002 – Doll">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-002-thumb.jpg" alt="002 – Doll">
-  <div class="gallery-caption">002 – Doll</div>
-</a>
 
 <a href="/images/ink-drawings/full/2026/2026-Drawings-003.jpg" class="gallery-item" aria-label="Open full image: 003 – Hummer">
  <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-003-thumb.jpg"  alt="003 – Hummer">
@@ -121,9 +117,9 @@ title: Ink Drawings – Gallery
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-024-thumb.jpg" alt="024 – Serenity">
   <div class="gallery-caption">024 – Serenity</div>
 </a>
-<a href="/images/ink-drawings/full/2024/2024-Drawings-025.jpg" class="gallery-item" aria-label="Open full image: 025 – zenith">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-025-thumb.jpg" alt="025 – zenith">
-  <div class="gallery-caption">025 – zenith</div>
+<a href="/images/ink-drawings/full/2024/2024-Drawings-025.jpg" class="gallery-item" aria-label="Open full image: 025 – Zenith">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-025-thumb.jpg" alt="025 – Zenith">
+  <div class="gallery-caption">025 – Zenith</div>
 </a>
 <a href="/images/ink-drawings/full/2024/2024-Drawings-030.jpg" class="gallery-item" aria-label="Open full image: 030 – Plump">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-030-thumb.jpg" alt="030 – Plump">
@@ -162,9 +158,9 @@ title: Ink Drawings – Gallery
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-007-thumb.jpg" alt="007 – Current">
   <div class="gallery-caption">007 – Current</div>
 </a>
-<a href="/images/ink-drawings/full/2023/2023-Drawings-008.jpg" class="gallery-item" aria-label="Open full image: 008 – MAGIC">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-008-thumb.jpg" alt="008 – MAGIC">
-  <div class="gallery-caption">008 – MAGIC</div>
+<a href="/images/ink-drawings/full/2023/2023-Drawings-008.jpg" class="gallery-item" aria-label="Open full image: 008 – Magic">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-008-thumb.jpg" alt="008 – Magic">
+  <div class="gallery-caption">008 – Magic</div>
 </a>
 <a href="/images/ink-drawings/full/2023/2023-Drawings-010.jpg" class="gallery-item" aria-label="Open full image: 010 – Process">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-010-thumb.jpg" alt="010 – Process">
@@ -185,10 +181,6 @@ title: Ink Drawings – Gallery
 <a href="/images/ink-drawings/full/2023/2023-Drawings-029.jpg" class="gallery-item" aria-label="Open full image: 029 – Mystic">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-029-thumb.jpg" alt="029 – Mystic">
   <div class="gallery-caption">029 – Mystic</div>
-</a>
-<a href="/images/ink-drawings/full/2023/2023-Drawings-030.jpg" class="gallery-item" aria-label="Open full image: 030 – Ring">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-030-thumb.jpg" alt="030 – Ring">
-  <div class="gallery-caption">030 – Ring</div>
 </a>
 <a href="/images/ink-drawings/full/2023/2023-Drawings-035.jpg" class="gallery-item" aria-label="Open full image: 035 – Broken">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-035-thumb.jpg" alt="035 – Broken">
@@ -211,9 +203,9 @@ title: Ink Drawings – Gallery
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2022/2022-Drawings-009-thumb.jpg" alt="009 – Emerge">
   <div class="gallery-caption">009 – Emerge</div>
 </a>
-<a href="/images/ink-drawings/full/2022/2022-Drawings-010.jpg" class="gallery-item" aria-label="Open full image: 010 – Ribs Gyosy">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2022/2022-Drawings-010-thumb.jpg" alt="010 – Ribs Gyosy">
-  <div class="gallery-caption">010 – Ribs Gyosy</div>
+<a href="/images/ink-drawings/full/2022/2022-Drawings-010.jpg" class="gallery-item" aria-label="Open full image: 010 – Gypsy">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2022/2022-Drawings-010-thumb.jpg" alt="010 – Gypsy">
+  <div class="gallery-caption">010 – Gypsy</div>
 </a>
 <a href="/images/ink-drawings/full/2022/2022-Drawings-012.jpg" class="gallery-item" aria-label="Open full image: 012 – Hippie">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2022/2022-Drawings-012-thumb.jpg" alt="012 – Hippie">
@@ -223,9 +215,9 @@ title: Ink Drawings – Gallery
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2022/2022-Drawings-013-thumb.jpg" alt="013 – Caravan">
   <div class="gallery-caption">013 – Caravan</div>
 </a>
-<a href="/images/ink-drawings/full/2022/2022-Drawings-015.jpg" class="gallery-item" aria-label="Open full image: 015 – Star Snis">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2022/2022-Drawings-015-thumb.jpg" alt="015 – Star Snis">
-  <div class="gallery-caption">015 – Star Snis</div>
+<a href="/images/ink-drawings/full/2022/2022-Drawings-015.jpg" class="gallery-item" aria-label="Open full image: 015 – Star Anis">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2022/2022-Drawings-015-thumb.jpg" alt="015 – Star Anis">
+  <div class="gallery-caption">015 – Star Anis</div>
 </a>
 <a href="/images/ink-drawings/full/2022/2022-Drawings-019.jpg" class="gallery-item" aria-label="Open full image: 019 – Mesmerize">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2022/2022-Drawings-019-thumb.jpg" alt="019 – Mesmerize">
@@ -297,10 +289,7 @@ title: Ink Drawings – Gallery
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2020/2020-Drawings-002-thumb.jpg" alt="002 – Wisp">
   <div class="gallery-caption">002 – Wisp</div>
 </a>
-<a href="/images/ink-drawings/full/2020/2020-Drawings-003.jpg" class="gallery-item" aria-label="Open full image: 003 – Dig">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2020/2020-Drawings-003-thumb.jpg" alt="003 – Dig">
-  <div class="gallery-caption">003 – Dig</div>
-</a>
+
 <a href="/images/ink-drawings/full/2020/2020-Drawings-036.jpg" class="gallery-item" aria-label="Open full image: 036 – Hand">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2020/2020-Drawings-036-thumb.jpg" alt="036 – Hand">
   <div class="gallery-caption">036 – Hand</div>
