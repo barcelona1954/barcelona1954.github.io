@@ -8,7 +8,7 @@ title: Ink Drawings – Gallery
 ## 2026 (new work)
 
 <section class="gallery-grid">
-<a href="../../full/2026/2026-Drawings-001.jpg" class="gallery-item" aria-label="Open full image: 001 – Resolution">
+<a href="/images/ink-drawings/full/2026/2026-Drawings-001.jpg" class="gallery-item" aria-label="Open full image: 001 – Resolution">
   <img loading="lazy" src="../thumbnails/2026/2026-Drawings-001-thumb.jpg" alt="001 – Resolution">
   <div class="gallery-caption">001 – Resolution</div>
 </a>
