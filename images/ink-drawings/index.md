@@ -18,30 +18,6 @@ Now, after 6 years of doing this, I have quite a collection of drawings. I certa
 
 </details>
 
-## Featured Drawing
-
-[For past featured cartoons, click here to see the archive.](/images/cartoons/featured/)
-
-<section class="featured-art" id="featured">
-
-  <div class="featured-label">Featured Drawing</div>
-
-    <a href="/images/ink-drawings/full/2019/2019-Drawings-013.jpg">
-    <img 
-      src="/images/ink-drawings/thumbnails/2019/2019-Drawings-013-thumb.jpg"
-      alt="Featured Drawing"
-      loading="lazy"
-    >
-
-  </a>
-
-  <div class="featured-caption">
-    Launch 
-  </div>
-
-
-
-</section>
 
 
 
