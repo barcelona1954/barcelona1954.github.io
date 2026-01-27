@@ -16,7 +16,7 @@ title: Welcome to Pretzelvision
     <a class="primary-button" href="/images/">Go to Images</a>
   </div>
 
-  <div class="home-card disabled">
+  <div class="home-card live">
     <h2>Audio Collections</h2>
     <p>Cool instrumentals and cover tunes.</p>
     <a class="primary-button" href="/audio/">Go to Music</a>
