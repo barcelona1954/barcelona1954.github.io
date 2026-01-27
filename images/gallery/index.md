@@ -137,9 +137,9 @@ title: Ink Drawings – Gallery
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-037-thumb.jpg" alt="037 – Phantasmagoria">
   <div class="gallery-caption">037 – Phantasmagoria</div>
 </a>
-<a href="/images/ink-drawings/full/2024/2024-Drawings-038.jpg" class="gallery-item" aria-label="Open full image: 038 – Fragment">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-038-thumb.jpg" alt="038 – Fragment">
-  <div class="gallery-caption">038 – Fragment</div>
+<a href="/images/ink-drawings/full/2024/2024-Drawings-038.jpg" class="gallery-item" aria-label="Open full image: 038 – Fragment (Self Portrait 2)">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-038-thumb.jpg" alt="038 – Fragment (Self Portrait 2)">
+  <div class="gallery-caption">038 – Fragment (Self Portrait 2)</div>
 </a>
 <a href="/images/ink-drawings/full/2024/2024-Drawings-042.jpg" class="gallery-item" aria-label="Open full image: 042 – Stocking">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-042-thumb.jpg" alt="042 – Stocking">
