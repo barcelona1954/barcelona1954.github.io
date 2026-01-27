@@ -19,7 +19,7 @@ title: Welcome to Pretzelvision
   <div class="home-card disabled">
     <h2>Audio Collections</h2>
     <p>Cool instrumentals and cover tunes.</p>
-    <div class="coming-soon">Coming soon</div>
+    <a class="primary-button" href="/audio/">Go to Music</a>
   </div>
 
   <div class="home-card disabled">
