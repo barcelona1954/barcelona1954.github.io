@@ -37,12 +37,3 @@ title: Welcome to Pretzelvision
   <div class="teaser-subtitle">A rotating pick from the my portfolio.</div>
 </div>
 
-<details class="pv-reveal">
-  <summary>Reader Notes</summary>
-
-_Notes from readers will appear here._
-
-[View selected reader notes](/reader-notes/)
-
-</details>
-

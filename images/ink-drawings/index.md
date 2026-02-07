@@ -38,16 +38,6 @@ Now, after 6 years of doing this, I have quite a collection of drawings. I certa
 
 
 
-
-<details class="pv-reveal h3">
-  <summary>Reader Notes</summary>
-
-_Notes from readers will appear here._
-
-[View selected reader notes](/reader-notes/)
-
-</details>
-
 ## Feedback
 
 Have a reaction to a drawing? Email me at [pretzelvision@gmail.com](mailto:pretzelvision@gmail.com). Selected responses may be featured here.
