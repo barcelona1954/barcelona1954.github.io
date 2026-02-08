@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Art Archives
+title: Sketchbook
 ---
 
-# Art Archives
+# Sketchbook
 
 <details class="pv-reveal">
   <summary>My Story</summary>
@@ -23,7 +23,7 @@ Now, after 6 years of doing this, I have quite a collection of drawings. I certa
 
 ---
 
-## Galleries
+## Sketchbook Galleries
 
 ### Released
 - **[2019](/images/ink-drawings/2019/)**
