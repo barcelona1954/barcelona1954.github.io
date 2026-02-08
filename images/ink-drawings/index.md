@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Sketchbook
+title: Sketchbooks
 ---
 
-# Sketchbook
+# Sketchbooks
 
 <details class="pv-reveal">
   <summary>My Story</summary>
@@ -23,17 +23,17 @@ Now, after 6 years of doing this, I have quite a collection of drawings. I certa
 
 ---
 
-## Sketchbook Galleries
+## Sketchbooks
 
 ### Released
-- **[2019](/images/ink-drawings/2019/)**
-- **[2020](/images/ink-drawings/2020/)**
-- **[2021](/images/ink-drawings/2021/)**
-- **[2022](/images/ink-drawings/2022/)**
-- **[2023](/images/ink-drawings/2023/)**
-- **[2024](/images/ink-drawings/2024/)**
-- **[2025](/images/ink-drawings/2025/)**
-- **2026 Comming Soon]**
+- **[2019 Sketchbook](/images/ink-drawings/2019/)**
+- **[2020 Sketchbook](/images/ink-drawings/2020/)**
+- **[2021 Sketchbook](/images/ink-drawings/2021/)**
+- **[2022 Sketchbook](/images/ink-drawings/2022/)**
+- **[2023 Sketchbook](/images/ink-drawings/2023/)**
+- **[2024 Sketchbook](/images/ink-drawings/2024/)**
+- **[2025 Sketchbook](/images/ink-drawings/2025/)**
+- **2026 Sketchbook Comming Soon]**
 
 
 
