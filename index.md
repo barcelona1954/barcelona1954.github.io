@@ -11,7 +11,7 @@ title: Welcome to Pretzelvision
 <div class="home-grid">
 
   <div class="home-card live">
-    <h2>Image Collections</h2>
+    <h2>Art Collections</h2>
     <p>Browse cartoons (live now) and ink drawings (coming soon).</p>
     <a class="primary-button" href="/images/">Go to Images</a>
   </div>
@@ -29,11 +29,13 @@ title: Welcome to Pretzelvision
   </div>
 </div>
 
-<div class="home-teaser">
-  <div class="teaser-label">Featured Work</div>
-  <div class="teaser-title">
-    <a href="/images/cartoons/featured-now/">Featuring Now...</a>
-  </div>
-  <div class="teaser-subtitle">A rotating pick from the my portfolio.</div>
-</div>
+## Featured
+
+{% include featured-grid.html %}
+
+{% include reader-notes-block.html %}
+
+## Feedback
+
+{% include send-note.html %}
 

@@ -1,0 +1,8 @@
+{%- assign to = "pretzelvision@gmail.com" -%}
+{%- assign subj = "Pretzelvision feedback: " | append: page.url -%}
+
+<p class="send-note">
+  Have a reaction to a drawing (or anything else)? Email me at
+  <a href="mailto:{{ to }}?subject={{ subj | uri_escape }}">{{ to }}</a>.
+  Selected responses may be featured on the home page.
+</p>
