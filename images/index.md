@@ -27,4 +27,4 @@ title: My Art
 ## Collections
 - [Art Gallery](gallery/index.md)
 - [Cartoons](cartoons/index.md)
-- [Sketchbook Galleries](ink-drawings/index.md)
+- [Sketchbooks](ink-drawings/index.md)
