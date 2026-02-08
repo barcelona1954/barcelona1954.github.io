@@ -5,8 +5,6 @@ noindex: true
 ---
 
 
-<link rel="stylesheet" href="/assets/css/style.css">
-
 # Music
 
 🚧 Under construction.

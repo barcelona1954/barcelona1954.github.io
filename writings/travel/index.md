@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Travel
+title: Travel Writings
 noindex: true
 ---
 
