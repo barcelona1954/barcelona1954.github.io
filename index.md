@@ -33,10 +33,9 @@ title: Welcome to Pretzelvision
 
 {% include featured-grid.html %}
 
-
 ## Reader Notes
-{% include reader-notes-block.html %}
 
+{% include reader-notes-block.html %}
 
 ## Feedback
 

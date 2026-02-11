@@ -1,11 +1,20 @@
-- quote: "Really enjoying the ink drawings — the 2020 set feels especially confident."
-  from: "Sample Reader"
-  page: "/images/ink-drawings/2020/"
+<div class="featured-grid">
+  {% assign items = site.data.featured | default: empty %}
+  {% if items == empty %}
+    <p class="featured-empty">No featured items yet.</p>
+  {% else %}
+    {% for item in items %}
+      <a class="featured-card" href="{{ item.href }}">
+        {% if item.thumb and item.thumb != "" %}
+          <img loading="lazy" src="{{ item.thumb }}" alt="{{ item.title }}">
+        {% endif %}
+        <div class="featured-meta">
+          {% if item.type %}<div class="featured-type">{{ item.type }}</div>{% endif %}
+          <div class="featured-title">{{ item.title }}</div>
+          {% if item.caption %}<div class="featured-caption">{{ item.caption }}</div>{% endif %}
+        </div>
+      </a>
+    {% endfor %}
+  {% endif %}
+</div>
 
-- quote: "The cartoons section is fun to browse. Looking forward to seeing more."
-  from: "Another Reader"
-  page: "/images/cartoons/"
-
-- quote: "I like how the site feels like a sketchbook in progress. It makes the work feel alive."
-  from: "Friend"
-  page: "/"
