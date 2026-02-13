@@ -1,15 +1,17 @@
-<div class="reader-notes-block">
-    <div class="reader-note">
-        <blockquote>
-            <p>Really enjoying the ink drawings — the 2020 set feels especially confident.</p>
-            <footer>— Sample Reader <cite><a href="/images/ink-drawings/2020/">View page</a></cite></footer>
-        </blockquote>
-    </div>
+<section class="reader-notes">
+  {% assign notes = site.data.reader_notes | default: empty %}
 
-    <div class="reader-note">
-        <blockquote>
-            <p>The cartoons section is fun to browse. Looking forward to seeing more.</p>
-            <footer>— Another Reader <cite><a href="/images/cartoons/">View page</a></cite></footer>
-        </blockquote>
-    </div>
-</div>
+  {% if notes == empty %}
+    <p class="reader-notes-empty">No reader notes yet.</p>
+  {% else %}
+    {% for n in notes %}
+      <blockquote class="reader-note">
+        <p class="reader-note-text">{{ n.quote }}</p>
+        <div class="reader-note-meta">
+          {% if n.from %}<span class="reader-note-from">— {{ n.from }}</span>{% endif %}
+          {% if n.page %}<span class="reader-note-sep">·</span><a class="reader-note-link" href="{{ n.page }}">View page</a>{% endif %}
+        </div>
+      </blockquote>
+    {% endfor %}
+  {% endif %}
+</section>

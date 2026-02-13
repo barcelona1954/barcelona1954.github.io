@@ -1,20 +1,17 @@
-<div class="featured-grid">
-  {% assign items = site.data.featured | default: empty %}
-  {% if items == empty %}
-    <p class="featured-empty">No featured items yet.</p>
-  {% else %}
-    {% for item in items %}
-      <a class="featured-card" href="{{ item.href }}">
-        {% if item.thumb and item.thumb != "" %}
-          <img loading="lazy" src="{{ item.thumb }}" alt="{{ item.title }}">
-        {% endif %}
-        <div class="featured-meta">
-          {% if item.type %}<div class="featured-type">{{ item.type }}</div>{% endif %}
-          <div class="featured-title">{{ item.title }}</div>
-          {% if item.caption %}<div class="featured-caption">{{ item.caption }}</div>{% endif %}
-        </div>
-      </a>
-    {% endfor %}
-  {% endif %}
-</div>
+{% assign item = site.data.featured[0] %}
 
+{% if item %}
+<div class="featured-hero">
+
+  <a href="{{ item.href }}" class="featured-hero-image">
+    <img loading="lazy" src="{{ item.thumb }}" alt="{{ item.title }}">
+  </a>
+
+    {% if item.caption %}
+  <div class="featured-hero-meta">
+    <div class="featured-hero-caption">{{ item.caption }}</div>
+  </div>
+  {% endif %}
+
+</div>
+{% endif %}
