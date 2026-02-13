@@ -33,16 +33,14 @@ title: Welcome to Pretzelvision
 
 {% include featured-grid.html %}
 
-
 ## Reader Notes
+<details class="pv-reveal">
+  <summary>What People Are Saying</summary>
 
-  <details class="pv-reveal">
-  <summary>What People Are Saying </summary>
-
-
-{% include reader-notes-block.html %}
+  {% include reader-notes-block.html %}
 
 </details>
+
 
 ## Feedback
 

@@ -9,7 +9,7 @@
         <p class="reader-note-text">{{ n.quote }}</p>
         <div class="reader-note-meta">
           {% if n.from %}<span class="reader-note-from">— {{ n.from }}</span>{% endif %}
-          {% if n.page %}<span class="reader-note-sep">·</span><a class="reader-note-link" href="{{ n.page }}">View page</a>{% endif %}
+          {% if n.page %}<span class="reader-note-sep"> · </span><a class="reader-note-link" href="{{ n.page }}">View page</a>{% endif %}
         </div>
       </blockquote>
     {% endfor %}
