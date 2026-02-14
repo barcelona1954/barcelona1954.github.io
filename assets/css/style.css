@@ -374,6 +374,18 @@ section {
   background: #183c93;
 }
 
+/* Home cards: bottom-align primary buttons */
+
+.home-card{
+  display: flex;
+  flex-direction: column;
+}
+
+.home-card .primary-button,
+.home-card .coming-soon{
+  margin-top: auto;
+  padding-top: 1rem;
+}
 
 
 /* Homepage featured teaser */
@@ -696,4 +708,17 @@ details.pv-reveal > summary{
   font-size: 1.2rem;
   font-weight: 700;
   margin: 1.5rem 0 0.5rem;
+}
+
+/* Reader Notes summary sizing */
+
+details.pv-reveal > summary{
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin: 0.75rem 0 0.5rem;
+  cursor: pointer;
+}
+
+details.pv-reveal > summary::marker{
+  font-size: 0.9em;
 }

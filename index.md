@@ -18,7 +18,7 @@ title: Welcome to Pretzelvision
 
   <div class="home-card live">
     <h2>Audio Collections</h2>
-    <p>Cool instrumentals and cover tunes.</p>
+    <p>Cool instrumentals and cover tunes that I play with my band, The Corpse Revivers.</p>
     <a class="primary-button" href="/audio/">Go to Music</a>
   </div>
 
