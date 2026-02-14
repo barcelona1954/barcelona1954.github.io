@@ -12,8 +12,8 @@ title: Welcome to Pretzelvision
 
   <div class="home-card live">
     <h2>Art Collections</h2>
-    <p>Browse cartoons (live now) and ink drawings (coming soon).</p>
-    <a class="primary-button" href="/images/">Go to Images</a>
+    <p>Browse my cartoons, art gallery, and my sketchbooks over the past several years.</p>
+    <a class="primary-button" href="/images/">Go to Art</a>
   </div>
 
   <div class="home-card live">
