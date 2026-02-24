@@ -1,8 +1,10 @@
 ---
 layout: default
 title: My Art
-next_label: Ink Drawings
-next_url: /images/ink-drawings/
+prev_label: Images
+prev_url: /images/
+next_label: Cartoons
+next_url: /images/cartoons/
 ---
 # Art
 

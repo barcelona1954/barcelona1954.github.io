@@ -1,6 +1,10 @@
 ---
 layout: default
 title: Ink Drawings 2019
+prev_label: Sketchbook
+prev_url: /images/
+next_label: Ink Drawings 2020
+next_url: /images/ink-drawings/2020/
 ---
 
 <!-- RELEASE: public -->
@@ -286,3 +290,5 @@ title: Ink Drawings 2019
 </a>
 
 </div>
+
+{% include nav-prev-next.html %}
