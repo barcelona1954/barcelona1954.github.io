@@ -1,6 +1,8 @@
 ---
 layout: default
 title: My Art
+next_label: Ink Drawings
+next_url: /images/ink-drawings/
 ---
 # Art
 
@@ -28,3 +30,5 @@ title: My Art
 - [Art Gallery](gallery/index.md)
 - [Cartoons](cartoons/index.md)
 - [Sketchbooks](ink-drawings/index.md)
+
+{% include nav-prev-next.html %}

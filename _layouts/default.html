@@ -16,28 +16,30 @@
 
 <body>
 
+  <a id="top"></a>
+
   <div class="page">
 
     <header class="site-header">
       <div class="site-title">Pretzelvision</div>
       <div class="site-tagline">Surf covers, ink drawings, and words.</div>
-    
-     <nav class="site-nav">
-      <a href="/">Home</a>
-      <a href="/audio/">Audio</a>
-      <a href="/images/">Images</a>
-      <span class="nav-disabled">Writings</span>
-</nav>
+
+      <nav class="site-nav">
+        <a href="/">Home</a>
+        <a href="/audio/">Audio</a>
+        <a href="/images/">Images</a>
+        <span class="nav-disabled">Writings</span>
+      </nav>
 
     </header>
-    
+
     <main class="site-content">
       {{ content }}
     </main>
-    
+
     <footer class="site-footer">
       <p>© {{ site.time | date: "%Y" }} Pretzelvision. All content © respective creators.</p>
-      <p><a href="/">Return to top</a></p>
+      <p><a href="#top">Return to top</a></p>
     </footer>
 
   </div>
