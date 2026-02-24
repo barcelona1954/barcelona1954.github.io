@@ -1,6 +1,10 @@
 ---
 layout: default
-title: Ink Drawings – Gallery
+title: Art Gallery
+prev_label: Images
+prev_url: /images/
+next_label: Cartoons
+next_url: /images/cartoons/
 ---
 
 # Gallery
@@ -332,5 +336,5 @@ title: Ink Drawings – Gallery
 
 Have a reaction to a cartoon? Email me at [pretzelvision@gmail.com](mailto:pretzelvision@gmail.com). Selected responses may be featured here.
 
- [Back to Cartoons](/images/cartoons/) | [Go to Drawings](/images/) 
+{% include nav-prev-next.html %}
 
