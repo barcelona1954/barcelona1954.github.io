@@ -13,6 +13,11 @@ title: Ink Drawings – Gallery
   <div class="gallery-caption">001 – Resolution</div>
 </a>
 
+<a href="/images/ink-drawings/full/2026/2026-Drawings-002.jpg" class="gallery-item" aria-label="Open full image: 003 – Doll">
+ <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-002-thumb.jpg"  alt="002 – doll">
+  <div class="gallery-caption">002 – Doll</div>
+</a>
+
 
 <a href="/images/ink-drawings/full/2026/2026-Drawings-003.jpg" class="gallery-item" aria-label="Open full image: 003 – Hummer">
  <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-003-thumb.jpg"  alt="003 – Hummer">
@@ -23,6 +28,17 @@ title: Ink Drawings – Gallery
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-004-thumb.jpg" alt="004 – Hammer">
   <div class="gallery-caption">004 – Hammer</div>
 </a>
+
+<a href="/images/ink-drawings/full/2026/2026-Drawings-005.jpg" class="gallery-item" aria-label="Open full image: 005 – Super">
+ <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-005-thumb.jpg"  alt="005 – Super">
+  <div class="gallery-caption">005 – Super</div>
+</a>
+
+<a href="/images/ink-drawings/full/2026/2026-Drawings-006.jpg" class="gallery-item" aria-label="Open full image: 006 – Hobby">
+ <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-006-thumb.jpg"  alt="006 – Hobby">
+  <div class="gallery-caption">006 – Hobby</div>
+</a>
+
 </section>
 
 ## 2025
