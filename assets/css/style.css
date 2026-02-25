@@ -776,3 +776,17 @@ details.pv-reveal > summary::marker{
   display: block;
   margin: 0.4rem 0;
 }
+
+/* Force footer vertical layout */
+
+.site-footer{
+  display: block !important;
+  flex-direction: column !important;
+  justify-content: initial !important;
+  align-items: initial !important;
+}
+
+.site-footer p{
+  display: block !important;
+  margin: 0.4rem 0 !important;
+}
