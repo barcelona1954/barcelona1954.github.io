@@ -334,5 +334,4 @@ prev_url: /images/ink-drawings/
 
 Have a reaction to a cartoon? Email me at [pretzelvision@gmail.com](mailto:pretzelvision@gmail.com). Selected responses may be featured here.
 
-{% include nav-prev-next.html %}
 

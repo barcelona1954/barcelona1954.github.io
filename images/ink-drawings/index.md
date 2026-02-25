@@ -46,5 +46,3 @@ Now, after 6 years of doing this, I have quite a collection of drawings. I certa
 
 Have a reaction to a drawing? Email me at [pretzelvision@gmail.com](mailto:pretzelvision@gmail.com). Selected responses may be featured here.
 
-
-{% include nav-prev-next.html %}
