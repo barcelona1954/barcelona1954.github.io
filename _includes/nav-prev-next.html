@@ -1,9 +1,9 @@
 <nav class="nav-prev-next">
 
- {% if page.prev_url %}
-<nav class="nav-prev-next">
-  <a class="nav-prev" href="{{ page.prev_url }}">
-    ← {{ page.prev_label | default: "Back" }}
-  </a>
+{% if page.prev_url %}
+<nav class="pv-breadcrumb" aria-label="Breadcrumb">
+  <a class="pv-breadcrumb-link" href="{{ page.prev_url }}">{{ page.prev_label | default: "Back" }}</a>
+  <span class="pv-breadcrumb-sep">›</span>
+  <span class="pv-breadcrumb-current">{{ page.title }}</span>
 </nav>
 {% endif %}

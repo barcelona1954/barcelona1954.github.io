@@ -427,26 +427,6 @@ section {
 
 
 
-/* ===== Footer ===== */
-
-.site-footer {
-  margin-top: 2rem;
-  font-size: 0.85rem;
-  color: #666;
-}
-
-
-.site-footer a {
-  color: #44403a;
-  border-bottom: 1px solid rgba(68, 64, 58, 0.3);
-}
-
-.site-footer a:hover {
-  color: #b14424;
-  border-bottom-color: rgba(177, 68, 36, 0.6);
-}
-
-
 
 /* ===== Image galleries ===== */
 
@@ -754,3 +734,45 @@ details.pv-reveal > summary::marker{
   text-decoration: underline;
 }
 
+/* Breadcrumb (near bottom, above footer) */
+.pv-breadcrumb{
+  margin: 2rem 0 1rem;
+  font-size: 0.95rem;
+}
+
+.pv-breadcrumb-link{
+  text-decoration: none;
+}
+
+.pv-breadcrumb-link:hover{
+  text-decoration: underline;
+}
+
+.pv-breadcrumb-sep{
+  margin: 0 0.4rem;
+  opacity: 0.6;
+}
+
+.pv-breadcrumb-current{
+  opacity: 0.85;
+}
+
+
+/* ===== Site Footer ===== */
+
+.site-footer a:hover {
+  color: #b14424;
+  border-bottom-color: rgba(177, 68, 36, 0.6);
+}
+
+/* Footer: force vertical stacking */
+
+.site-footer{
+  display: block;
+  text-align: center;
+}
+
+.site-footer p{
+  display: block;
+  margin: 0.4rem 0;
+}
