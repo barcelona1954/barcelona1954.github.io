@@ -1,10 +1,9 @@
 ---
 layout: default
 title: My Art Gallery
-prev_label: Ink Drawings
-prev_url: /images/ink-drawings/
+prev_label: Images
+prev_url: /images/
 ---
-
 # Gallery
 
 ## 2026 (new work)

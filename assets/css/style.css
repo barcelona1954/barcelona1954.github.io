@@ -739,3 +739,18 @@ details.pv-reveal > summary::marker{
 .nav-prev-next a:hover{
   text-decoration: underline;
 }
+/* Back navigation */
+
+.nav-back{
+  margin: 2rem 0 1rem;
+}
+
+.nav-back a{
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.nav-back a:hover{
+  text-decoration: underline;
+}
+
