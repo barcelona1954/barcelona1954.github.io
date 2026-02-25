@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Art Gallery
-prev_label: Images
-prev_url: /images/
-next_label: Cartoons
-next_url: /images/cartoons/
+title: My Art Gallery
+prev_label: Ink Drawings
+prev_url: /images/ink-drawings/
 ---
 
 # Gallery

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: My Cartoons
+prev_label: Ink Drawings
+prev_url: /images/ink-drawings/
 ---
 
 # Cartoons
@@ -55,4 +57,4 @@ During the dot.com bust of the early 2000s, I was let go from my job in technolo
 
 Have a reaction to a cartoon? Email me at [pretzelvision@gmail.com](mailto:pretzelvision@gmail.com). Selected responses may be featured here.
 
- [Back to Cartoons](/images/cartoons/) | [Go to Drawings](/images/) 
+ 

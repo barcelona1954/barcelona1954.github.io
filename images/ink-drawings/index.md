@@ -1,6 +1,10 @@
 ---
 layout: default
 title: Sketchbooks
+prev_label: Images
+prev_url: /images/
+next_label: Cartoons
+next_url: /images/cartoons/
 ---
 
 # Sketchbooks
@@ -43,4 +47,4 @@ Now, after 6 years of doing this, I have quite a collection of drawings. I certa
 Have a reaction to a drawing? Email me at [pretzelvision@gmail.com](mailto:pretzelvision@gmail.com). Selected responses may be featured here.
 
 
-[Back to Drawings](/images/) | [Go to Cartoons](/images/cartoons/)
+{% include nav-prev-next.html %}
