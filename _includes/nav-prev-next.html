@@ -1,14 +1,9 @@
 <nav class="nav-prev-next">
 
-  {% if page.prev_url or page.next_url %}
+ {% if page.prev_url %}
 <nav class="nav-prev-next">
-  {% if page.prev_url %}
-    <a class="nav-prev" href="{{ page.prev_url }}">← {{ page.prev_label | default: "Previous" }}</a>
-  {% endif %}
-  {% if page.next_url %}
-    <a class="nav-next" href="{{ page.next_url }}">{{ page.next_label | default: "Next" }} →</a>
-  {% endif %}
+  <a class="nav-prev" href="{{ page.prev_url }}">
+    ← {{ page.prev_label | default: "Back" }}
+  </a>
 </nav>
 {% endif %}
-
-</nav>

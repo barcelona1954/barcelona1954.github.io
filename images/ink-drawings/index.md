@@ -3,9 +3,8 @@ layout: default
 title: Sketchbooks
 prev_label: Images
 prev_url: /images/
-next_label: Cartoons
-next_url: /images/cartoons/
 ---
+
 
 # Sketchbooks
 

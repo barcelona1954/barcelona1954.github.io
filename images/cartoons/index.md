@@ -1,9 +1,10 @@
 ---
 layout: default
 title: My Cartoons
-prev_label: Ink Drawings
-prev_url: /images/ink-drawings/
+prev_label: Images
+prev_url: /images/
 ---
+
 
 # Cartoons
 

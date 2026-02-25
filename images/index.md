@@ -1,9 +1,8 @@
 ---
 layout: default
 title: My Art
-next_label: Ink Drawings
-next_url: /images/ink-drawings/
 ---
+
 # Art
 
   <details class="pv-reveal">
