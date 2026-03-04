@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Writing Collections
+prev_label: Home
+prev_url: /
+noindex: true
 ---
 
 # Writing Collections

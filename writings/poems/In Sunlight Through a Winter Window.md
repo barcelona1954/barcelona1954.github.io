@@ -1,4 +1,12 @@
-<link rel="stylesheet" href="/assets/css/style.css">
+---
+layout: default
+title: Sunlight Through a Winter Window
+prev_label: Poems
+prev_url: /writings/poems/
+---
+
+
+
 
 ## In Sunlight Through a Winter Window 
 
@@ -49,8 +57,4 @@ Magical and mathematical. Mesmerized
 By a shaft of light exposing the world to 
 
 The brilliant comings and goings of insignificance.
-
-
-
-[← Back to Poems](poems.md)
 

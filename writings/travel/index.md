@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Travel Writings
+prev_label: Writings
+prev_url: /writings/
 noindex: true
 ---
 
