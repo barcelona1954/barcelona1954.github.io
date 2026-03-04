@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Cartoons 0 - 9
+title: "Cartoons – 0-9"
+prev_label: Cartoons
+prev_url: /images/cartoons/
 noindex: true
 ---
 
