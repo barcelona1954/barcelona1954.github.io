@@ -1,6 +1,8 @@
 ---
 layout: default
-title: My Music
+title: Audio
+prev_label: Home
+prev_url: /
 noindex: true
 ---
 

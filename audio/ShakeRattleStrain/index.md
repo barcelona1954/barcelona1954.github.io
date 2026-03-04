@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Shake Rattle and Strain
+title: Shake Rattle Strain
+prev_label: Audio
+prev_url: /audio/
 noindex: true
 ---
 # Audio Library
