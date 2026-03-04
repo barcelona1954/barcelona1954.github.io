@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Ink Drawings 2023
-prev_label: Sketchbook
-prev_url: /images/
-next_label: Ink Drawings 2024
-next_url: /images/ink-drawings/2024/
+title: "Sketchbook 2023"
+prev_label: Sketchbooks
+prev_url: /images/ink-drawings/
 ---
 
 <!-- RELEASE: private -->
