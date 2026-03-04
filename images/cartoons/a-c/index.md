@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Cartoons A - C
+title: "Cartoons – A-C"
+prev_label: Cartoons
+prev_url: /images/cartoons/
 ---
-
 
 
 # Cartoons
 ## A-C
 
-[Back to Images](/images/)  |  [Cartoons Home](/images/cartoons/)
 
 <div class="gallery-grid">
   <a href="../full/AmishTalkRadioCopyrighted.jpg" class="gallery-item">

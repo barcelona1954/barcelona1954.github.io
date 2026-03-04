@@ -5,7 +5,6 @@ prev_label: Images
 prev_url: /images/
 ---
 
-
 # Cartoons
 
 <details class="pv-reveal">

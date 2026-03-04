@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Cartoons I - M
+title: "Cartoons – I-M"
+prev_label: Cartoons
+prev_url: /images/cartoons/
 ---
 
 
@@ -8,7 +10,6 @@ title: Cartoons I - M
 # Cartoons
 ## I–M
 
-[Back to Images](/images/)  |  [Cartoons Home](/images/cartoons/)
 
 <div class="gallery-grid">
 

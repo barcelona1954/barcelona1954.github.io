@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Cartoons T - Z
+title: "Cartoons – T-Z"
+prev_label: Cartoons
+prev_url: /images/cartoons/
 ---
-
 
 
 # Cartoons
 ## T–Z
 
-[Back to Images](/images/)  |  [Cartoons Home](/images/cartoons/)
 
 <div class="gallery-grid">
 

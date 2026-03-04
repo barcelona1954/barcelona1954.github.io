@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Cartoons D - H
+title: "Cartoons – D-H"
+prev_label: Cartoons
+prev_url: /images/cartoons/
 ---
-
 
 
 
 # Cartoons
 ## D-H
 
-[Back to Images](/images/)  |  [Cartoons Home](/images/cartoons/)
 
 <div class="gallery-grid">
   <a href="../full/DeepThinkerCopyrighted.jpg" class="gallery-item">

@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Featured Cartoon
+title: "Cartoons – Featured"
+prev_label: Cartoons
+prev_url: /images/cartoons/
 ---
 
 
