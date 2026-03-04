@@ -160,7 +160,58 @@ audio {
   background-color: rgba(177, 68, 36, 0.06);
 }
 
+/* Writings: reading layout (applies to any URL under /writings/) */
+.writings-reading {
+  max-width: 720px;          /* narrower measure */
+  margin: 0 auto;            /* center column */
+  padding: 1.25rem 1.25rem;  /* comfortable side padding */
+  line-height: 1.75;         /* better reading rhythm */
+  font-size: 1.05rem;        /* slightly larger body text */
+}
 
+/* Give headings better rhythm in writings */
+.writings-reading h1 {
+  margin-top: 0.25rem;
+  margin-bottom: 0.75rem;
+  line-height: 1.15;
+}
+
+.writings-reading h2,
+.writings-reading h3 {
+  margin-top: 1.75rem;
+  margin-bottom: 0.75rem;
+  line-height: 1.2;
+}
+
+/* Paragraph spacing */
+.writings-reading p {
+  margin: 0 0 1.05rem 0;
+}
+
+/* Lists: slightly more breathable */
+.writings-reading ul,
+.writings-reading ol {
+  margin: 0 0 1.1rem 1.25rem;
+}
+
+.writings-reading li {
+  margin-bottom: 0.4rem;
+}
+
+/* Blockquotes read nicer in a narrow column */
+.writings-reading blockquote {
+  margin: 1.25rem 0;
+  padding: 0.25rem 1rem;
+  border-left: 3px solid #e0d6c7;
+  color: #55504a;
+}
+
+/* Optional: nicer horizontal rule spacing */
+.writings-reading hr {
+  margin: 2rem 0;
+  border: 0;
+  border-top: 1px solid #e0d6c7;
+}
 
 /* ===== Section spacing ===== */
 

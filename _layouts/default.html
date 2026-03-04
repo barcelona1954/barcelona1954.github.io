@@ -33,9 +33,9 @@
 
     </header>
 
-    <main class="site-content">
+    <main class="site-content{% if page.url contains '/writings/' %} writings-reading{% endif %}">
       {{ content }}
-    </main>
+    </main>    
 
     {% include nav-prev-next.html %}
 
