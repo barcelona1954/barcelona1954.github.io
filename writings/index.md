@@ -24,9 +24,4 @@ noindex: true
 - [Reflections](reflections/index.md)
 
   
-<footer class="site-footer">
-  <p>© 2025 Pretzelvision. All content © respective creators.</p>
-  <p><a href="/">Return to top</a></p>
-</footer>
-
 

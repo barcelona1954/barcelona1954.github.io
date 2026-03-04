@@ -12,5 +12,4 @@ Welcome to the writings section. This is a placeholder document showing how writ
 
 - [Travel 1](Travel1.md)
 
-[← Back to Writings](../index.md)
 
