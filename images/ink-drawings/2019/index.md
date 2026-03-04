@@ -290,5 +290,3 @@ next_url: /images/ink-drawings/2020/
 </a>
 
 </div>
-
-{% include nav-prev-next.html %}

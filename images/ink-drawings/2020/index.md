@@ -1,8 +1,11 @@
 ---
 layout: default
 title: Ink Drawings 2020
+prev_label: Sketchbook
+prev_url: /images/
+next_label: Ink Drawings 2021
+next_url: /images/ink-drawings/2021/
 ---
-
 <!-- RELEASE: public -->
 
 
