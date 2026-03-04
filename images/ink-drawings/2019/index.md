@@ -11,7 +11,7 @@ prev_url: /images/ink-drawings/
 # Ink Drawings
 ## 2019
 
-[Back to Images](/images/)  |  [Ink Drawings Home](/images/ink-drawings/)
+
 
 <div class="gallery-grid">
 

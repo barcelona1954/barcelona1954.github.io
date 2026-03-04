@@ -12,8 +12,6 @@ prev_url: /images/ink-drawings/
 # Ink Drawings
 ## 2024
 
-[Back to Images](/images/)  |  [Ink Drawings Home](/images/ink-drawings/)
-
 <div class="gallery-grid">
 
 <a href="../full/2024/2024-Drawings-001.jpg" class="gallery-item" aria-label="Open full image: 001 – Pattern">

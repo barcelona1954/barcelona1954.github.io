@@ -1,14 +1,16 @@
 ---
 layout: default
-title: Ink Drawings 2026
+title: "Sketchbook 2026"
+prev_label: Sketchbooks
+prev_url: /images/ink-drawings/
 ---
+
 <!-- RELEASE: private -->
 
 
 # Ink Drawings
 ## 2026
 
-[Back to Images](/images/)  |  [Ink Drawings Home](/images/ink-drawings/)
 
 <div class="gallery-grid">
 

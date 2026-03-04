@@ -11,8 +11,6 @@ prev_url: /images/ink-drawings/
 # Ink Drawings
 ## 2025
 
-[Back to Images](/images/)  |  [Ink Drawings Home](/images/ink-drawings/)
-
 <div class="gallery-grid">
 
 <a href="../full/2025/2025-Drawings-001.jpg" class="gallery-item" aria-label="Open full image: 001 – Cruise">
