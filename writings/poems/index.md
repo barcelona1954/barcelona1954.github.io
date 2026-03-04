@@ -4,7 +4,6 @@ title: Poems
 prev_label: Writings
 prev_url: /writings/
 noindex: true
----
 
 # Poems
 
