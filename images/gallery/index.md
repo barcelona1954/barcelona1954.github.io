@@ -40,6 +40,11 @@ prev_url: /images/
   <div class="gallery-caption">006 – Hobby</div>
 </a>
 
+<a href="/images/ink-drawings/full/2026/2026-Drawings-007.jpg" class="gallery-item" aria-label="Open full image: 007 – Shape">
+ <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-007-thumb.jpg"  alt="007 – Shape">
+  <div class="gallery-caption">007 – Shape</div>
+</a>
+
 </section>
 
 ## 2025
