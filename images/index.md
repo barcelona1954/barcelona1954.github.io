@@ -5,6 +5,8 @@ title: My Art
 
 # Art
 
+Ink drawings in black-and-white and color, an artist sketchbook, and a portfolio of single panel cartoons. 
+
   <details class="pv-reveal">
   <summary>My Story </summary>
   <p>
@@ -27,9 +29,9 @@ title: My Art
 
 
 ## Collections
-- [Art Gallery](gallery/index.md)
-- [Cartoons](cartoons/index.md)
-- [Sketchbooks](ink-drawings/index.md)
+- [Art Gallery](gallery/index.md) 
+- [Cartoons](cartoons/index.md) - A portfolio of single-panel cartoons
+- [Sketchbooks](ink-drawings/index.md) - All my weekly drawings, whether they are gallery quality or not (most are not).  
 
 
 ## Prints & Merchandise 

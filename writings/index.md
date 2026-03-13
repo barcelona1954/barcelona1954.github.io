@@ -6,7 +6,9 @@ prev_url: /
 noindex: true
 ---
 
-# Writing Collections
+# Writings
+
+Poems, short reflections, and other written work.
 
 <details class="pv-reveal">
   <summary>My Story</summary>
@@ -15,13 +17,13 @@ noindex: true
 
 
 
-## Available Writings
+## Collections
 
-- [Poems](poems/index.md)
+- [Poems](poems/index.md) - - Short lyrical and reflective pieces.
 
-- [Travel](travel/index.md)
+- [Travel](travel/index.md)- Coming Soon.
 
-- [Reflections](reflections/index.md)
+- [Reflections](reflections/index.md) - Coming Soon.
 
   
 
