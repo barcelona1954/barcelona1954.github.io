@@ -29,11 +29,11 @@ Ink drawings in black-and-white and color, an artist sketchbook, and a portfolio
 
 
 ## Collections
-**[Art Gallery](gallery/index.md)** – A collection of my favorites.
+- **[Art Gallery](gallery/index.md)** – A collection of my favorites.
 
-**[Cartoons](cartoons/index.md)** - A portfolio of single-panel cartoons.
+- **[Cartoons](cartoons/index.md)** - A portfolio of single-panel cartoons.
 
-**[Sketchbooks](ink-drawings/index.md)** - All my weekly drawings, whether they are gallery quality or not (most are not).  
+- **[Sketchbooks](ink-drawings/index.md)** - All my weekly drawings, whether they are gallery quality or not (most are not).  
 
 
 ## Prints & Merchandise 

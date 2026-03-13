@@ -20,8 +20,8 @@ Poems, short reflections, and other written work.
 
 ## Collections
 
-**[Poems](poems/)** – short lyrical and reflective pieces.
+- **[Poems](poems/)** – short lyrical and reflective pieces.
 
-**Travel** – coming soon.
+- **Travel** – coming soon.
 
-**Reflections** – coming soon.
+- **Reflections** – coming soon.
