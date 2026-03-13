@@ -24,12 +24,12 @@ Surf, rock, and spaghetti western inspired covers, instrumentals, and music vide
 
 ### Recordings
 
-- **[Shake Rattle and Strain](ShakeRattleStrain/)** – Initial album release by the Corpse Revivers.
+ **[Shake Rattle and Strain](ShakeRattleStrain/)** – Initial album release by the Corpse Revivers.
 
-- **More recordings coming soon.**
+ **More recordings coming soon.**
 
 ### Music Videos
 
-- **[Theme for the Champions – Official Music Video ↗](https://youtube.com/your-link)**
+**[Theme for the Champions – Official Music Video ↗](https://youtube.com/your-link)**
 
 
