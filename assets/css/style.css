@@ -190,8 +190,9 @@ audio {
 }
 
 /* Paragraph spacing */
-.writings-reading p {
-  margin: 0 0 1.05rem 0;
+.writings-reading ul {
+  margin-left: 0;
+  padding-left: 1.2rem;
 }
 
 /* Lists: slightly more breathable */
