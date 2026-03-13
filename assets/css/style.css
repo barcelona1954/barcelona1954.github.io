@@ -482,7 +482,9 @@ section {
   h1 { font-size: 1.8rem; }
 }
 
-
+.page ul li {
+  margin-bottom: 0.45rem;
+}
 
 
 /* ===== Image galleries ===== */
