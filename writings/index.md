@@ -20,11 +20,8 @@ Poems, short reflections, and other written work.
 
 ## Collections
 
-- [Poems](poems/index.md) - - Short lyrical and reflective pieces.
+**[Poems](poems/)** – short lyrical and reflective pieces.
 
-- [Travel](travel/index.md)- Coming Soon.
+**Travel** – coming soon.
 
-- [Reflections](reflections/index.md) - Coming Soon.
-
-  
-
+**Reflections** – coming soon.
