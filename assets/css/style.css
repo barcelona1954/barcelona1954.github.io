@@ -98,20 +98,27 @@ details.pv-reveal {
   margin-top: 1.1rem;
 }
 
+/* pv-reveal summary styled like a section heading */
 details.pv-reveal > summary {
   font-weight: 600;
   color: #222222;
-  font-size: 1.35rem;   /* h2-ish */
+  font-size: 1.4rem;
   line-height: 1.2;
   margin: 0 0 0.6rem 0;
   cursor: pointer;
   list-style: none;
 }
 
+/* hide default marker */
 details.pv-reveal > summary::-webkit-details-marker {
   display: none;
 }
 
+details.pv-reveal > summary::marker {
+  content: "";
+}
+
+/* custom triangle marker */
 details.pv-reveal > summary::before {
   content: "▸";
   display: inline-block;
@@ -122,7 +129,6 @@ details.pv-reveal > summary::before {
 details.pv-reveal[open] > summary::before {
   content: "▾";
 }
-
 
 /* ===== Audio player & playlist styling ===== */
 
