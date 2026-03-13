@@ -6,6 +6,7 @@ prev_url: /
 noindex: true
 ---
 
+
 # Writings
 
 Poems, short reflections, and other written work.
