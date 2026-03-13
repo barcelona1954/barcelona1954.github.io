@@ -24,6 +24,14 @@ title: My Art
   </p>
 </details>
 
+## Prints & Merchandise
+<p>
+Some Pretzelvision artwork is available as prints,
+canvas, and other items through Fine Art America.
+</p>
+<p>
+[Browse the gallery]
+</p>
 
 ## Collections
 - [Art Gallery](gallery/index.md)
