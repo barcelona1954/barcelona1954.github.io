@@ -24,16 +24,16 @@ title: My Art
   </p>
 </details>
 
-## Prints & Merchandise
-<p>
-Some Pretzelvision artwork is available as prints,
-canvas, and other items through Fine Art America.
-</p>
-<p>
-[Browse the gallery]
-</p>
+
 
 ## Collections
 - [Art Gallery](gallery/index.md)
 - [Cartoons](cartoons/index.md)
 - [Sketchbooks](ink-drawings/index.md)
+
+
+## Prints & Merchandise 
+
+Some drawings and cartoons are also available as prints and additional formats on Fine Art America.
+
+→ [View the Pretzelvision gallery on Fine Art America](https://fineartamerica.com/profiles/alan-mcclellan)
