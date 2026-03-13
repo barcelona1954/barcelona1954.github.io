@@ -36,4 +36,4 @@ title: My Art
 
 Some drawings and cartoons are also available as prints and additional formats on Fine Art America.
 
-→ [View the Pretzelvision gallery on Fine Art America](https://fineartamerica.com/profiles/alan-mcclellan)
+→ [View the Alan McClellan Art Collections on Fine Art America](https://fineartamerica.com/profiles/alan-mcclellan)
