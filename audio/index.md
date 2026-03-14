@@ -30,6 +30,6 @@ Surf, rock, and spaghetti western inspired covers, instrumentals, and music vide
 
 ### Music Videos
 
-- **[Theme for the Champions – Official Music Video ↗](https://youtube.com/your-link)**
+- **[Theme for the Champions – Official Music Video ↗](https://www.youtube.com/watch?v=N6xNXDAC9NI)**
 
 
