@@ -633,6 +633,16 @@ section {
   box-shadow: 0 6px 14px rgba(0,0,0,0.10);
 }
 
+.gallery-links {
+  font-size: 0.85rem;
+  margin-top: 0.25rem;
+}
+
+.gallery-links a {
+  text-decoration: none;
+}
+
+
 /* Featured Hero */
 
 .featured-hero{

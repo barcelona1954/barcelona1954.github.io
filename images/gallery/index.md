@@ -4,15 +4,38 @@ title: My Art Gallery
 prev_label: Images
 prev_url: /images/
 ---
-# Gallery
+# Art allery
+
+A chronological gallery of selected drawings and visual work from Pretzelvision.
+
+Looking for prints or additional formats?  
+[Browse the Alan McClellan collection on Fine Art America ↗](https://fineartamerica.com/profiles/alan-mcclellan)
 
 ## 2026 (new work)
 
 <section class="gallery-grid">
-<a href="/images/ink-drawings/full/2026/2026-Drawings-001.jpg" class="gallery-item" aria-label="Open full image: 001 – Resolution">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-001-thumb.jpg" alt="001 – Resolution">
-  <div class="gallery-caption">001 – Resolution</div>
-</a>
+
+<div class="gallery-item">
+
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-001.jpg"
+     aria-label="Open full image: 001 – Resolution">
+
+    <img loading="lazy"
+         src="/images/ink-drawings/thumbnails/2026/2026-Drawings-001-thumb.jpg"
+         alt="001 – Resolution">
+
+  </a>
+
+  <div class="gallery-caption">
+    001 – Resolution  
+    <div class="gallery-links">
+      <a href="https://fineartamerica.com/profiles/alan-mcclellan" target="_blank" rel="noopener">
+        Fine Art America ↗
+      </a>
+    </div>
+  </div>
+
+</div>
 
 <a href="/images/ink-drawings/full/2026/2026-Drawings-002.jpg" class="gallery-item" aria-label="Open full image: 003 – Doll">
  <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-002-thumb.jpg"  alt="002 – doll">
@@ -333,9 +356,6 @@ prev_url: /images/
 
 
 
-
 ## Feedback
 
-Have a reaction to a cartoon? Email me at [pretzelvision@gmail.com](mailto:pretzelvision@gmail.com). Selected responses may be featured here.
-
-
+Have a reaction to my art gallery? Email me at [pretzelvision@gmail.com](mailto:pretzelvision@gmail.com). Selected responses may be featured here.
