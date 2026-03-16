@@ -15,10 +15,27 @@ Looking for prints or additional formats?
 
 <section class="gallery-grid">
 
-<a href="/images/ink-drawings/full/2026/2026-Drawings-001.jpg" class="gallery-item" aria-label="Open full image: 001 – Resolution">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-001-thumb.jpg" alt="001 – Resolution">
-  <div class="gallery-caption">001 – Resolution</div>
-</a>
+<div class="gallery-item">
+
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-001.jpg" class="gallery-thumb">
+    <img loading="lazy"
+         src="/images/ink-drawings/thumbnails/2026/2026-Drawings-001-thumb.jpg"
+         alt="001 – Resolution">
+  </a>
+
+  <div class="gallery-caption">
+    001 – Resolution
+  </div>
+
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-001.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/abstract-blue-hand-on-sketchy-background-alan-mcclellan.html"
+       target="_blank"
+       rel="noopener">Prints</a>
+  </div>
+
+</div>
 
 <a href="/images/ink-drawings/full/2026/2026-Drawings-002.jpg" class="gallery-item" aria-label="Open full image: 002 – Trajectory">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-002-thumb.jpg" alt="002 – Doll">
