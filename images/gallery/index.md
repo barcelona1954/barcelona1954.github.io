@@ -4,7 +4,7 @@ title: My Art Gallery
 prev_label: Images
 prev_url: /images/
 ---
-# Art allery
+# Art Gallery
 
 A chronological gallery of selected drawings and visual work from Pretzelvision.
 
@@ -50,14 +50,9 @@ Looking for prints or additional formats?
   <div class="gallery-caption">007 – Shape</div>
 </a>
 
-<a href="/images/ink-drawings/full/2026/2026-Drawings-008.jpg" class="gallery-item" aria-label="Open full image: 008 – Futuristic">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-008-thumb.jpg" alt="008 – Futuristic">
-  <div class="gallery-caption">008 – Futuristic</div>
-</a>
-
 <a href="/images/ink-drawings/full/2026/2026-Drawings-008.jpg" class="gallery-item" aria-label="Open full image: 008 – Up-Down">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-008-thumb.jpg" alt="008 – Up-Down">
-  <div class="gallery-caption">008 – Up-Down/div>
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-008-thumb.jpg" alt="008 – Up-DOwn">
+  <div class="gallery-caption">008 – Up-Down</div>
 </a>
 
 <a href="/images/ink-drawings/full/2026/2026-Drawings-009.jpg" class="gallery-item" aria-label="Open full image: 009 – Futuristic">
