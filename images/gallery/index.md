@@ -55,6 +55,16 @@ Looking for prints or additional formats?
   <div class="gallery-caption">008 – Futuristic</div>
 </a>
 
+<a href="/images/ink-drawings/full/2026/2026-Drawings-008.jpg" class="gallery-item" aria-label="Open full image: 008 – Up-Down">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-008-thumb.jpg" alt="008 – Up-Down">
+  <div class="gallery-caption">008 – Up-Down/div>
+</a>
+
+<a href="/images/ink-drawings/full/2026/2026-Drawings-009.jpg" class="gallery-item" aria-label="Open full image: 009 – Futuristic">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-009-thumb.jpg" alt="009 – Futuristic">
+  <div class="gallery-caption">009 – Futuristic</div>
+</a>
+
 </section>
 
 ## 2025
