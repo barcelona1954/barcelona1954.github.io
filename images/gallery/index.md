@@ -109,13 +109,15 @@ Looking for prints or additional formats?
     <a href="https://fineartamerica.com/featured/futuristic-capsule-travel-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
   </div>
 </div>
+</section>
 
-<br>
 <!-- 2025 -->
 
 <hr class="gallery-divider">
 <h3 class="gallery-section-label">Earlier Work</h3>
 
+
+<section class="gallery-grid">
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2025/2025-Drawings-007.jpg">
     <img loading="lazy" src="/images/ink-drawings/thumbnails/2025/2025-Drawings-007-thumb.jpg" alt="007 – Hunter">
