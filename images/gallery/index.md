@@ -16,51 +16,67 @@ Looking for prints or additional formats?
 <section class="gallery-grid">
 
 <div class="gallery-item">
-
   <a href="/images/ink-drawings/full/2026/2026-Drawings-001.jpg">
-    <img loading="lazy"
-         src="/images/ink-drawings/thumbnails/2026/2026-Drawings-001-thumb.jpg"
-         alt="001 – Resolution">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-001-thumb.jpg" alt="001 – Resolution">
   </a>
-
-  <div class="gallery-caption">
-    001 – Resolution
-  </div>
-
+  <div class="gallery-caption">001 – Resolution</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2026/2026-Drawings-001.jpg">View full</a>
-    <span class="gallery-sep">.</span>
-    <a href="https://fineartamerica.com/featured/abstract-blue-hand-on-sketchy-background-alan-mcclellan.html"
-       target="_blank"
-       rel="noopener">Prints</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/abstract-blue-hand-on-sketchy-background-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
   </div>
-
 </div>
 
-<a href="/images/ink-drawings/full/2026/2026-Drawings-002.jpg" class="gallery-item" aria-label="Open full image: 002 – Trajectory">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-002-thumb.jpg" alt="002 – Doll">
+<div class="gallery-item">
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-002.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-002-thumb.jpg" alt="002 – Doll">
+  </a>
   <div class="gallery-caption">002 – Doll</div>
-</a>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-002.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/dollhouse-figure-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+  </div>
+</div>
 
-<a href="/images/ink-drawings/full/2026/2026-Drawings-003.jpg" class="gallery-item" aria-label="Open full image: 003 – Hummer">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-003-thumb.jpg" alt="003 – Hummer">
+<div class="gallery-item">
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-003.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-003-thumb.jpg" alt="003 – Hummer">
+  </a>
   <div class="gallery-caption">003 – Hummer</div>
-</a>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-003.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/hummingbird-study-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+  </div>
+</div>
 
-<a href="/images/ink-drawings/full/2026/2026-Drawings-004.jpg" class="gallery-item" aria-label="Open full image: 004 – Balance">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-004-thumb.jpg" alt="004 – Balance">
-  <div class="gallery-caption">004 – Balance</div>
-</a>
+<div class="gallery-item">
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-004.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-004-thumb.jpg" alt="004 – Hammer">
+  </a>
+  <div class="gallery-caption">004 – Hammer</div>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-004.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/three-hammers-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+  </div>
+</div>
 
-<a href="/images/ink-drawings/full/2026/2026-Drawings-005.jpg" class="gallery-item" aria-label="Open full image: 005 – Super">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-005-thumb.jpg" alt="005 – Super">
-  <div class="gallery-caption">005 – Super</div>
-</a>
-
-<a href="/images/ink-drawings/full/2026/2026-Drawings-006.jpg" class="gallery-item" aria-label="Open full image: 006 – Hobby">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-006-thumb.jpg" alt="006 – Hobby">
+<div class="gallery-item">
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-006.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-006-thumb.jpg" alt="006 – Hobby">
+  </a>
   <div class="gallery-caption">006 – Hobby</div>
-</a>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-006.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/man-playing-guitar-sketch-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+  </div>
+</div>
+
+<!-- Continue pattern for remaining rows... -->
+
 
 <a href="/images/ink-drawings/full/2026/2026-Drawings-007.jpg" class="gallery-item" aria-label="Open full image: 007 – Shape">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-007-thumb.jpg" alt="007 – Shape">
