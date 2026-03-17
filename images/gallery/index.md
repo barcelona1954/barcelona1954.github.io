@@ -6,12 +6,12 @@ prev_url: /images/
 ---
 # Art Gallery
 
-A chronological gallery of selected drawings and visual work from Pretzelvision.
+My gallery hightlights a chronological view  of selected drawings and visual work from Pretzelvision. New work is highlighted at the top, and then you can see work from previous years, going back to the beginning of this articistic endeavor in 2019 (works near the bottom). 
 
 Looking for prints or additional formats?  
-[Browse the Alan McClellan collection on Fine Art America ↗](https://fineartamerica.com/profiles/alan-mcclellan)
+[Browse the Alan McClellan collection on Fine Art America ↗](https://fineartamerica.com/profiles/alan-mcclellan). Also, individual art below that is available in print format has specific links to the my Fine Arts America site.  
 
-## 2026 (new work)
+## 2026 - New Work
 
 <section class="gallery-grid">
 <div class="gallery-item">
@@ -112,6 +112,10 @@ Looking for prints or additional formats?
 
 
 <!-- 2025 -->
+
+<hr class="gallery-divider">
+
+<h3 class="gallery-section-label">Earlier Work</h3>
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2025/2025-Drawings-007.jpg">
