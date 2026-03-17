@@ -196,11 +196,11 @@ prev_url: /images/ink-drawings/
 
 <a href="../full/2020/2020-Drawings-021.jpg"
    class="gallery-item"
-   aria-label="Open full image: 021 – Chef">
+   aria-label="Open full image: 021 – Brain">
   <img loading="lazy"
        src="../thumbnails/2020/2020-Drawings-021-thumb.jpg"
-       alt="021 – Chef">
-  <div class="gallery-caption">021 – Chef</div>
+       alt="021 – Brain">
+  <div class="gallery-caption">021 – Brain</div>
 </a>
 
 <a href="../full/2020/2020-Drawings-022.jpg"

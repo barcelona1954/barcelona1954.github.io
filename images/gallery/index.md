@@ -86,9 +86,20 @@ Looking for prints or additional formats?
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2025/2025-Drawings-007-thumb.jpg" alt="007 – Hunter">
   <div class="gallery-caption">007 – Hunter</div>
 </a>
-<a href="/images/ink-drawings/full/2025/2025-Drawings-010.jpg" class="gallery-item" aria-label="Open full image: 010 – Balance">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2025/2025-Drawings-010-thumb.jpg" alt="010 – Balance">
-  <div class="gallery-caption">010 – Balance</div>
+
+<a href="/images/ink-drawings/full/2025/2025-Drawings-008.jpg" class="gallery-item" aria-label="Open full image: 008 – Home">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2025/2025-Drawings-008-thumb.jpg" alt="008 – Home">
+  <div class="gallery-caption">008 – Home</div>
+</a>
+
+<a href="/images/ink-drawings/full/2025/2025-Drawings-009.jpg" class="gallery-item" aria-label="Open full image: 009 – Splash">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2025/2025-Drawings-009-thumb.jpg" alt="009 – Splash">
+  <div class="gallery-caption">009 – Splash</div>
+</a>
+
+<a href="/images/ink-drawings/full/2025/2025-Drawings-010.jpg" class="gallery-item" aria-label="Open full image: 010 – Hammer">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2025/2025-Drawings-010-thumb.jpg" alt="010 – Hammer">
+  <div class="gallery-caption">010 – Hammer</div>
 </a>
 <a href="/images/ink-drawings/full/2025/2025-Drawings-012.jpg" class="gallery-item" aria-label="Open full image: 012 – Musician">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2025/2025-Drawings-012-thumb.jpg" alt="012 – Musician">
@@ -98,9 +109,9 @@ Looking for prints or additional formats?
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2025/2025-Drawings-014-thumb.jpg" alt="014 – Eye">
   <div class="gallery-caption">014 – Eye</div>
 </a>
-<a href="/images/ink-drawings/full/2025/2025-Drawings-020.jpg" class="gallery-item" aria-label="Open full image: 020 – Shaft">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2025/2025-Drawings-020-thumb.jpg" alt="020 – Shaft">
-  <div class="gallery-caption">020 – Shaft</div>
+<a href="/images/ink-drawings/full/2025/2025-Drawings-019.jpg" class="gallery-item" aria-label="Open full image: 019 – Herbs">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2025/2025-Drawings-020-thumb.jpg" alt="019 – Herbs">
+  <div class="gallery-caption">019 – Herbs</div>
 </a>
 <a href="/images/ink-drawings/full/2025/2025-Drawings-021.jpg" class="gallery-item" aria-label="Open full image: 021 – Oops">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2025/2025-Drawings-021-thumb.jpg" alt="021 – Oops">
@@ -122,6 +133,12 @@ Looking for prints or additional formats?
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2025/2025-Drawings-036-thumb.jpg" alt="036 – Skull">
   <div class="gallery-caption">036 – Skull</div>
 </a>
+<a href="/images/ink-drawings/full/2025/2025-Drawings-036.jpg" class="gallery-item" aria-label="Open full image: 036 – Skull">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2025/2025-Drawings-038-thumb.jpg" alt="038 – Acorn">
+  <div class="gallery-caption">038 – Acorn</div>
+</a>
+
+
 <a href="/images/ink-drawings/full/2025/2025-Drawings-039.jpg" class="gallery-item" aria-label="Open full image: 039 – Frost">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2025/2025-Drawings-039-thumb.jpg" alt="039 – Frost">
   <div class="gallery-caption">039 – Frost</div>
@@ -130,6 +147,11 @@ Looking for prints or additional formats?
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2025/2025-Drawings-040-thumb.jpg" alt="040 – Club Heima">
   <div class="gallery-caption">040 – Club Heima</div>
 </a>
+<a href="/images/ink-drawings/full/2025/2025-Drawings-036.jpg" class="gallery-item" aria-label="Open full image: 036 – Skull">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2025/2025-Drawings-042-thumb.jpg" alt="042 – Wreath">
+  <div class="gallery-caption">042 – Wreath</div>
+</a>
+
 </section>
 
 ## 2024
@@ -147,13 +169,21 @@ Looking for prints or additional formats?
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-003-thumb.jpg" alt="003 – Content">
   <div class="gallery-caption">003 – Content</div>
 </a>
+<a href="/images/ink-drawings/full/2024/2024-Drawings-005.jpg" class="gallery-item" aria-label="Open full image: 005 – Submerge">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-005-thumb.jpg" alt="005 – Submerge">
+  <div class="gallery-caption">005 – Submerge</div>
+</a>
 <a href="/images/ink-drawings/full/2024/2024-Drawings-009.jpg" class="gallery-item" aria-label="Open full image: 009 – Gift">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-009-thumb.jpg" alt="009 – Gift">
   <div class="gallery-caption">009 – Gift</div>
 </a>
-<a href="/images/ink-drawings/full/2024/2024-Drawings-010.jpg" class="gallery-item" aria-label="Open full image: 010 – Game">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-010-thumb.jpg" alt="010 – Game">
-  <div class="gallery-caption">010 – Game</div>
+<a href="/images/ink-drawings/full/2024/2024-Drawings-011.jpg" class="gallery-item" aria-label="Open full image: 011 – Spring">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-011-thumb.jpg" alt="011 – Spring">
+  <div class="gallery-caption">011 – Spring</div>
+</a>
+<a href="/images/ink-drawings/full/2024/2024-Drawings-012.jpg" class="gallery-item" aria-label="Open full image: 012 – Blossom">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-012-thumb.jpg" alt="009 – Blossom">
+  <div class="gallery-caption">009 – Gift</div>
 </a>
 <a href="/images/ink-drawings/full/2024/2024-Drawings-014.jpg" class="gallery-item" aria-label="Open full image: 014 – Slide">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-014-thumb.jpg" alt="014 – Slide">
@@ -183,10 +213,6 @@ Looking for prints or additional formats?
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-031-thumb.jpg" alt="031 – Tranquil">
   <div class="gallery-caption">031 – Tranquil</div>
 </a>
-<a href="/images/ink-drawings/full/2024/2024-Drawings-033.jpg" class="gallery-item" aria-label="Open full image: 033 – Nomadic">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-033-thumb.jpg" alt="033 – Nomadic">
-  <div class="gallery-caption">033 – Nomadic</div>
-</a>
 <a href="/images/ink-drawings/full/2024/2024-Drawings-037.jpg" class="gallery-item" aria-label="Open full image: 037 – Phantasmagoria">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-037-thumb.jpg" alt="037 – Phantasmagoria">
   <div class="gallery-caption">037 – Phantasmagoria</div>
@@ -195,22 +221,18 @@ Looking for prints or additional formats?
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-038-thumb.jpg" alt="038 – Fragment (Self Portrait 2)">
   <div class="gallery-caption">038 – Fragment (Self Portrait 2)</div>
 </a>
-<a href="/images/ink-drawings/full/2024/2024-Drawings-042.jpg" class="gallery-item" aria-label="Open full image: 042 – Stocking">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-042-thumb.jpg" alt="042 – Stocking">
-  <div class="gallery-caption">042 – Stocking</div>
-</a>
 </section>
 
 ## 2023
 
 <section class="gallery-grid">
+<a href="/images/ink-drawings/full/2023/2023-Drawings-002.jpg" class="gallery-item" aria-label="Open full image: 002 – Ride">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-002-thumb.jpg" alt="002 – Ride">
+  <div class="gallery-caption">002 – Ride</div>
+</a>
 <a href="/images/ink-drawings/full/2023/2023-Drawings-004.jpg" class="gallery-item" aria-label="Open full image: 004 – Physics">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-004-thumb.jpg" alt="004 – Physics">
   <div class="gallery-caption">004 – Physics</div>
-</a>
-<a href="/images/ink-drawings/full/2023/2023-Drawings-007.jpg" class="gallery-item" aria-label="Open full image: 007 – Current">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-007-thumb.jpg" alt="007 – Current">
-  <div class="gallery-caption">007 – Current</div>
 </a>
 <a href="/images/ink-drawings/full/2023/2023-Drawings-008.jpg" class="gallery-item" aria-label="Open full image: 008 – Magic">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-008-thumb.jpg" alt="008 – Magic">
@@ -220,9 +242,17 @@ Looking for prints or additional formats?
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-010-thumb.jpg" alt="010 – Process">
   <div class="gallery-caption">010 – Process</div>
 </a>
-<a href="/images/ink-drawings/full/2023/2023-Drawings-016.jpg" class="gallery-item" aria-label="Open full image: 016 – Outline">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-016-thumb.jpg" alt="016 – Outline">
-  <div class="gallery-caption">016 – Outline</div>
+<a href="/images/ink-drawings/full/2023/2023-Drawings-011.jpg" class="gallery-item" aria-label="Open full image: 011 – Vessel">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-011-thumb.jpg" alt="011 – Vessel">
+  <div class="gallery-caption">011 – Vessel</div>
+</a>
+<a href="/images/ink-drawings/full/2023/2023-Drawings-015.jpg" class="gallery-item" aria-label="Open full image: 015 – Swat">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-015-thumb.jpg" alt="015 – Swat">
+  <div class="gallery-caption">015 – Swat</div>
+</a>
+<a href="/images/ink-drawings/full/2023/2023-Drawings-017.jpg" class="gallery-item" aria-label="Open full image: 017 – Fly">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-017-thumb.jpg" alt="017 – Fly">
+  <div class="gallery-caption">017 – Fly</div>
 </a>
 <a href="/images/ink-drawings/full/2023/2023-Drawings-021.jpg" class="gallery-item" aria-label="Open full image: 021 – Bar">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-021-thumb.jpg" alt="021 – Bar">
@@ -232,13 +262,25 @@ Looking for prints or additional formats?
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-026-thumb.jpg" alt="026 – Bubble">
   <div class="gallery-caption">026 – Bubble</div>
 </a>
-<a href="/images/ink-drawings/full/2023/2023-Drawings-029.jpg" class="gallery-item" aria-label="Open full image: 029 – Mystic">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-029-thumb.jpg" alt="029 – Mystic">
-  <div class="gallery-caption">029 – Mystic</div>
+<a href="/images/ink-drawings/full/2023/2023-Drawings-033.jpg" class="gallery-item" aria-label="Open full image: 033 – Microbe">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-033-thumb.jpg" alt="033 – Microbe">
+  <div class="gallery-caption">033 – Microbe</div>
+</a>
+<a href="/images/ink-drawings/full/2023/2023-Drawings-034.jpg" class="gallery-item" aria-label="Open full image: 034 – Mask">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-034-thumb.jpg" alt="034 – Mask">
+  <div class="gallery-caption">034 – Mask</div>
 </a>
 <a href="/images/ink-drawings/full/2023/2023-Drawings-035.jpg" class="gallery-item" aria-label="Open full image: 035 – Broken">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-035-thumb.jpg" alt="035 – Broken">
   <div class="gallery-caption">035 – Broken</div>
+</a>
+<a href="/images/ink-drawings/full/2023/2023-Drawings-038.jpg" class="gallery-item" aria-label="Open full image: 038 – Scale">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-038-thumb.jpg" alt="038 – Scale">
+  <div class="gallery-caption">038 – Scale</div>
+</a>
+<a href="/images/ink-drawings/full/2023/2023-Drawings-039.jpg" class="gallery-item" aria-label="Open full image: 039 – Glass">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-039-thumb.jpg" alt="039 – Glass">
+  <div class="gallery-caption">039 – Glass</div>
 </a>
 <a href="/images/ink-drawings/full/2023/2023-Drawings-040.jpg" class="gallery-item" aria-label="Open full image: 040 – Trinket">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2023/2023-Drawings-040-thumb.jpg" alt="040 – Trinket">
@@ -261,10 +303,6 @@ Looking for prints or additional formats?
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2022/2022-Drawings-010-thumb.jpg" alt="010 – Gypsy">
   <div class="gallery-caption">010 – Gypsy</div>
 </a>
-<a href="/images/ink-drawings/full/2022/2022-Drawings-012.jpg" class="gallery-item" aria-label="Open full image: 012 – Hippie">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2022/2022-Drawings-012-thumb.jpg" alt="012 – Hippie">
-  <div class="gallery-caption">012 – Hippie</div>
-</a>
 <a href="/images/ink-drawings/full/2022/2022-Drawings-013.jpg" class="gallery-item" aria-label="Open full image: 013 – Caravan">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2022/2022-Drawings-013-thumb.jpg" alt="013 – Caravan">
   <div class="gallery-caption">013 – Caravan</div>
@@ -284,6 +322,10 @@ Looking for prints or additional formats?
 <a href="/images/ink-drawings/full/2022/2022-Drawings-023.jpg" class="gallery-item" aria-label="Open full image: 023 – Dandelion">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2022/2022-Drawings-023-thumb.jpg" alt="023 – Dandelion">
   <div class="gallery-caption">023 – Dandelion</div>
+</a>
+<a href="/images/ink-drawings/full/2022/2022-Drawings-032.jpg" class="gallery-item" aria-label="Open full image: 032 – Cubism">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2022/2022-Drawings-032-thumb.jpg" alt="032 – Cubism">
+  <div class="gallery-caption">032 – Cubism</div>
 </a>
 <a href="/images/ink-drawings/full/2022/2022-Drawings-038.jpg" class="gallery-item" aria-label="Open full image: 038 – Source Historical">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2022/2022-Drawings-038-thumb.jpg" alt="038 – Source Historical">
@@ -318,17 +360,41 @@ Looking for prints or additional formats?
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2021/2021-Drawings-015-thumb.jpg" alt="015 – Blood">
   <div class="gallery-caption">015 – Blood</div>
 </a>
+<a href="/images/ink-drawings/full/2021/2021-Drawings-016.jpg" class="gallery-item" aria-label="Open full image: 016 – Fresh">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2021/2021-Drawings-016-thumb.jpg" alt="016 – Fresh">
+  <div class="gallery-caption">016 – Fresh</div>
+</a>
+<a href="/images/ink-drawings/full/2021/2021-Drawings-023.jpg" class="gallery-item" aria-label="Open full image: 023 – Imagination">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2021/2021-Drawings-023-thumb.jpg" alt="023 – Imagination">
+  <div class="gallery-caption">023 – Imagination</div>
+</a>
 <a href="/images/ink-drawings/full/2021/2021-Drawings-026.jpg" class="gallery-item" aria-label="Open full image: 026 – Luxury">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2021/2021-Drawings-026-thumb.jpg" alt="026 – Luxury">
   <div class="gallery-caption">026 – Luxury</div>
+</a>
+<a href="/images/ink-drawings/full/2021/2021-Drawings-027.jpg" class="gallery-item" aria-label="Open full image: 027 – Fire">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2021/2021-Drawings-027-thumb.jpg" alt="027 – Fire">
+  <div class="gallery-caption">016 – Fresh</div>
 </a>
 <a href="/images/ink-drawings/full/2021/2021-Drawings-028.jpg" class="gallery-item" aria-label="Open full image: 028 – Pattern">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2021/2021-Drawings-028-thumb.jpg" alt="028 – Pattern">
   <div class="gallery-caption">028 – Pattern</div>
 </a>
+<a href="/images/ink-drawings/full/2021/2021-Drawings-031.jpg" class="gallery-item" aria-label="Open full image: 031 – Yield">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2021/2021-Drawings-031-thumb.jpg" alt="031 – Yield">
+  <div class="gallery-caption">031 – Yield</div>
+</a>
+<a href="/images/ink-drawings/full/2021/2021-Drawings-035.jpg" class="gallery-item" aria-label="Open full image: 035 – Twist">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2021/2021-Drawings-035-thumb.jpg" alt="031 – Twist">
+  <div class="gallery-caption">035 – Twist</div>
+</a>
 <a href="/images/ink-drawings/full/2021/2021-Drawings-039.jpg" class="gallery-item" aria-label="Open full image: 039 – Tree">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2021/2021-Drawings-039-thumb.jpg" alt="039 – Tree">
   <div class="gallery-caption">039 – Tree</div>
+</a>
+<a href="/images/ink-drawings/full/2021/2021-Drawings-041.jpg" class="gallery-item" aria-label="Open full image: 041 – Beer">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2021/2021-Drawings-047-thumb.jpg" alt="041 – Beer">
+  <div class="gallery-caption">047 – Well</div>
 </a>
 <a href="/images/ink-drawings/full/2021/2021-Drawings-047.jpg" class="gallery-item" aria-label="Open full image: 047 – Well">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2021/2021-Drawings-047-thumb.jpg" alt="047 – Well">
