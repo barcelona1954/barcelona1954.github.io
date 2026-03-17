@@ -110,11 +110,10 @@ Looking for prints or additional formats?
   </div>
 </div>
 
-
+<br>
 <!-- 2025 -->
 
 <hr class="gallery-divider">
-
 <h3 class="gallery-section-label">Earlier Work</h3>
 
 <div class="gallery-item">
