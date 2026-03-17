@@ -1008,10 +1008,10 @@ Looking for prints or additional formats?
 </div>
 
 <div class="gallery-item">
-  <a href="/images/ink-drawings/full/2019/2019-Drawings-039.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2019/2019-Drawings-039-thumb.jpg" alt="039 – Cube">
+  <a href="/images/ink-drawings/full/2019/2019-Drawings-030.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2019/2019-Drawings-030-thumb.jpg" alt="039 – Cube">
   </a>
-  <div class="gallery-caption">039 – Cube</div>
+  <div class="gallery-caption">030 – Cube</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2019/2019-Drawings-039.jpg">View full</a>
     <span class="gallery-sep">·</span>
