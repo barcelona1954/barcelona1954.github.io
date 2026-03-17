@@ -393,8 +393,8 @@ Looking for prints or additional formats?
   <div class="gallery-caption">039 – Tree</div>
 </a>
 <a href="/images/ink-drawings/full/2021/2021-Drawings-041.jpg" class="gallery-item" aria-label="Open full image: 041 – Beer">
-  <img loading="lazy" src="/images/ink-drawings/thumbnails/2021/2021-Drawings-047-thumb.jpg" alt="041 – Beer">
-  <div class="gallery-caption">047 – Well</div>
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2021/2021-Drawings-041-thumb.jpg" alt="041 – Beer">
+  <div class="gallery-caption">041 – Beer</div>
 </a>
 <a href="/images/ink-drawings/full/2021/2021-Drawings-047.jpg" class="gallery-item" aria-label="Open full image: 047 – Well">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2021/2021-Drawings-047-thumb.jpg" alt="047 – Well">
@@ -409,6 +409,10 @@ Looking for prints or additional formats?
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2020/2020-Drawings-002-thumb.jpg" alt="002 – Wisp">
   <div class="gallery-caption">002 – Wisp</div>
 </a>
+<a href="/images/ink-drawings/full/2020/2020-Drawings-021.jpg" class="gallery-item" aria-label="Open full image: 021 – Brain">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2020/2020-Drawings-021-thumb.jpg" alt="021 – Brain">
+  <div class="gallery-caption">021 – Brain/div>
+</a>
 
 <a href="/images/ink-drawings/full/2020/2020-Drawings-036.jpg" class="gallery-item" aria-label="Open full image: 036 – Hand">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2020/2020-Drawings-036-thumb.jpg" alt="036 – Hand">
@@ -419,6 +423,10 @@ Looking for prints or additional formats?
 ## 2019
 
 <section class="gallery-grid">
+<a href="/images/ink-drawings/full/2019/2019-Drawings-002.jpg" class="gallery-item" aria-label="Open full image: 002 – Seed">
+  <img loading="lazy" src="/images/ink-drawings/thumbnails/2019/2019-Drawings-002-thumb.jpg" alt="002 – Seed">
+  <div class="gallery-caption">002 – Seed</div>
+</a>S
 <a href="/images/ink-drawings/full/2019/2019-Drawings-030.jpg" class="gallery-item" aria-label="Open full image: 030 – Cube">
   <img loading="lazy" src="/images/ink-drawings/thumbnails/2019/2019-Drawings-030-thumb.jpg" alt="030 – Cube">
   <div class="gallery-caption">030 – Cube</div>
