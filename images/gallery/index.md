@@ -956,16 +956,6 @@ Looking for prints or additional formats?
 <!-- 2020 -->
 
 <div class="gallery-item">
-  <a href="/images/ink-drawings/full/2020/2020-Drawings-001.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2020/2020-Drawings-001-thumb.jpg" alt="001 – Wisp">
-  </a>
-  <div class="gallery-caption">001 – Wisp</div>
-  <div class="gallery-actions">
-    <a href="/images/ink-drawings/full/2020/2020-Drawings-001.jpg">View full</a>
-  </div>
-</div>
-
-<div class="gallery-item">
   <a href="/images/ink-drawings/full/2020/2020-Drawings-021.jpg">
     <img loading="lazy" src="/images/ink-drawings/thumbnails/2020/2020-Drawings-021-thumb.jpg" alt="021 – Brain">
   </a>
@@ -1009,6 +999,16 @@ Looking for prints or additional formats?
   <div class="gallery-caption">006 – Drip</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2019/2019-Drawings-006.jpg">View full</a>
+  </div>
+</div>
+
+<div class="gallery-item">
+  <a href="/images/ink-drawings/full/2019/2019-Drawings-029.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2019/2019-Drawings-029-thumb.jpg" alt="006 – Wisp">
+  </a>
+  <div class="gallery-caption">029 – Wisp</div>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2019/2019-Drawings-029.jpg">View full</a>
   </div>
 </div>
 
