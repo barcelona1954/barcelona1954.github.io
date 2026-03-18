@@ -22,7 +22,7 @@ Ink drawings in black-and-white and color, an artist sketchbook, and a portfolio
   </p>
 
   <p>
-  I draw. I create cartoons. I take art classes. I find internet inspiration for practicing and developing my drawing skills. And voilà, 20 years later, here we are. This is my collection over the past 15–20 years. Enjoy.
+  I draw. I create cartoons. I take art classes. I find internet inspiration for practicing and developing my drawing skills. And voilà, 20 more years down the road, here we are. This is my collection over the past number of years. Enjoy.
   </p>
 </details>
 
