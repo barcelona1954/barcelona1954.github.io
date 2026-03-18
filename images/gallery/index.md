@@ -6,7 +6,7 @@ prev_url: /images/
 ---
 # Art Gallery
 
-My gallery hightlights a chronological view  of selected drawings and visual work from Pretzelvision. New work is highlighted at the top, and then you can see work from previous years, going back to the beginning of this articistic endeavor in 2019 (works near the bottom). I believe any d
+My gallery hightlights a chronological view  of selected drawings and visual work from Pretzelvision. New work is highlighted at the top, and then you can see work from previous years, going back to the beginning of this articistic endeavor in 2019 (works near the bottom). 
 
 If you are looking for prints or additional formats, you can  
 [bowse the Alan McClellan collection on Fine Art America ↗](https://fineartamerica.com/profiles/alan-mcclellan). You'll also see individual art below that has a direct link the "print" options on my Fine Arts America site.  
