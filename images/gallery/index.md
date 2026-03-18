@@ -6,12 +6,16 @@ prev_url: /images/
 ---
 # Art Gallery
 
+<details class="pv-reveal">
+  <summary>My Story</summary>
+
 My gallery hightlights a chronological view  of selected drawings and visual work from Pretzelvision. New work is highlighted at the top, and then you can see work from previous years, going back to the beginning of this articistic endeavor in 2019 (works near the bottom). 
 
 If you are looking for prints or additional formats, you can  
 [bowse the Alan McClellan collection on Fine Art America ↗](https://fineartamerica.com/profiles/alan-mcclellan). You'll also see individual art below that has a direct link the "print" options on my Fine Arts America site.  
 
 I believe any drawing that links to Fine Arts America is original work. I've also included a handful of drawings in the gallery that are based on existing photographs. While I'm not trying to sell them, I do like the way some of them turned out and I want to share those as well. 
+</details>
 
 ## 2026 - New Work
 
