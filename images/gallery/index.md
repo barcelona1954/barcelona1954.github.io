@@ -12,9 +12,9 @@ prev_url: /images/
 My gallery hightlights a chronological view  of selected drawings and visual work from Pretzelvision. New work is highlighted at the top, and then you can see work from previous years, going back to the beginning of this articistic endeavor in 2019 (works near the bottom). 
 </p>
 <p>
-If you are looking for prints or additional formats, Look here:
+If you are looking for prints or additional formats,
 <br>  
-[browse the Alan McClellan collection on Fine Art America ↗](https://fineartamerica.com/profiles/alan-mcclellan). 
+→ [browse the Alan McClellan Art Collections on Fine Art America](https://fineartamerica.com/profiles/alan-mcclellan)
 <br>
 You'll also see individual art below that has a direct link the "print" options on my Fine Arts America site.  
 </p>
