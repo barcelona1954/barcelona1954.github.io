@@ -10,15 +10,15 @@ Ink drawings in black-and-white and color, an artist sketchbook, and a portfolio
   <details class="pv-reveal">
   <summary>My Story </summary>
   <p>
-  When I was in 2nd or 3rd grade, I started drawing images with a Ticonderoga pencil on lined notebook paper. I specifically remember sitting on the couch in my grandparents living room, looking through library and school books, and drawing profiles of one of the Wright brothers and trying to capture the likeness of an elephant.
+  When I was in 2nd or 3rd grade, I started drawing images with a Ticonderoga pencil on lined notebook paper. I specifically remember sitting on the couch in my grandparents living room, looking through library and school books for images to draw. I drew profiles of the Wright brothers and tried to capture the likeness of an elephant. 
   </p>
 
   <p>
-  There was a long hiatus where I didn't think much about art except for doodling. Then, wandering my way through my later teens, I had the epiphany that I liked art, both taking it in and creating it. I joined the Art Club in high school, started college as an art major. During my first year of university, I had professors recognize my work and suggest I consider going to art school.
+  Between these early days of exploration and high school there was a long hiatus where I didn't think much about art except for doodling. Then, wandering my way through my later teens, I had the epiphany that I liked art, both taking it in and creating it. I went to museums. I joined the Art Club. And with some ecouragement from my teachers, I started college as an art major. During my first year of university, I had professors recognize my work and suggest I consider going to an art school to really focus on art.
   </p>
 
   <p>
-  I liked this idea, but as a wanderer, I quit school and traveled in Europe for several months. (I believe today this would be called a "gap" year. In my case, it turned into "gap years.") Fast forward to where I'm a family man in his 50s, out of work for several months. It is then that I decide to focus on something I enjoy.
+  I liked this idea, but as a wanderer, I quit school and traveled in Europe for several months. (I believe today this would be called a "gap" year. In my case, it turned into "gap years.") Fast forward 30 years from Euro hippie backpacker to "family man" in his 50s, and out of work for several months. It is then that I decide to focus on something I enjoy.
   </p>
 
   <p>
