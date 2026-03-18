@@ -690,16 +690,6 @@ I believe any drawing that links to Fine Arts America is original work. I've als
 </div>
 
 <div class="gallery-item">
-  <a href="/images/ink-drawings/full/2022/2022-Drawings-019.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2022/2022-Drawings-019-thumb.jpg" alt="019 – Gypsy">
-  </a>
-  <div class="gallery-caption">019 – Gypsy</div>
-  <div class="gallery-actions">
-    <a href="/images/ink-drawings/full/2022/2022-Drawings-019.jpg">View full</a>
-  </div>
-</div>
-
-<div class="gallery-item">
   <a href="/images/ink-drawings/full/2022/2022-Drawings-013.jpg">
     <img loading="lazy" src="/images/ink-drawings/thumbnails/2022/2022-Drawings-013-thumb.jpg" alt="013 – Caravan">
   </a>
