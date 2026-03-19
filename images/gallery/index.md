@@ -229,7 +229,7 @@ prev_url: /images/
   <div class="gallery-caption">032 – Juicy</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2025/2025-Drawings-032.jpg">View full</a>
-    <-- Copyrighted
+    <!-- Copyrighted
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/vibrant-citrus-arrangement-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
     -->
@@ -536,8 +536,9 @@ prev_url: /images/
     <!-- Copyrighted 
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/newtons-cradle-in-motion-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+     -->
   </div>
-  -->
+ 
 </div>
 
 <div class="gallery-item">
@@ -876,7 +877,7 @@ prev_url: /images/
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2021/2021-Drawings-015.jpg">View full</a>
     <span class="gallery-sep">·</span>
-    <a href="https://fineartamerica.com/featured/fresh-citrus-TBD-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+    <a href="https://fineartamerica.com/featured/blood-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
   </div>
 </div>
 
@@ -887,7 +888,7 @@ prev_url: /images/
   <div class="gallery-caption">016 – Fresh</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2021/2021-Drawings-016.jpg">View full</a>
-    <-- Copyrighted
+    <!-- Copyrighted
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/fresh-citrus-fruits-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
     -->
@@ -957,7 +958,7 @@ prev_url: /images/
   <div class="gallery-caption">035 – Twist</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2021/2021-Drawings-035.jpg">View full</a>
-    <-- Copyrighted
+    <!-- Copyrighted
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/lemon-slice-and-peel-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
     -->
@@ -1031,7 +1032,7 @@ prev_url: /images/
   <div class="gallery-caption">002 – Seed</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2019/2019-Drawings-002.jpg">View full</a>
-    <-- Copyrighted 
+    <!-- Copyrighted 
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/detailed-kiwi-slice-drawing-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
     -->
