@@ -273,7 +273,7 @@ prev_url: /images/
 </div>
 
 <div class="gallery-item">
-  <a href="/images/ink-drawings/full/2025/2025-Drawings-039.jpg">
+<a href="/images/ink-drawings/full/2025/2025-Drawings-039.jpg">
     <img loading="lazy" src="/images/ink-drawings/thumbnails/2025/2025-Drawings-039-thumb.jpg" alt="039 – Frost">
   </a>
   <div class="gallery-caption">039 – Frost</div>
