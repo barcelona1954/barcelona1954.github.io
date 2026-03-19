@@ -414,8 +414,10 @@ prev_url: /images/
   <div class="gallery-caption">015 – Intricate</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2024/2024-Drawings-015.jpg">View full</a>
+    <!-- Copyrighted 
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/intricate-metal-knot-study-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+    -->
   </div>
 </div>
 
@@ -438,8 +440,10 @@ prev_url: /images/
   <div class="gallery-caption">024 – Serenity</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2024/2024-Drawings-024.jpg">View full</a>
+    <!-- Copyrighted 
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/zen-stone-balance-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+    -->
   </div>
 </div>
 
@@ -474,8 +478,10 @@ prev_url: /images/
   <div class="gallery-caption">031 – Tranquil</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2024/2024-Drawings-031.jpg">View full</a>
+    <!-->
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/intricate-bonsai-on-wooden-background-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+    -->
   </div>
 </div>
 
@@ -525,9 +531,11 @@ prev_url: /images/
   <div class="gallery-caption">004 – Physics</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2023/2023-Drawings-004.jpg">View full</a>
+    <!-- Copyrighted 
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/newtons-cradle-in-motion-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
   </div>
+  -->
 </div>
 
 <div class="gallery-item">
@@ -561,8 +569,11 @@ prev_url: /images/
   <div class="gallery-caption">015 – Swat</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2023/2023-Drawings-015.jpg">View full</a>
+  <!-- Copyrighted 
+
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/volleyball-in-motion-with-hands-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+    -->
   </div>
 </div>
 
@@ -609,8 +620,11 @@ prev_url: /images/
   <div class="gallery-caption">033 – Microbe</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2023/2023-Drawings-033.jpg">View full</a>
+    <!-- Copyrighted 
+
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/microscopic-virus-illustration-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+    -->
   </div>
 </div>
 
@@ -633,8 +647,11 @@ prev_url: /images/
   <div class="gallery-caption">035 – Broken</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2023/2023-Drawings-035.jpg">View full</a>
+    <!-- Copyrighted 
+
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/broken-chain-link-exploding-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+    -->
   </div>
 </div>
 
@@ -716,8 +733,11 @@ prev_url: /images/
   <div class="gallery-caption">013 – Caravan</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2022/2022-Drawings-013.jpg">View full</a>
+    <!-- Copyrighted 
+
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/intricate-camel-portrait-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+    -->
   </div>
 </div>
 
@@ -728,8 +748,10 @@ prev_url: /images/
   <div class="gallery-caption">015 – Star(Anis)</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2022/2022-Drawings-015.jpg">View full</a>
+    <!-- Copyrighted 
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/intricate-star-anise-design-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+    -->
   </div>
 </div>
 
@@ -740,6 +762,8 @@ prev_url: /images/
   <div class="gallery-caption">019 – Mesmerize</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2022/2022-Drawings-019.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/medusa-with-red-swirl-sunglasses-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
   </div>
 </div>
 
@@ -849,6 +873,8 @@ prev_url: /images/
   <div class="gallery-caption">015 – Blood</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2021/2021-Drawings-015.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/fresh-citrus-TBD-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
   </div>
 </div>
 
@@ -859,8 +885,10 @@ prev_url: /images/
   <div class="gallery-caption">016 – Fresh</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2021/2021-Drawings-016.jpg">View full</a>
+    <-- Copyrighted
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/fresh-citrus-fruits-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+    -->
   </div>
 </div>
 
@@ -927,8 +955,10 @@ prev_url: /images/
   <div class="gallery-caption">035 – Twist</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2021/2021-Drawings-035.jpg">View full</a>
+    <-- Copyrighted
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/lemon-slice-and-peel-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+    -->
   </div>
 </div>
 
@@ -999,8 +1029,10 @@ prev_url: /images/
   <div class="gallery-caption">002 – Seed</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2019/2019-Drawings-002.jpg">View full</a>
+    <-- Copyrighted 
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/detailed-kiwi-slice-drawing-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+    -->
   </div>
 </div>
 
