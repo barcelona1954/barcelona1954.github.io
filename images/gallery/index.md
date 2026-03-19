@@ -203,7 +203,7 @@ prev_url: /images/
   <div class="gallery-caption">022 – Fungi</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2025/2025-Drawings-022.jpg">View full</a>
-    <!-->
+    <!-- Copyrighted 
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/morel-mushrooms-in-the-wild-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
     -->
