@@ -229,8 +229,10 @@ prev_url: /images/
   <div class="gallery-caption">032 – Juicy</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2025/2025-Drawings-032.jpg">View full</a>
+    <-- Copyrighted
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/vibrant-citrus-arrangement-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+    -->
   </div>
 </div>
 
@@ -478,7 +480,7 @@ prev_url: /images/
   <div class="gallery-caption">031 – Tranquil</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2024/2024-Drawings-031.jpg">View full</a>
-    <!-->
+    <!--
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/intricate-bonsai-on-wooden-background-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
     -->
