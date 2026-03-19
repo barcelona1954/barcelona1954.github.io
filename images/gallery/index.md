@@ -388,8 +388,10 @@ prev_url: /images/
   <div class="gallery-caption">012 – Blossom</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2024/2024-Drawings-012.jpg">View full</a>
+    <-- Copyrighted - FreePik 
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/red-roses-and-blue-butterflies-design-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+    --> 
   </div>
 </div>
 
