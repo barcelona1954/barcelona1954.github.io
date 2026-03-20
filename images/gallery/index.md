@@ -436,6 +436,19 @@ prev_url: /images/
 </div>
 
 <div class="gallery-item">
+  <a href="/images/ink-drawings/full/2024/2024-Drawings-021.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-021-thumb.jpg" alt="021 – Mythical">
+  </a>
+  <div class="gallery-caption">021 – Mythical</div>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2024/2024-Drawings-021.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/cyclops-with-intricate-details-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+  </div>
+</div>
+
+
+<div class="gallery-item">
   <a href="/images/ink-drawings/full/2024/2024-Drawings-024.jpg">
     <img loading="lazy" src="/images/ink-drawings/thumbnails/2024/2024-Drawings-024-thumb.jpg" alt="024 – Serenity">
   </a>
