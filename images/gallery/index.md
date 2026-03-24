@@ -33,6 +33,18 @@ prev_url: /images/
 
 <section class="gallery-grid">
 <div class="gallery-item">
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-010.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-010-thumb.jpg" alt="010 – Weather">
+  </a>
+  <div class="gallery-caption">010 – Weather</div>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-010.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/man-shielded-by-umbrella-in-rain-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+  </div>
+</div>
+
+<div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-001.jpg">
     <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-001-thumb.jpg" alt="001 – Resolution">
   </a>
