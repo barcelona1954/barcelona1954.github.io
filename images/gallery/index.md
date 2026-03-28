@@ -33,6 +33,20 @@ prev_url: /images/
 
 <section class="gallery-grid">
 <div class="gallery-item">
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-011.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-011-thumb.jpg" alt="010 – Fortress (of Fortresses)">
+  </a>
+  <div class="gallery-caption">011 – Fortress (of Fortresses)</div>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-011.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/intricate-turtle-patterns-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+  </div>
+</div>
+
+
+
+<div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-010.jpg">
     <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-010-thumb.jpg" alt="010 – Weather">
   </a>
