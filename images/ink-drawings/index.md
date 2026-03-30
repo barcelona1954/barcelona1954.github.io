@@ -21,6 +21,13 @@ Now, after 6 years of doing this, I have quite a collection of drawings. Some ar
 </p>
 <p>
 As you will see if you look at the early sketchbooks, I started drawing almost exclusively with blank ink. Later, I introduced color, and occasionally some other media like pastels or colored pencil. As you mosey through the sketchbooks (or the Art Gallery from bottom to top), I think you'll see some development. Take a look and see what you think. </p>
+<p>
+Note, if you are interested in prints or additional formats of my original work, 
+  <br>
+  → <a href="https://fineartamerica.com/profiles/alan-mcclellan" target="_blank" rel="noopener">
+  browse the Alan McClellan Art Collections on Fine Art America
+  </a>
+  </p>
 
 </details>
 
