@@ -30,11 +30,10 @@ prev_url: /images/
 </details>
 
 ## 2026 - New Work
-
 <section class="gallery-grid">
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-011.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-011-thumb.jpg" alt="010 – Fortress (of Fortresses)">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-011-thumb.jpg" alt="011 – Fortress (of Fortresses)">
   </a>
   <div class="gallery-caption">011 – Fortress (of Fortresses)</div>
   <div class="gallery-actions">
