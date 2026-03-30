@@ -23,13 +23,13 @@ Poems, short reflections, and other written work.
   I don't remember the topic, but I do remember being  paralyzed and embarrassed by the paltry few words and simple, unfinished paragraph I was able to construct. When time was up, our task was to form small groups (there were 5 or 6), pass papers around to each group, and then each reader in each group read the papers and rated them. 
   </p>
   <p>
-  After all the papers had been passed around, Jim collected the "ratings" and posted them on the chalkboard. Given the sparse number of words I was able to scribble down, I dreaded seeing the tabulated results. However, to my utter disbelief and amazement, my paper was the hightest, rated in the class. (I guess I was able to turn a phrase that sang to people.)
+  After all the papers had been passed around, Jim collected the "ratings" and posted them on the chalkboard. Given the sparse number of words I was able to scribble down, I dreaded seeing the tabulated results. However, to my utter disbelief and amazement, my paper was the hightest, rated in the class. (In retrospect, I guess I was able to turn a phrase that sang to people.)
   </p>
   <p>
-  I look back on that single experience as one that made me believe in myself. I went on to write an essay or two for the college paper, tutored and taught writing, and gained confidence in myself. 
+  I look back on that single experience as one that made me believe in myself. I went on to write an essay or two for the college paper (imagine the voice of Sam Spade as political commentator), tutored and taught writing, and gained confidence in myself. 
   </p>
   <p>
-  Over time, I realized that I enjoy writing about the world around me and the world I've experienced. (But it's so damn hard and time consuming!) That said, some of my thes life experiences have taken shape here in reflective narratives and an occasional poem (by Godric Saint). Sometimes I get serious and tackle and essay on a topic that occupies my mind. 
+  Over time, I realized that I enjoy writing about the world around me and the world I've experienced. (But it's so damn hard and time consuming!) That said, some of my life experiences have taken shape here in reflective narratives and an occasional poem (by Godric Saint). 
   </p>
 </details>
 
