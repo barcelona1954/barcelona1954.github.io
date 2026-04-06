@@ -40,10 +40,10 @@ prev_url: /images/
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2026/2026-Drawings-012.jpg">View full</a>
     <span class="gallery-sep">·</span>
-    <https://fineartamerica.com/featured/musicians-in-abstract-fashion-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+    <a href="https://fineartamerica.com/featured/musicians-in-abstract-fashion-alan-mcclellan.html" 
+   target="_blank" rel="noopener">Prints</a>
   </div>
 </div>
-
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-011.jpg">
