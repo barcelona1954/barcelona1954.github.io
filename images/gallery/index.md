@@ -31,6 +31,20 @@ prev_url: /images/
 
 ## 2026 - New Work
 <section class="gallery-grid">
+
+<div class="gallery-item">
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-012.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-012-thumb.jpg" alt="012 – Noise">
+  </a>
+  <div class="gallery-caption">012 – Noise (Avant Garde)</div>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-012.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <https://fineartamerica.com/featured/musicians-in-abstract-fashion-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+  </div>
+</div>
+
+
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-011.jpg">
     <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-011-thumb.jpg" alt="011 – Fortress (of Fortresses)">
