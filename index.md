@@ -3,7 +3,6 @@ layout: default
 title: Welcome to Pretzelvision
 ---
 
-<h1>Welcome to Pretzelvision</h1> 
 <p class="home-intro">
   Original artwork, cartoons, and writings by Alan McClellan. Music (classic covers) by my bands, the Corpse Revivers and Al Palomino and the Pintos.  
 
