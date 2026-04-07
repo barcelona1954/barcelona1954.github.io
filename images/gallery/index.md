@@ -170,6 +170,7 @@ prev_url: /images/
 <!-- 2025 -->
 
 <hr class="gallery-divider">
+
 <h3 class="gallery-section-label">Earlier Work</h3>
 
 
