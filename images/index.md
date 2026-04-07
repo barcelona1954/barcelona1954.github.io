@@ -48,4 +48,6 @@ Note, if you are interested in prints or additional formats of my original work,
 
 Some drawings and cartoons are also available as prints and additional formats on Fine Art America.
 
-→ [View the Alan McClellan Art Collections on Fine Art America](https://fineartamerica.com/profiles/alan-mcclellan)
+→ <a href="https://fineartamerica.com/profiles/alan-mcclellan" target="_blank" rel="noopener noreferrer">
+View the Alan McClellan Art Collections on Fine Art America
+</a>
