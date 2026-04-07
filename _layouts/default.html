@@ -20,20 +20,22 @@
 
   <div class="page">
 
-    <header class="site-header">
-      <div class="site-title">
-  {% if page.title %}{{ page.title }}{% else %}Pretzelvision{% endif %}
-</div>
-      <div class="site-tagline">My art, music, and writings.</div>
+<header class="site-header">
 
-      <nav class="site-nav">
-        <a href="/">Home</a>
-        <a href="/audio/">Audio</a>
-        <a href="/images/">Images</a>
-        <span class="nav-disabled">Writings</span>
-      </nav>
+  <nav class="site-nav">
+    <a href="/">Home</a>
+    <a href="/audio/">Audio</a>
+    <a href="/images/">Images</a>
+    <span class="nav-disabled">Writings</span>
+  </nav>
 
-    </header>
+  <div class="site-title">
+    {% if page.title %}{{ page.title }}{% else %}Pretzelvision{% endif %}
+  </div>
+
+  <div class="site-tagline">My art, music, and writings.</div>
+
+</header>
 
   <main class="site-content{% if page.url contains '/writings/' and page.url != '/writings/' %} writings-reading{% endif %}">
   {{ content }}
