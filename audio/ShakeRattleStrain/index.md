@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Shake Rattle Strain
+title: My Albums
 prev_label: Audio
 prev_url: /audio/
 noindex: true
 ---
-# Audio Library
-## Albums
-### Shake, Rattle, and Strain 
+
+# Shake Rattle, and Strain 
 
 <audio id="player" controls controlsList="nodownload" preload="none" style="width:100%;"></audio>
 

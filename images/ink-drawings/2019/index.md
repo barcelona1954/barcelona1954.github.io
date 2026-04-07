@@ -7,12 +7,6 @@ prev_url: /images/ink-drawings/
 
 <!-- RELEASE: public -->
 
-
-# Ink Drawings
-## 2019
-
-
-
 <div class="gallery-grid">
 
 

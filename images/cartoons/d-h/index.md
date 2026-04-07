@@ -6,11 +6,6 @@ prev_url: /images/cartoons/
 ---
 
 
-
-# Cartoons
-## D-H
-
-
 <div class="gallery-grid">
   <a href="../full/DeepThinkerCopyrighted.jpg" class="gallery-item">
     <img loading="lazy" src="../thumbnails/DeepThinkerCopyrighted-thumb.jpg" alt="Deep Thinker">

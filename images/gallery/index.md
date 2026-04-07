@@ -4,7 +4,6 @@ title: My Art Gallery
 prev_label: Images
 prev_url: /images/
 ---
-# Art Gallery
 
 <details class="pv-reveal">
   <summary>My Story</summary>

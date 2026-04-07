@@ -4,7 +4,6 @@ title: Featured
 ---
 
 
-# Featured  
    <section>
     <img  
       src="/images/ink-drawings/full/2019/2019-Drawings-013.jpg"

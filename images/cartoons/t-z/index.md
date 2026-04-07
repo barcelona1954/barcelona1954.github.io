@@ -5,11 +5,6 @@ prev_label: Cartoons
 prev_url: /images/cartoons/
 ---
 
-
-# Cartoons
-## T–Z
-
-
 <div class="gallery-grid">
 
   <a href="../full/TeslasToughLoveCopyrighted.jpg" class="gallery-item">

@@ -2,7 +2,6 @@
 layout: default
 title: Reader Notes
 ---
-# Reader Notes
 
 Occasional responses from readers, shared with permission.
 

@@ -3,8 +3,6 @@ layout: default
 title: My Art
 ---
 
-# Art
-
 Ink drawings in black-and-white and color, an artist sketchbook, and a portfolio of single panel cartoons. 
 
   <details class="pv-reveal">

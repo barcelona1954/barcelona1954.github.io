@@ -7,11 +7,6 @@ prev_url: /images/ink-drawings/
 
 <!-- RELEASE: private -->
 
-
-# Ink Drawings
-## 2021
-
-
 <div class="gallery-grid">
 
 

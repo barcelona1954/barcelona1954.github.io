@@ -6,11 +6,6 @@ prev_url: /images/cartoons/
 ---
 
 
-
-# Cartoons
-## N–S
-
-
 <div class="gallery-grid">
 
   <a href="../full/NeighborhoodWatchCopyrighted.jpg" class="gallery-item">

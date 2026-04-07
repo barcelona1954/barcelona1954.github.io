@@ -7,11 +7,6 @@ prev_url: /images/ink-drawings/
 
 <!-- RELEASE: private -->
 
-
-# Ink Drawings
-## 2023
-
-
 <div class="gallery-grid">
 
 <a href="../full/2023/2023-Drawings-001.jpg" class="gallery-item" aria-label="Open full image: 001 – Cone">

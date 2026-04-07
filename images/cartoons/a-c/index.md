@@ -6,10 +6,6 @@ prev_url: /images/cartoons/
 ---
 
 
-# Cartoons
-## A-C
-
-
 <div class="gallery-grid">
   <a href="../full/AmishTalkRadioCopyrighted.jpg" class="gallery-item">
     <img loading="lazy" src="../thumbnails/AmishTalkRadioCopyrighted-thumb.jpg" alt="Amish Talk Radio">

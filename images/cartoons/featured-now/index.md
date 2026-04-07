@@ -3,8 +3,6 @@ layout: default
 title: New Featured
 ---
 
-
-# Featured  
    <section>
     <img  
       src="/images/cartoons/full/WrongNumberCopyrighted.jpg"

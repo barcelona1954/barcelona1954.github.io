@@ -5,5 +5,3 @@ prev_label: Sketchbooks
 prev_url: /images/ink-drawings/
 ---
 
-
-# Featured Drawings

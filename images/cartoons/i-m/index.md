@@ -6,11 +6,6 @@ prev_url: /images/cartoons/
 ---
 
 
-
-# Cartoons
-## I–M
-
-
 <div class="gallery-grid">
 
   <a href="../full/ISayTomatoCopyrighted.jpg" class="gallery-item">

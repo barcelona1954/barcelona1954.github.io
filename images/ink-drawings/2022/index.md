@@ -8,10 +8,6 @@ prev_url: /images/ink-drawings/
 <!-- RELEASE: private -->
 
 
-# Ink Drawings
-## 2022
-
-
 <div class="gallery-grid">
 
 <a href="../full/2022/2022-Drawings-001.jpg" class="gallery-item" aria-label="Open full image: 001 – Red">

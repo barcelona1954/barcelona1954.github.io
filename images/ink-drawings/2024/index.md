@@ -5,12 +5,7 @@ prev_label: Sketchbooks
 prev_url: /images/ink-drawings/
 ---
 
-
 <!-- RELEASE: private -->
-
-
-# Ink Drawings
-## 2024
 
 <div class="gallery-grid">
 
