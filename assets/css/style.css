@@ -514,9 +514,13 @@ audio {
 }
 
 .gallery-divider {
-  margin: 3rem auto 1.5rem;
-  width: 60%;
+  border: none;              /* critical */
+  height: 1px;
+  background: #e6ded2;
+  border: none;
+  margin: 2rem 0;
 }
+
 
 .gallery-section-label {
   margin: 0 0 1rem;
@@ -530,6 +534,7 @@ audio {
   font-size: 0.85rem;
   margin-top: 0.25rem;
 }
+
 
 /* ===== Featured legacy ===== */
 
