@@ -39,11 +39,8 @@ More to come...introduce Al Palomino and the Pintos. Introduce Chuck. Introduce 
 
 ## Music Videos
 
-- **[Theme for the Champions – Official Music Video ↗](https://www.youtube.com/watch?v=N6xNXDAC9NI)**
-
-
-<a href="https://www.youtube.com/watch?v=N6xNXDAC9NI" target="_blank" rel="noopener noreferrer">
-Theme for the Champions – Official Music Video ↗
+- <a href="https://www.youtube.com/watch?v=N6xNXDAC9NI" target="_blank" rel="noopener noreferrer">
+<b>Theme for the Champions – Official Music Video ↗ </b>
 </a>
 
 
