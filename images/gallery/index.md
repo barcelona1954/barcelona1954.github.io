@@ -32,6 +32,21 @@ prev_url: /images/
 <section class="gallery-grid">
 
 <div class="gallery-item">
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-013.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-013-thumb.jpg" alt="013 – Abstract (Fruit)">
+  </a>
+  <div class="gallery-caption">013 – Abstract (Fruit)</div>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-013.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/vibrant-abstract-composition-alan-mcclellan.html" 
+   target="_blank" rel="noopener">Prints</a>
+  </div>
+</div>
+
+
+
+<div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-012.jpg">
     <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-012-thumb.jpg" alt="012 – Noise">
   </a>
