@@ -742,3 +742,23 @@ details.pv-reveal .reader-notes {
     font-size: 1.8rem;
   }
 }
+
+/* ===== Section Hero (page banner) ===== */
+
+.section-hero {
+  margin: 1rem 0 1.5rem;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid #e4dccf;
+}
+
+.section-hero img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  object-position: center 40%;
+  display: block;
+
+  /* subtle polish */
+  filter: saturate(0.95) contrast(1.02);
+}

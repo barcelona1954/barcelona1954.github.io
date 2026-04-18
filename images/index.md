@@ -5,6 +5,10 @@ title: My Art
 
 Ink drawings in black-and-white and color, an artist sketchbook, and a portfolio of single panel cartoons. 
 
+<div class="section-hero">
+  <img src="/images/ink-drawings/full/2023/2023-Drawings-004.jpg" alt="Ink drawing: [Physics]">
+</div>
+
   <details class="pv-reveal">
   <summary>My Story </summary>
   <p>
