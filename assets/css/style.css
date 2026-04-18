@@ -756,7 +756,7 @@ details.pv-reveal .reader-notes {
   width: 100%;
   height: clamp(140px, 22vw, 220px);
   object-fit: cover;
-  object-position: center 40%;
+  object-position: center 50%;
   display: block;
 
   filter: saturate(0.95) contrast(1.02);
