@@ -754,9 +754,9 @@ details.pv-reveal .reader-notes {
 
 .section-hero img {
   width: 100%;
-  height: clamp(140px, 22vw, 220px);
+  height: clamp(120px, 18vw, 180px);
   object-fit: cover;
-  object-position: center 50%;
+  object-position: center 30%;
   display: block;
 
   filter: saturate(0.95) contrast(1.02);
