@@ -6,7 +6,7 @@ title: My Art
 Ink drawings in black-and-white and color, an artist sketchbook, and a portfolio of single panel cartoons. 
 
 <div class="section-hero">
-  <img src="/images/ink-drawings/banners/art-banner1.jpg" alt="Ink drawing: [Physics]">
+  <img src="/images/ink-drawings/banners/art-banner.jpg" alt="Ink drawing: [Physics]">
 </div>
 
   <details class="pv-reveal">
