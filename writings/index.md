@@ -1,15 +1,16 @@
 ---
 layout: default
-title: Writing Collections
+title: My Writings
 prev_label: Home
 prev_url: /
 noindex: true
 ---
 
-
-# Writings
-
 Poems, short reflections, and other written work.
+
+<div class="section-hero">
+  <img src="/images/ink-drawings/banners/writings-banner.jpg" alt="Ink drawing: Seeds Drifting]">
+</div>
 
 <details class="pv-reveal">
   <summary>My Story</summary>
