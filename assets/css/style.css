@@ -746,7 +746,7 @@ details.pv-reveal .reader-notes {
 /* ===== Section Hero (page banner) ===== */
 
 .section-hero {
-  margin: 1rem 0 1.5rem;
+  margin: 0.75rem 0 1.25rem;
   border-radius: 10px;
   overflow: hidden;
   border: 1px solid #e4dccf;
