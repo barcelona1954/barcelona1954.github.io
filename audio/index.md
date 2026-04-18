@@ -11,6 +11,10 @@ noindex: true
 
 Surf, rock, and spaghetti western inspired covers, instrumentals, and music videos.
 
+<div class="section-hero">
+  <img src="/images/ink-drawings/banners/music-banner.jpg" alt="Ink drawing: Guitar Slide]">
+</div>
+
 <details class="pv-reveal">
   <summary>My Story</summary>
 <p>
