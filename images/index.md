@@ -16,13 +16,13 @@ Ink drawings in black-and-white and color, an artist sketchbook, and a portfolio
   </p>
 
   <p>
-  Between these early days of exploration and high school there was a long hiatus where I didn't think much about art except for doodling. Then, wandering my way through my later teens, I had the epiphany that I liked art, both taking it in and creating it. I went to museums. I joined the Art Club. And with some encouragement from my teachers, I started college as an art major. During my first year of university, I had professors recognize my work and suggest I consider going to an art school to really focus on art.
+  Between these early days of exploration and high school there was a long hiatus where I didn't think much about art except for doodling. Then, wandering my way through my later teens, I had the epiphany that I liked art, both taking it in and creating it. I went to museums. I joined the Art Club. And with some encouragement from my teachers, I went to college and started as an art major. During my first year of university, I had professors recognize my work and suggest I consider going to an art school to really focus on art.
   </p>
 
   <p>
   I liked this idea, but, alas, as a wanderer, I quit school and traveled in Europe for several months. (I believe today this would be called a "gap" year. In my case, it turned into "gap years.") 
   
-  The, fast forward 30 years. I transition from hippie Euro backpacker to California beach bum college grad to tech work and family man. But in my 50s, I find myself out-of-work several months (a casualty of the dot com bubble bursting). It is then, with some down-time and an opportunity to reflect, that I decide to spend more time on things that bring me joy and satisfaction. 
+  Then, fast forward 30 years. I transition from hippie Euro backpacker to California beach bum to college grad to tech worker and family man. In my 50s, I find myself an unfortunate casuality of the dot com bubble bursting and I'm out-of-work for several months. It is then, with some down-time and an opportunity to reflect, that I decide to spend more time on things that bring me joy and satisfaction. 
   </p>
 
   <p>
