@@ -2,6 +2,9 @@
 layout: default
 title: Welcome to Pretzelvision
 ---
+<div class="section-hero">
+  <img src="/images/ink-drawings/banners/home-banner.jpg" alt="Ink drawing: ocean waves]">
+</div>
 
 <p class="home-intro">
   Original artwork, cartoons, and writings by Alan McClellan. Music (classic covers) by my bands, the Corpse Revivers and Al Palomino and the Pintos.  
