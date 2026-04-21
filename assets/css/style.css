@@ -326,18 +326,20 @@ details.pv-reveal {
 }
 
 /* summary (header) */
+/* ===== pv-reveal header polish ===== */
+
 details.pv-reveal > summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
   font-size: 1.1rem;
   font-weight: 600;
-  color: #222222;
+  color: #222;
   line-height: 1.2;
-  margin: 0.5rem 0 0.4rem 0;
+  margin: 0.4rem 0;
   cursor: pointer;
   list-style: none;
-}
-
-details.pv-reveal p {
-  max-width: none;
 }
 
 /* remove default marker */
@@ -345,20 +347,21 @@ details.pv-reveal > summary::-webkit-details-marker {
   display: none;
 }
 
-details.pv-reveal > summary::marker {
-  content: "";
+/* remove left arrow */
+details.pv-reveal > summary::before {
+  content: none;
 }
 
-/* custom arrow */
-details.pv-reveal > summary::before {
+/* add right arrow */
+details.pv-reveal > summary::after {
   content: "▸";
-  display: inline-block;
-  width: 1.1em;
-  margin-right: 0.2em;
+  font-size: 0.9em;
+  opacity: 0.7;
   transition: transform 0.15s ease;
 }
 
-details.pv-reveal[open] > summary::before {
+/* rotate when open */
+details.pv-reveal[open] > summary::after {
   transform: rotate(90deg);
 }
 
