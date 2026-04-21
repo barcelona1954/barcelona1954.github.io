@@ -9,8 +9,8 @@ Ink drawings in black-and-white and color, an artist sketchbook, and a portfolio
   <img src="/images/ink-drawings/banners/art-banner.jpg" alt="Ink drawing: [Physics]">
 </div>
 
-  <details class="pv-reveal" open>
-  
+  <details class="pv-reveal">
+
   <summary>My Story </summary>
   <p>
   When I was in 2nd or 3rd grade, I started drawing images with a Ticonderoga pencil on lined notebook paper. I specifically remember sitting on the couch in my grandparents living room, looking through library and school books for pictures to draw. I drew profiles of the Wright brothers and tried to capture the likeness of an elephant. 
