@@ -37,7 +37,7 @@ prev_url: /images/
   </a>
   <div class="gallery-caption">017 – Motion</div>
   <div class="gallery-actions">
-    <a href="/images/ink-drawings/full/2026/2026-Drawings-016.jpg">View full</a>
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-017.jpg">View full</a>
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/floating-bowling-pins-alan-mcclellan.html" 
    target="_blank" rel="noopener">Prints</a>
