@@ -30,8 +30,25 @@ prev_url: /images/
 
 ## 2026 - New Work
 <section class="gallery-grid">
+<div class="gallery-item">
+
+
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-016.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-016-thumb.jpg" alt="-13 - Shells">
+  </a>
+  <div class="gallery-caption">016 – Shells (Watercolor & Ink)</div>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-016.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/sea-creature-composition-alan-mcclellan.html" 
+   target="_blank" rel="noopener">Prints</a>
+  </div>
+</div>
+
 
 <div class="gallery-item">
+
+
   <a href="/images/ink-drawings/full/2026/2026-Drawings-013.jpg">
     <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-013-thumb.jpg" alt="013 – Abstract (Fruit)">
   </a>
