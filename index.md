@@ -7,7 +7,7 @@ title: Welcome to Pretzelvision
 </div>
 
 <p class="home-intro">
-  Original artwork, cartoons, and writings by Alan McClellan. Music (classic covers) by my bands, the Corpse Revivers and Al Palomino and the Pintos.  
+  A collection of original artwork, cartoons, and writings by Alan McClellan and music (classic covers) by a project I'm in called The Corpse Revivers.  
 
 Selected artwork is also available as prints
 through Fine Art America.
