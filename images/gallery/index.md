@@ -9,7 +9,7 @@ prev_url: /images/
   <summary>My Story</summary>
 
   <p>
-  My gallery highights a chronological view of selected drawings and visual work from Pretzelvision. New work is highlighted at the top, and then you can see work from previous years, going back to the beginning of this artistic endeavor in 2019 (works near the bottom).
+  My gallery highlights a chronological view of selected drawings and visual work from Pretzelvision. New work is highlighted at the top, and then you can see work from previous years, going back to the beginning of this artistic endeavor in 2019 (works near the bottom).
   </p>
 
   <p>
@@ -30,6 +30,20 @@ prev_url: /images/
 
 ## 2026 - New Work
 <section class="gallery-grid">
+
+<div class="gallery-item">
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-019.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-019-thumb.jpg" alt="-19 - Garden">
+  </a>
+  <div class="gallery-caption">019 – Garden</div>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-019.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/stacked-indoor-herb-garden-alan-mcclellan.html" 
+   target="_blank" rel="noopener">Prints</a>
+  </div>
+</div>
+
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-017.jpg">
