@@ -33,10 +33,20 @@ It was many years later, when my kids, who were all accomplished musicians, enco
 One day, at work, I was chatting with my friend, Brian, and I mentioned that I was taking guitar lessons. He mentioned that he was taking bass guitar lessons. We decided to try playing some songs together. Brian came over to my house one Friday evening after work in the middle of winter. Because I thought bands were supposed to practice in the garage, that's what we did. It wasn't until our fingers were chilled and limbs shivering that I realized that, hey, I own this house and we can play in any room I want! So for the next several years, we traded off learning and playing songs ever two or three weeks at each others's houses. 
 </p>
 <p>
-More to come...introduce Al Palomino and the Pintos. Introduce Chuck. Introduce Corpse Revivers. 
+More to come...introduce Al Palomino and the Pintos, Chuck, Corpse Revivers. 
 </p>
 
 </details>
+
+<div class="recording-card">
+  <img src="/path/to/album-cover.jpg" alt="Album cover: Shake, Rattle, and Strain">
+
+  <div class="recording-card-text">
+    <h3>Shake, Rattle, and Strain</h3>
+    <p>Initial album release by The Corpse Revivers.</p>
+    <a class="primary-button" href="ShakeRattleStrain/">Listen / View Album</a>
+  </div>
+</div>
 
 
 ## Recordings
