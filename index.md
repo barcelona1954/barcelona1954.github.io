@@ -1,16 +1,13 @@
 ---
 layout: default
-title: Welcome to Pretzelvision
+title: Pretzelvision
 ---
 <div class="section-hero">
   <img src="/images/ink-drawings/banners/home-banner.jpg" alt="Ink drawing: ocean waves]">
 </div>
 
 <p class="home-intro">
-  A collection of original artwork, cartoons, and writings by Alan McClellan and music (classic covers) by a project I'm in called The Corpse Revivers.  
-
-Selected artwork is also available as prints
-through Fine Art America.
+  Original artwork, cartoons, and written work by Alan McClellan. Music includes classic surf and instrumental covers performed by The Corpse Revivers. 
 </p>
 
 <div class="home-grid">

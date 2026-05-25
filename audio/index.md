@@ -12,7 +12,7 @@ noindex: true
 Surf, rock, and spaghetti western inspired covers, instrumentals, and music videos.
 
 <div class="section-hero">
-  <img src="/images/ink-drawings/banners/music-banner.jpg" alt="Ink drawing: Guitar Slide]">
+  <img src="/images/ink-drawings/banners/music-banner.jpg" alt="Ink drawing: Guitar Slide">
 </div>
 
 <details class="pv-reveal">
@@ -25,7 +25,7 @@ Surf, rock, and spaghetti western inspired covers, instrumentals, and music vide
   </p>
 <p>
 Then, in high school, I found myself with several friends who were guitar players and musically inclined. I bought a new acoustic guitar and started learning songs. The muscle memory from my youth served me well, although I really didn't know much about music per se. I didn't know what it meant to play in key, or any basic theory or musical scales that would have helped me. So, again, after a couple years of fiddling around with the guitar, I kinda dropped it to peruse art and travel. 
-<p/>
+</p>
 <p>
 It was many years later, when my kids, who were all accomplished musicians, encouraged me to play guitar again. To help jump-start that activity, they bought me an Ovation acoustic guitar for Xmas, and I began taking lessons to get myself into a routine of practice. 
 </p>
@@ -37,7 +37,6 @@ More to come...introduce Al Palomino and the Pintos. Introduce Chuck. Introduce 
 </p>
 
 </details>
-
 
 
 ## Recordings
