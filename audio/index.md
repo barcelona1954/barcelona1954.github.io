@@ -39,7 +39,7 @@ More to come...introduce Al Palomino and the Pintos, Chuck, Corpse Revivers.
 </details>
 
 <div class="recording-card">
-  <img src="/path/to/album-cover.jpg" alt="Album cover: Shake, Rattle, and Strain">
+<img src="/images/audio/covers/shake-rattle-strain-cover-300.jpg" alt="Album cover: Shake, Rattle, and Strain">
 
   <div class="recording-card-text">
     <h3>Shake, Rattle, and Strain</h3>
