@@ -38,6 +38,8 @@ More to come...introduce Al Palomino and the Pintos, Chuck, Corpse Revivers.
 
 </details>
 
+## Recordings
+
 <div class="recording-card">
 <img src="/images/audio/covers/shake-rattle-strain-cover-300.png" alt="Album cover: Shake, Rattle, and Strain">
 
@@ -48,14 +50,32 @@ More to come...introduce Al Palomino and the Pintos, Chuck, Corpse Revivers.
   </div>
 </div>
 
+## Music Videos
 
-## Recordings
+<div class="recording-card">
+  <img src="/images/audio/video-thumbs/theme-for-the-champions-thumb.jpg"
+       alt="Theme for the Champions video thumbnail">
 
- - **[Shake Rattle and Strain](ShakeRattleStrain/)** – Initial album release by the Corpse Revivers.
+  <div class="recording-card-text">
+    <h3>Theme for the Champions</h3>
 
- - **More recordings coming soon.**
+    <p>
+      Official music video by The Corpse Revivers.
+    </p>
+
+    <a class="primary-button"
+       href="https://www.youtube.com/watch?v=N6xNXDAC9NI"
+       target="_blank"
+       rel="noopener noreferrer">
+      Watch Video ↗
+    </a>
+  </div>
+</div>
+
 
 ## Music Videos
+
+
 
 - <a href="https://www.youtube.com/watch?v=N6xNXDAC9NI" target="_blank" rel="noopener noreferrer">
 <b>Theme for the Champions – Official Music Video ↗ </b>
