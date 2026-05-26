@@ -1,12 +1,13 @@
 ---
 layout: default
-title: My Albums
+title: Shake, Rattle, and Strain | The Corpse Revivers
 prev_label: Audio
 prev_url: /audio/
 noindex: true
 ---
 
 # Shake Rattle, and Strain 
+### The Corpse Revivers
 
 <audio id="player" controls controlsList="nodownload" preload="none" style="width:100%;"></audio>
 
