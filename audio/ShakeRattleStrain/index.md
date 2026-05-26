@@ -9,6 +9,8 @@ noindex: true
 # Shake Rattle, and Strain 
 A collection of surf, rock, and spaghetti-western-inspired covers.
 
+## The Corpse Revivers
+
 <div class="album-intro-card">
   <img src="/images/audio/covers/shake-rattle-strain-cover-300.png"
        alt="Album cover: Shake, Rattle, and Strain">
@@ -21,7 +23,7 @@ A collection of surf, rock, and spaghetti-western-inspired covers.
 </div>
 
 
-## The Corpse Revivers
+
 
 
 <audio id="player" controls controlsList="nodownload" preload="none" style="width:100%;"></audio>
