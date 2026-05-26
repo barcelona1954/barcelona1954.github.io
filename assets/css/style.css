@@ -500,6 +500,35 @@ audio {
   border-bottom: 1px solid #e6ded2;
 }
 
+/* ===== Album player spacing ===== */
+
+#player {
+  margin: 1rem 0 0.75rem;
+}
+
+.album-track-list {
+  margin-top: 0.25rem;
+}
+
+.album-track-list {
+  counter-reset: tracklist;
+}
+
+.album-track-list li {
+  counter-increment: tracklist;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.album-track-list li::before {
+  content: counter(tracklist, decimal-leading-zero);
+  font-size: 0.8rem;
+  color: #8a7a63;
+  min-width: 1.8rem;
+}
+
+
 
 /* ===== Writings reading layout ===== */
 

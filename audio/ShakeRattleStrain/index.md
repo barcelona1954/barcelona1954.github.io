@@ -33,10 +33,10 @@ A collection of surf, rock, and spaghetti-western-inspired covers.
     <li data-src="01 Perfidia.mp3">Perfidia</li>
     <li data-src="02 SurfNouveau.mp3">Surf Nouveau</li>    
     <li data-src="03 GhostRiders.mp3">Ghost Riders</li>
-    <li data-src="04 Malaguena.mp3">Malaguena</li>
+    <li data-src="04 Malaguena.mp3">Malagueña</li>
     <li data-src="05 Surfbilly.mp3">Surfbilly</li>    
     <li data-src="06 Sleepwalk.mp3">Sleepwalk</li>  
-    <li data-src="07 ShesNotThere.mp3">Shes Not There</li>   
+    <li data-src="07 ShesNotThere.mp3">She's Not There</li>   
     <li data-src="08 TheQuietSurf.mp3">The Quiet Surf</li>    
     <li data-src="09 Stoked.mp3">Stoked</li>
     <li data-src="10 TheGoodTheBadAndTheUgly.mp3">The Good, The Bad, and The Ugly</li>    
