@@ -29,7 +29,7 @@ A collection of surf, rock, and spaghetti-western-inspired covers.
 <audio id="player" controls controlsList="nodownload" preload="none" style="width:100%;"></audio>
 
 
-<ul id="playlist">
+<ul id="playlist" class="album-track-list">
     <li data-src="01 Perfidia.mp3">Perfidia</li>
     <li data-src="02 SurfNouveau.mp3">Surf Nouveau</li>    
     <li data-src="03 GhostRiders.mp3">Ghost Riders</li>
