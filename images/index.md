@@ -52,7 +52,7 @@ Note, if you are interested in prints or additional formats of my original work,
   </a>
 
   <a class="collection-card" href="/images/cartoons/">
-    <img src="/images/cartoons/thumbnails/example-thumb.jpg"
+    <img src="/images/cartoons/thumbnails/ChutneyPepperSprayCopyrighted-thumb.jpg"
          alt="Cartoons">
 
     <div class="collection-card-body">
@@ -62,7 +62,7 @@ Note, if you are interested in prints or additional formats of my original work,
   </a>
 
   <a class="collection-card" href="/images/sketchbooks/">
-    <img src="/images/sketchbooks/thumbnails/example-thumb.jpg"
+    <img src="/images/sketchbooks/thumbnails/2019/2019-Drawings-030-thumb.jpg"
          alt="Sketchbooks">
 
     <div class="collection-card-body">
@@ -73,15 +73,6 @@ Note, if you are interested in prints or additional formats of my original work,
 
 </div>
 
-
-
-
-## Collections
-- **[Art Gallery](gallery/index.md)** – A collection of my favorites.
-
-- **[Cartoons](cartoons/index.md)** - A portfolio of single-panel cartoons.
-
-- **[Sketchbooks](ink-drawings/index.md)** - All my weekly drawings, whether they are gallery quality or not (most are not).  
 
 
 ## Prints & Merchandise 
