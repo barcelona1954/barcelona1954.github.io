@@ -33,7 +33,11 @@
     {% if page.title %}{{ page.title }}{% else %}Pretzelvision{% endif %}
   </div>
 
-  <div class="site-tagline">Selected visual art, music, and writing from Pretzelvision.</div>
+  {% if page.url == "/" or page.url == "/images/" or page.url == "/audio/" or page.url == "/writings/" %}
+    <div class="site-tagline">
+      Selected visual art, music, and writing from Pretzelvision.
+    </div>
+  {% endif %}
 
 </header>
 
