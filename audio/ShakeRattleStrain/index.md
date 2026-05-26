@@ -10,7 +10,7 @@ noindex: true
 A collection of surf, rock, and spaghetti-western-inspired covers.
 
 <div class="album-intro-card">
-  <img src="/images/audio/covers/shake-rattle-strain-cover-300.jpg"
+  <img src="/images/audio/covers/shake-rattle-strain-cover-300.png"
        alt="Album cover: Shake, Rattle, and Strain">
 
   <div class="album-intro-text">
