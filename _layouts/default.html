@@ -41,12 +41,13 @@
 
 </header>
 
+ {% include nav-prev-next.html %}
+
   <main class="site-content{% if page.url contains '/writings/' and page.url != '/writings/' %} writings-reading{% endif %}">
   {{ content }}
   </main>
 
 
-    {% include nav-prev-next.html %}
 
     <footer class="site-footer">
       <p>© {{ site.time | date: "%Y" }} Pretzelvision. All content © respective creators.</p>
