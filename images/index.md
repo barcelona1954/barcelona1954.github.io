@@ -39,6 +39,41 @@ Note, if you are interested in prints or additional formats of my original work,
 
 </details>
 
+<div class="collection-grid">
+
+  <a class="collection-card" href="/images/gallery/">
+    <img src="/images/ink-drawings/thumbnails/2026/2026-Drawings-001-thumb.jpg"
+         alt="Art Gallery">
+
+    <div class="collection-card-body">
+      <h3>Art Gallery</h3>
+      <p>Selected drawings and visual work from Pretzelvision.</p>
+    </div>
+  </a>
+
+  <a class="collection-card" href="/images/cartoons/">
+    <img src="/images/cartoons/thumbnails/example-thumb.jpg"
+         alt="Cartoons">
+
+    <div class="collection-card-body">
+      <h3>Cartoons</h3>
+      <p>Humor, sketches, and illustrated ideas.</p>
+    </div>
+  </a>
+
+  <a class="collection-card" href="/images/sketchbooks/">
+    <img src="/images/sketchbooks/thumbnails/example-thumb.jpg"
+         alt="Sketchbooks">
+
+    <div class="collection-card-body">
+      <h3>Sketchbooks</h3>
+      <p>Experiments, studies, and works in progress.</p>
+    </div>
+  </a>
+
+</div>
+
+
 
 
 ## Collections
