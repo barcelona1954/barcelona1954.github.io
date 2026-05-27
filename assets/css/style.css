@@ -965,3 +965,27 @@ details.pv-reveal .reader-notes {
 
   filter: saturate(0.95) contrast(1.02);
 }
+
+/* ===== Cartoon hero ===== */
+
+.cartoon-hero {
+  padding: 0;
+  overflow: hidden;
+}
+
+.cartoon-hero-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 6px;
+  background: #f5f0e8;
+  padding: 6px;
+}
+
+.cartoon-hero-grid img {
+  width: 100%;
+  height: clamp(90px, 14vw, 140px);
+  object-fit: contain;
+  background: #f5f0e8;
+  display: block;
+  border-radius: 4px;
+}
