@@ -43,12 +43,9 @@ Note, if you are interested in prints or additional formats of my original work,
   <a class="collection-card" href="/images/gallery/">
     <img src="/images/ink-drawings/thumbnails/2026/2026-Drawings-001-thumb.jpg"
          alt="Art Gallery">
-
     <div class="collection-card-body">
   <h3>Art Gallery</h3>
-  <p>
-    Selected drawings and visual work from Pretzelvision.
-  </p>
+  <p>    Selected drawings and visual work from Pretzelvision.  </p>
   <div class="collection-card-action">
     <span class="primary-button">Browse Gallery</span>
   </div>
@@ -58,10 +55,9 @@ Note, if you are interested in prints or additional formats of my original work,
    <a class="collection-card" href="/images/cartoons/">
     <img src="/images/cartoons/thumbnails/ChutneyPepperSprayCopyrighted-thumb.jpg"
          alt="Cartoons">
-
     <div class="collection-card-body">
     <h3>Cartoons</h3>
-    <p>Single panel cartoons from the early 2000.</p>
+    <p>Single panel cartoons from the early 2000s.</p>
     <div class="collection-card-action">
     <span class="primary-button">Browse Cartoons</span>
   </div>
@@ -71,15 +67,14 @@ Note, if you are interested in prints or additional formats of my original work,
   <a class="collection-card" href="/images/sketchbooks/">
     <img src="/images/ink-drawings/thumbnails/2019/2019-Drawings-030-thumb.jpg"
          alt="Sketchbooks">
-
     <div class="collection-card-body">
-     <h2> Sketchbooks</h2>
+     <h3> Sketchbooks</h3>
       <p>Experiments, studies, and works in progress.</p>
       <div class="collection-card-action">
     <span class="primary-button">Browse Sketchbooks</span>
+    </div>
   </div>
-</div>
-</a>
+  </a>
 </div>
 
 
