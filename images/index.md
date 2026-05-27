@@ -39,7 +39,6 @@ Note, if you are interested in prints or additional formats of my original work,
 
 </details>
 
-<h2> Art Gallery</h2>
 
 
 <div class="collection-grid">
@@ -49,29 +48,28 @@ Note, if you are interested in prints or additional formats of my original work,
          alt="Art Gallery">
 
     <div class="collection-card-body">
-      <h3>Gallery Display</h3>
+<h2>Art Gallery</h2>
       <p>Selected drawings and visual work from Pretzelvision.</p>
     </div>
   </a>
 
-  <h2> Cartoons</h2>
-  <a class="collection-card" href="/images/cartoons/">
+   <a class="collection-card" href="/images/cartoons/">
     <img src="/images/cartoons/thumbnails/ChutneyPepperSprayCopyrighted-thumb.jpg"
          alt="Cartoons">
 
     <div class="collection-card-body">
-      <h3>Single-Panel Funnies</h3>
+      <h2>Cartoons</h2>
       <p>Humor, sketches, and illustrated ideas.</p>
     </div>
   </a>
 
-  <h2> Sketchbooks</h2>
+
   <a class="collection-card" href="/images/sketchbooks/">
     <img src="/images/ink-drawings/thumbnails/2019/2019-Drawings-030-thumb.jpg"
          alt="Sketchbooks">
 
     <div class="collection-card-body">
-      <h3>Archive of Work</h3>
+     <h2> Sketchbooks</h2>
       <p>Experiments, studies, and works in progress.</p>
     </div>
   </a>
