@@ -39,7 +39,7 @@ Note, if you are interested in prints or additional formats of my original work,
 
 </details>
 
-## Art Gallery
+<h2> Art Gallery</h2>
 
 
 <div class="collection-grid">
@@ -54,7 +54,7 @@ Note, if you are interested in prints or additional formats of my original work,
     </div>
   </a>
 
-  ## Cartoons
+  <h2> Cartoons</h2>
 
 
   <a class="collection-card" href="/images/cartoons/">
@@ -67,7 +67,7 @@ Note, if you are interested in prints or additional formats of my original work,
     </div>
   </a>
 
-  ## Sketchbook
+  <h2> Sketchbook</h2>
 
 
   <a class="collection-card" href="/images/sketchbooks/">
