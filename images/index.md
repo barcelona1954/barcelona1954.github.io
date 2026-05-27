@@ -49,11 +49,9 @@ Note, if you are interested in prints or additional formats of my original work,
 
     <div class="collection-card-body">
   <h3>Art Gallery</h3>
-
   <p>
     Selected drawings and visual work from Pretzelvision.
   </p>
-
   <div class="collection-card-action">
     <span class="primary-button">Browse Gallery</span>
   </div>
@@ -65,10 +63,14 @@ Note, if you are interested in prints or additional formats of my original work,
          alt="Cartoons">
 
     <div class="collection-card-body">
-      <h3>Cartoons</h3>
-      <p>Humor, sketches, and illustrated ideas.</p>
+    <h3>Cartoons</h3>
+    <p>Single panel cartoons from the early 2000.</p>
+    <div class="collection-card-action">
+    <span class="primary-button">Browse cartoon collection</span>
+  </div>
     </div>
   </a>
+  </div>
 
 
   <a class="collection-card" href="/images/sketchbooks/">
@@ -78,7 +80,9 @@ Note, if you are interested in prints or additional formats of my original work,
     <div class="collection-card-body">
      <h2> Sketchbooks</h2>
       <p>Experiments, studies, and works in progress.</p>
-    </div>
+      <div class="collection-card-action">
+    <span class="primary-button">Browse catalog of drawings</span>
+  </div>
   </a>
 
 </div>
