@@ -11,7 +11,7 @@ Single-panel cartoons, visual jokes, and odd little observations from the Pretze
 
   <div class="cartoon-hero-grid">
 
-    <img src="/images/cartoons/thumbnails/3000MinuteCallCopyrighted-thumb.jpg"
+    <img src="/images/cartoons/thumbnails/3000MinutePhoneCallCopyrighted-thumb.jpg"
          alt="Cartoon panel 1">
 
     <img src="/images/cartoons/thumbnails/DeepThinkerCopyrighted-thumb.jpg"

@@ -955,12 +955,13 @@ details.pv-reveal .reader-notes {
   border: 1px solid #e4dccf;
 }
 
-.section-hero img {
+.cartoon-hero-grid img {
   width: 100%;
   height: clamp(120px, 18vw, 180px);
-  object-fit: cover;
-  object-position: center 30%;
+  object-fit: contain;
+  background: #f5f0e8;
   display: block;
+  border-radius: 4px;
 
   filter: saturate(0.95) contrast(1.02);
 }
