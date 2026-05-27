@@ -5,6 +5,13 @@ prev_label: Images
 prev_url: /images/
 ---
 
+Single-panel cartoons, visual jokes, and odd little observations from the Pretzelvision archive.
+
+<div class="section-hero">
+  <img src="/images/cartoons/banners/cartoons-banner.jpg"
+       alt="Cartoon banner">
+</div>
+
 <details class="pv-reveal">
   <summary>My Story</summary>
 
@@ -37,8 +44,7 @@ During the dot.com bust of the early 2000s, I was let go from my job in technolo
 
 </details>
 
-
-## Galleries
+## Browse Cartoons
 
 - **[0–9](/images/cartoons/0-9/)**
 - **[A–C](/images/cartoons/a-c/)**
