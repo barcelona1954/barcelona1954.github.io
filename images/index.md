@@ -57,6 +57,7 @@ Note, if you are interested in prints or additional formats of my original work,
   <div class="collection-card-action">
     <span class="primary-button">Browse Gallery</span>
   </div>
+  </a>
 </div>
 
    <a class="collection-card" href="/images/cartoons/">
