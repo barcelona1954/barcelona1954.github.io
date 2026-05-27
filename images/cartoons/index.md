@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My Cartoons
-prev_label: Images
+prev_label: Art
 prev_url: /images/
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sketchbooks
-prev_label: Images
+prev_label: Art
 prev_url: /images/
 ---
 
