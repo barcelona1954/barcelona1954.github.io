@@ -11,16 +11,16 @@ Single-panel cartoons, visual jokes, and odd little observations from the Pretze
 
   <div class="cartoon-hero-grid">
 
-    <img src="/images/cartoons/banners/cartoon-01.jpg"
+    <img src="/images/cartoons/thumbnails/3000MinuteCallCopyrighted-thumb.jpg"
          alt="Cartoon panel 1">
 
-    <img src="/images/cartoons/banners/cartoon-02.jpg"
+    <img src="/images/cartoons/thumbnails/DeepThinkerCopyrighted-thumb.jpg"
          alt="Cartoon panel 2">
 
-    <img src="/images/cartoons/banners/cartoon-03.jpg"
+    <img src="/images/cartoons/thumbnails/JoneyGameFaceCopyrighted-thumb.jpg"
          alt="Cartoon panel 3">
 
-    <img src="/images/cartoons/banners/cartoon-04.jpg"
+    <img src="/images/cartoons/thumbnails/PopsOnIceCopyrighted-thumb.jpg"
          alt="Cartoon panel 4">
 
   </div>
