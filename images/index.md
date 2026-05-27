@@ -82,6 +82,7 @@ Note, if you are interested in prints or additional formats of my original work,
   </div>
 </div>
 </a>
+</div>
 
 
 
