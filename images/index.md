@@ -55,8 +55,6 @@ Note, if you are interested in prints or additional formats of my original work,
   </a>
 
   <h2> Cartoons</h2>
-
-
   <a class="collection-card" href="/images/cartoons/">
     <img src="/images/cartoons/thumbnails/ChutneyPepperSprayCopyrighted-thumb.jpg"
          alt="Cartoons">
@@ -67,9 +65,7 @@ Note, if you are interested in prints or additional formats of my original work,
     </div>
   </a>
 
-  <h2> Sketchbook</h2>
-
-
+  <h2> Sketchbooks</h2>
   <a class="collection-card" href="/images/sketchbooks/">
     <img src="/images/ink-drawings/thumbnails/2019/2019-Drawings-030-thumb.jpg"
          alt="Sketchbooks">
