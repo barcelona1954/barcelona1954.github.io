@@ -5,6 +5,13 @@ prev_label: Art
 prev_url: /images/
 ---
 
+Sketchbooks, ink drawings, studies, and visual experiments from the Pretzelvision archive.
+
+<div class="section-hero">
+  <img src="/images/ink-drawings/banners/sketchbook-banner.jpg"
+       alt="Sketchbook and ink drawing banner">
+</div>
+
 <details class="pv-reveal">
   <summary>My Story</summary>
 <p>
@@ -29,11 +36,9 @@ Note, if you are interested in prints or additional formats of my original work,
 </details>
 
 
-
-
 ---
 
-## Sketchbooks
+## Browse Sketchbooks
 
 ### Released
 - **[2019 Sketchbook](/images/ink-drawings/2019/)**
