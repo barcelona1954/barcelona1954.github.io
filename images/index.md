@@ -76,7 +76,7 @@ Note, if you are interested in prints or additional formats of my original work,
      <h2> Sketchbooks</h2>
       <p>Experiments, studies, and works in progress.</p>
       <div class="collection-card-action">
-    <span class="primary-button">Browse sketchbooks</span>
+    <span class="primary-button">Browse Sketchbooks</span>
   </div>
 </div>
 </a>
