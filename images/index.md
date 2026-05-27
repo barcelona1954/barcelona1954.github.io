@@ -64,7 +64,7 @@ Note, if you are interested in prints or additional formats of my original work,
     </div>
   </a>
 
-  <a class="collection-card" href="/images/sketchbooks/">
+  <a class="collection-card" href="/images/ink-drawings/">
     <img src="/images/ink-drawings/thumbnails/2019/2019-Drawings-030-thumb.jpg"
          alt="Sketchbooks">
     <div class="collection-card-body">
