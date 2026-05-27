@@ -48,10 +48,16 @@ Note, if you are interested in prints or additional formats of my original work,
          alt="Art Gallery">
 
     <div class="collection-card-body">
-<h2>Art Gallery</h2>
-      <p>Selected drawings and visual work from Pretzelvision.</p>
-    </div>
-  </a>
+  <h3>Art Gallery</h3>
+
+  <p>
+    Selected drawings and visual work from Pretzelvision.
+  </p>
+
+  <div class="collection-card-action">
+    <span class="primary-button">Browse Gallery</span>
+  </div>
+</div>
 
    <a class="collection-card" href="/images/cartoons/">
     <img src="/images/cartoons/thumbnails/ChutneyPepperSprayCopyrighted-thumb.jpg"
