@@ -36,11 +36,10 @@ Note, if you are interested in prints or additional formats of my original work,
   browse the Alan McClellan Art Collections on Fine Art America
   </a>
   </p>
-
 </details>
 
-<div class="collection-grid">
 
+<div class="collection-grid">
   <a class="collection-card" href="/images/gallery/">
     <img src="/images/ink-drawings/thumbnails/2026/2026-Drawings-001-thumb.jpg"
          alt="Art Gallery">
@@ -64,11 +63,10 @@ Note, if you are interested in prints or additional formats of my original work,
     <h3>Cartoons</h3>
     <p>Single panel cartoons from the early 2000.</p>
     <div class="collection-card-action">
-    <span class="primary-button">Browse cartoon collection</span>
+    <span class="primary-button">Browse Cartoons</span>
   </div>
     </div>
   </a>
-
 
   <a class="collection-card" href="/images/sketchbooks/">
     <img src="/images/ink-drawings/thumbnails/2019/2019-Drawings-030-thumb.jpg"
@@ -78,7 +76,7 @@ Note, if you are interested in prints or additional formats of my original work,
      <h2> Sketchbooks</h2>
       <p>Experiments, studies, and works in progress.</p>
       <div class="collection-card-action">
-    <span class="primary-button">Browse catalog of drawings</span>
+    <span class="primary-button">Browse sketchbooks</span>
   </div>
 </div>
 </a>
