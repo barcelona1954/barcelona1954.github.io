@@ -538,7 +538,8 @@ audio {
 }
 
 .collection-card {
-  display: block;
+  display: flex;
+  flex-direction: column;
   background: #ffffff;
   border: 1px solid #e4dccf;
   border-radius: 10px;
@@ -557,11 +558,15 @@ audio {
 .collection-card img {
   width: 100%;
   height: 180px;
-  object-fit: cover;
+  object-fit: contain;
+  background-color: #f5f0e8;
   display: block;
 }
 
 .collection-card-body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
   padding: 0.9rem 1rem 1rem;
 }
 
@@ -578,9 +583,9 @@ audio {
 }
 
 .collection-card-action {
-  margin-top: 1rem;
+  margin-top: auto;
+  padding-top: 1rem;
 }
-
 
 /* ===== Writings reading layout ===== */
 
