@@ -58,7 +58,7 @@ Note, if you are interested in prints or additional formats of my original work,
          alt="Cartoons">
 
     <div class="collection-card-body">
-      <h2>Cartoons</h2>
+      <h3>Cartoons</h3>
       <p>Humor, sketches, and illustrated ideas.</p>
     </div>
   </a>
