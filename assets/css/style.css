@@ -577,6 +577,11 @@ audio {
   color: #55504a;
 }
 
+.collection-card-action {
+  margin-top: 1rem;
+}
+
+
 /* ===== Writings reading layout ===== */
 
 .writings-reading {
