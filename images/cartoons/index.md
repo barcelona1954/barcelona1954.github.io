@@ -7,9 +7,24 @@ prev_url: /images/
 
 Single-panel cartoons, visual jokes, and odd little observations from the Pretzelvision archive.
 
-<div class="section-hero">
-  <img src="/images/cartoons/banners/cartoons-banner.jpg"
-       alt="Cartoon banner">
+<div class="section-hero cartoon-hero">
+
+  <div class="cartoon-hero-grid">
+
+    <img src="/images/cartoons/banners/cartoon-01.jpg"
+         alt="Cartoon panel 1">
+
+    <img src="/images/cartoons/banners/cartoon-02.jpg"
+         alt="Cartoon panel 2">
+
+    <img src="/images/cartoons/banners/cartoon-03.jpg"
+         alt="Cartoon panel 3">
+
+    <img src="/images/cartoons/banners/cartoon-04.jpg"
+         alt="Cartoon panel 4">
+
+  </div>
+
 </div>
 
 <details class="pv-reveal">
