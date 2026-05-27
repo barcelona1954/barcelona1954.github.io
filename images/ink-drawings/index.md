@@ -8,7 +8,7 @@ prev_url: /images/
 Sketchbooks, ink drawings, studies, and visual experiments from the Pretzelvision archive.
 
 <div class="section-hero">
-  <img src="/images/ink-drawings/banners/sketchbook-banner.jpg"
+  <img src="/images/ink-drawings/full/2023/2023-Sketchbook-banner.jpg"
        alt="Sketchbook and ink drawing banner">
 </div>
 
