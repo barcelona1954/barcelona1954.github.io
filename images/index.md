@@ -39,8 +39,6 @@ Note, if you are interested in prints or additional formats of my original work,
 
 </details>
 
-
-
 <div class="collection-grid">
 
   <a class="collection-card" href="/images/gallery/">
@@ -55,8 +53,8 @@ Note, if you are interested in prints or additional formats of my original work,
   <div class="collection-card-action">
     <span class="primary-button">Browse Gallery</span>
   </div>
-  </a>
 </div>
+</a>
 
    <a class="collection-card" href="/images/cartoons/">
     <img src="/images/cartoons/thumbnails/ChutneyPepperSprayCopyrighted-thumb.jpg"
@@ -70,7 +68,6 @@ Note, if you are interested in prints or additional formats of my original work,
   </div>
     </div>
   </a>
-  </div>
 
 
   <a class="collection-card" href="/images/sketchbooks/">
@@ -83,9 +80,8 @@ Note, if you are interested in prints or additional formats of my original work,
       <div class="collection-card-action">
     <span class="primary-button">Browse catalog of drawings</span>
   </div>
-  </a>
-
 </div>
+</a>
 
 
 
