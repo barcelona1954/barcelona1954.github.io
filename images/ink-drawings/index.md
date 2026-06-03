@@ -48,7 +48,7 @@ Note, if you are interested in prints or additional formats of my original work,
 - **[2023 Sketchbook](/images/ink-drawings/2023/)**
 - **[2024 Sketchbook](/images/ink-drawings/2024/)**
 - **[2025 Sketchbook](/images/ink-drawings/2025/)**
-- **2026 Sketchbook Comming Soon**
+- **2026 Sketchbook Coming Soon**
 
 
 
