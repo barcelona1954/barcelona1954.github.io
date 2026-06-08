@@ -1,8 +1,12 @@
-- quote: "I had not seen your cartoons until now.  Your cartoons are actually what I remember {my brother} telling me about you years ago.  I laughed out loud several times - it’s a rich collection of humor.  I especially like the Eyebrow Comb Over, Jebediah Steps Out, Boot Camp, Cleaning House, and the Christmas Rapper."
+- quote: "I had not seen your cartoons until now. Your cartoons are actually what I remember {my brother} telling me about you years ago. I laughed out loud several times - it’s a rich collection of humor. I especially like the Eyebrow Comb Over, Jebediah Steps Out, Boot Camp, Cleaning House, and the Christmas Rapper."
   from: "Reader in Houston"
   page: "/images/cartoons/full/EyebrowCombOverCopyrighted.jpg"
- 
- - quote: ""
-   from ""
-   page: "/images/cartoons/full/JebediahStepsOutCopyrighted.jpg"
-
+  links:
+    - title: "Jebediah Steps Out"
+      url: "/images/cartoons/full/JebediahStepsOutCopyrighted.jpg"
+    - title: "Boot Camp"
+      url: "/images/cartoons/full/BootCampCopyrighted.jpg"
+    - title: "Cleaning House"
+      url: "/images/cartoons/full/CleaningHouseCopyrighted.jpg"
+    - title: "Christmas Rapper"
+      url: "/images/cartoons/full/ChristmasRapperCopyrighted.jpg" 

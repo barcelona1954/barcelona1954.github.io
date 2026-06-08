@@ -1,17 +1,16 @@
-<section class="reader-notes">
-  {% assign notes = site.data.reader_notes | default: empty %}
+{% if note.links %}
+  <div class="reader-note-links">
+    Mentioned:
+    {% if note.page %}
+      <a href="{{ note.page }}">Eyebrow Comb Over</a>{% if note.links.size > 0 %}, {% endif %}
+    {% endif %}
 
-  {% if notes == empty %}
-    <p class="reader-notes-empty">No reader notes yet.</p>
-  {% else %}
-    {% for n in notes %}
-      <blockquote class="reader-note">
-        <p class="reader-note-text">{{ n.quote }}</p>
-        <div class="reader-note-meta">
-          {% if n.from %}<span class="reader-note-from">— {{ n.from }}</span>{% endif %}
-          {% if n.page %}<span class="reader-note-sep"> · </span><a class="reader-note-link" href="{{ n.page }}">View page</a>{% endif %}
-        </div>
-      </blockquote>
+    {% for link in note.links %}
+      <a href="{{ link.url }}">{{ link.title }}</a>{% unless forloop.last %}, {% endunless %}
     {% endfor %}
-  {% endif %}
-</section>
+  </div>
+{% elsif note.page %}
+  <div class="reader-note-links">
+    <a href="{{ note.page }}">Referenced Work</a>
+  </div>
+{% endif %}
