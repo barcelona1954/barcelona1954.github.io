@@ -1,16 +1,12 @@
-{% if note.links %}
+{% if note.page or note.links %}
   <div class="reader-note-links">
     Mentioned:
     {% if note.page %}
-      <a href="{{ note.page }}">Eyebrow Comb Over</a>{% if note.links.size > 0 %}, {% endif %}
+      <a href="{{ note.page | relative_url }}">{{ note.page_title | default: "Referenced Work" }}</a>{% if note.links %}, {% endif %}
     {% endif %}
 
     {% for link in note.links %}
-      <a href="{{ link.url }}">{{ link.title }}</a>{% unless forloop.last %}, {% endunless %}
+      <a href="{{ link.url | relative_url }}">{{ link.title }}</a>{% unless forloop.last %}, {% endunless %}
     {% endfor %}
-  </div>
-{% elsif note.page %}
-  <div class="reader-note-links">
-    <a href="{{ note.page }}">Referenced Work</a>
   </div>
 {% endif %}
