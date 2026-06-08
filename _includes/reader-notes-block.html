@@ -3,19 +3,6 @@
     <blockquote class="reader-note">
       <p>“{{ note.quote }}”</p>
       <footer>— {{ note.from }}</footer>
-
-      {% if note.page or note.links %}
-        <div class="reader-note-links">
-          Mentioned:
-          {% if note.page %}
-            <a href="{{ note.page | relative_url }}">{{ note.page_title | default: "Referenced Work" }}</a>{% if note.links %}, {% endif %}
-          {% endif %}
-
-          {% for link in note.links %}
-            <a href="{{ link.url | relative_url }}">{{ link.title }}</a>{% unless forloop.last %}, {% endunless %}
-          {% endfor %}
-        </div>
-      {% endif %}
     </blockquote>
   {% endfor %}
 </section>
