@@ -13,7 +13,7 @@ prev_url: /images/
   </p>
 
   <p>
-  If you are looking for prints or additional formats,
+  If you are looking for prints or additional formats (maybe a shower curtain or throw pillow?),
   <br>
   → <a href="https://fineartamerica.com/profiles/alan-mcclellan" target="_blank" rel="noopener">
   browse the Alan McClellan Art Collections on Fine Art America
