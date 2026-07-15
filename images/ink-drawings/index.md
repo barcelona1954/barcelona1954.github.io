@@ -21,7 +21,7 @@ Several years ago, my daughter, Li-Mae, told me about an internet led art progra
 My daughter, who frequently inspires me to action, thought this program would be something that would interest me. (She was already participating, literally drawing something on a sticky note to each prompt.) So, in 2019, I started participating, too. I liked the idea of having a driving goal to practice and develop my own drawing skills. Somewhere along the way, I told other artists and artsy people in my circle of friends, and before long, I had my own little coterie of drawers. We decided to start our own drawing group and shared our work each week on What's App. Instead of drawing everyday in October, we drew something once a week throughout the year. 
 </p>
 <p>  
-Now, after 6 years of doing this, I have quite a collection of drawings. Some are drawings on napkins. Some are exercises in shading, speed drawing, off-handed drawing, perspective, representative drawing, etc. Many drawings (especially the earlier ones) are based on a photo or image found somewhere on the internet. I'm not trying to sell or make money on these, but I've included them here for your entertainment.  
+Now, after 6 years of doing this, I have quite a collection of drawings. Some are drawings on napkins. Some are exercises in shading, speed drawing, off-handed drawing, perspective, representative drawing, etc. Many (especially the earlier ones) are based on a photo or image found somewhere on the internet. I'm not trying to sell or make money on these, but I've included them here for your entertainment.  
 </p>
 <p>
 As you will see if you look at the early sketchbooks, I started drawing almost exclusively with black ink. Later, I introduced color, and occasionally some other media like pastels or colored pencil. As you mosey through the sketchbooks (or the Art Gallery from bottom to top), I think you'll see some development. Take a look and see what you think. </p>
@@ -31,6 +31,7 @@ Note, if you are interested in prints or additional formats of my original work,
   → <a href="https://fineartamerica.com/profiles/alan-mcclellan" target="_blank" rel="noopener">
   browse the Alan McClellan Art Collections on Fine Art America
   </a>
+  <p>I'm still waiting for someone to order a shower curtain. :-) 
   </p>
 
 </details>
