@@ -9,7 +9,7 @@ noindex: true
 🚧 Under construction.
 --> 
 
-Surf, rock, and spaghetti western inspired covers, instrumentals, and music videos.
+Surf, rock instrumentals, spaghetti western inspired covers,and music videos.
 
 <div class="section-hero">
   <img src="/images/ink-drawings/banners/music-banner.jpg" alt="Ink drawing: Guitar Slide">
@@ -21,13 +21,13 @@ Surf, rock, and spaghetti western inspired covers, instrumentals, and music vide
   I remember watching The Beatles premier on The Ed Sullivan Show in 1964. I was at my Grandparents house, and it was a cold and gloomy February evening in southern Indiana. But that music. And those screaming girls. And that "long hair" on the lads from Liverpool that seemed to shock the adults in the room. I guess these things left an impression. Although my Dad was a an excellent singer...a skill he'd developed from his Aunt / music teacher in his school days, my family wasn't otherwise particularly musical, and there wasn't any live music or instruments in our house growing up. But by they time I was in 4th grade or so, the "British Invasion" was in full swing and I decided I wanted to be part of the action. If only I could play Day Tripper or Ticket To Ride, I was sure my life and elementary school prestige would launch.  With that, I convinced my parents to let me take guitar lessons. 
 </p>
 <p>
-  We somehow scored a cheap acoustic guitar and I started learning from an instructor was a crew-cut cowboy, more Buck Owens than John Lennon. Regardless, he taught me to read music and play basic chords, and I developed muscle memory for moving my fingers around the fret board. Lamentably, I was mired in a Mel Bay guitar book with songs like Greensleeves and the Marine's Hymn rather than the songs I heard on AM radio. Those were the one that I wanted to play. So, after a year or so, I quit my guitar lessons. 
+  We somehow scored a cheap acoustic guitar and I started learning guitar from an a crew-cut cowboy, more Buck Owens than John Lennon. Regardless, he taught me to read music and play basic chords, and I developed muscle memory for moving my fingers around the fret board. Lamentably, I was mired in a Mel Bay guitar book with songs like Greensleeves and the Marine's Hymn rather than the songs I heard on AM radio. Those were the ones that I wanted to play. So, after a year or so, I quit my guitar lessons. 
   </p>
 <p>
 Then, in high school, I found myself with several long-haired friends who were all guitar players and musically inclined. I bought a new acoustic guitar and started learning songs...Bob Dylan, Donovan, Leonard Cohen. The muscle memory from my youth served me well, but I  didn't know much about music per se.... I didn't know what it meant to play in key, or any basic theory or musical scales that would have helped me. So, again, after a couple years of fiddling around with the guitar, I kinda dropped it to peruse art and travel. 
 </p>
 <p>
-It was many years later, when my kids, who were all accomplished musicians, encouraged me to play guitar again.  I got a ump-start by coaxing a co-worker, friend, and accomplished musician, Craig, to give some after-work guitar tutorials to folks who were interested. And then, I signed up with a guitar teacher at Graner Music where I always dropped off my kids for their various lessons. My family 
+It was many years later, when my kids, who were all accomplished musicians, encouraged me to play guitar again.  I got a jump-start by coaxing a co-worker, friend, and accomplished musician, Craig, to give some after-work guitar tutorials to folks who were interested. And then I signed up with a guitar teacher at Graner Music where I always dropped off my kids for their various lessons. My family 
 then bought me an Ovation acoustic guitar for Xmas, and I began establishing a routine of practice. 
 </p>
 <p>
