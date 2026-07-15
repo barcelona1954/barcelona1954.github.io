@@ -32,7 +32,7 @@ Note, if you are interested in prints or additional formats of my original work,
   browse the Alan McClellan Art Collections on Fine Art America
   </a>
   </p>
-  <p>I'm still waiting for someone to order a shower curtain. :-) 
+  <p>I'm still waiting for someone to order a shower curtain with my art on it. :-) 
   </p>
 
 </details>
