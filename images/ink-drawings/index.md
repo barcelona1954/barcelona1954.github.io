@@ -31,6 +31,7 @@ Note, if you are interested in prints or additional formats of my original work,
   → <a href="https://fineartamerica.com/profiles/alan-mcclellan" target="_blank" rel="noopener">
   browse the Alan McClellan Art Collections on Fine Art America
   </a>
+  </p>
   <p>I'm still waiting for someone to order a shower curtain. :-) 
   </p>
 
