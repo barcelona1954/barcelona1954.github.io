@@ -13,7 +13,7 @@ Ink drawings in black-and-white and color, an artist sketchbook, and a portfolio
 
   <summary>My Story </summary>
   <p>
-  When I was in 2nd or 3rd grade, I started drawing images with a Ticonderoga pencil on lined notebook paper. I specifically remember sitting on the couch in my grandparents living room, looking through library and school books for pictures to draw. I drew profiles of the Wright brothers and tried to capture the likeness of an elephant. 
+  When I was in 2nd or 3rd grade, I started drawing with a Ticonderoga pencil on lined notebook paper. I specifically remember sitting on the couch in my grandparents living room and looking through library and school books for pictures to draw. I especially like drawing profiles of the Wright brothers and capturing the likeness of an elephant. 
   </p>
 
   <p>
@@ -21,9 +21,9 @@ Ink drawings in black-and-white and color, an artist sketchbook, and a portfolio
   </p>
 
   <p>
-  I liked this idea, but, alas, as a wanderer, I quit school and traveled in Europe for several months. (I believe today this would be called a "gap" year. In my case, it turned into "gap years.") 
+  I liked this idea, but, alas, as a wanderer, I quit college and traveled in Europe for several months. (I believe today this would be called a "gap" year. In my case, it turned into "gap years.") 
   
-  Then, fast forward 30 years. I transition from hippie Euro backpacker to California beach bum to college grad to tech worker and family man. In my 50s, I find myself an unfortunate casuality of the dot com bubble bursting and I'm out-of-work for several months. It is then, with some down-time and an opportunity to reflect, that I decide to spend more time on things that bring me joy and satisfaction. 
+  Then, fast forward 30 years. I transition from hippie Euro backpacker to California beach bum to college grad to tech worker and family man. In my 50s, I find myself an unfortunate casualty of the dot com bubble bursting and Out-of-work for several months with more than a little down-time and ample opportunity to reflect, I decide to spend more time on things that bring me joy and satisfaction. 
   </p>
 
   <p>
