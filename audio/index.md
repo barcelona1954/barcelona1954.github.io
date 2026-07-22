@@ -43,7 +43,7 @@ Now, because I thought bands were supposed to practice in the garage, I had pull
 ## Recordings
 
 <div class="recording-card">
-<img src="/images/audio/covers/300 x 300 Corpse Reviver Hobo Cover Final.jpg" alt="Hobo release cover">
+<img src="/images/audio/covers/300x300Hobo.jpg" alt="Hobo release cover">
 
   <div class="recording-card-text">
     <h3>Hobo</h3>
