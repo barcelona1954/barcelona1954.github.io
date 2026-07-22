@@ -177,7 +177,7 @@ section {
 }
 
 .nav-disabled::after {
-  content: "Coming soon";
+  content: "Coming soon-ish";
   font-size: 0.75em;
   letter-spacing: 0.06em;
   text-transform: uppercase;
