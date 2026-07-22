@@ -33,9 +33,9 @@ title: Pretzelvision
 
 ## Featured
 
-{% include whats-new.html %}
-
 {% include featured-grid.html %}
+
+{% include whats-new.html %}
 
 
 
