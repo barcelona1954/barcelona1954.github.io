@@ -48,7 +48,7 @@ Now, because I thought bands were supposed to practice in the garage, I had pull
   <div class="recording-card-text">
     <h3>Hobo</h3>
     <p>Cover of The Plimsouls from their 1983 album, <i> Everywhere At Once </i>.</p>
-    <a class="primary-button" href="ShakeRattleStrain/">Listen to Hobo</a>
+    <a class="primary-button"    href="Singles/Hobo.mp3"    target="_blank" rel="noopener"> Listen to Hobo </a>
   </div>
 </div>
 
