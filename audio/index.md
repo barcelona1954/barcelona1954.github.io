@@ -3,7 +3,6 @@ layout: default
 title: My Music
 prev_label: Home
 prev_url: /
-noindex: true
 ---
 <!--
 🚧 Under construction.
