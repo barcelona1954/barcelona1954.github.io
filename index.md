@@ -31,24 +31,47 @@ title: Pretzelvision
   </div>
 </div>
 
-## Featured
+<section class="home-section">
+  <h2>Featured</h2>
 
-{% include featured-grid.html %}
-
-{% include whats-new.html %}
-
-
-
-## Reader Notes
-<details class="pv-reveal">
-  <summary>What People Are Saying</summary>
-
-  {% include reader-notes-block.html %}
-
-</details>
+  {% include featured-grid.html %}
+</section>
 
 
-## Feedback
+<section class="home-section">
+  {% include whats-new.html %}
+</section>
 
-{% include send-note.html %}
 
+<section class="home-section">
+  <h2>Reader Notes</h2>
+
+  <details class="pv-reveal">
+    <summary>See What People Are Saying</summary>
+
+    {% include reader-notes-block.html %}
+  </details>
+</section>
+
+
+<section class="home-section">
+  <h2>Stay in the Loop</h2>
+
+  <p>
+    Pretzelvision is an ongoing project, and I add new drawings, music,
+    cartoons, and writing from time to time.
+  </p>
+
+  <p>
+    If you'd like an occasional email when something new is posted,
+    send me a note at
+    <a href="mailto:pretzelvision@gmail.com">pretzelvision@gmail.com</a>.
+  </p>
+</section>
+
+
+<section class="home-section">
+  <h2>Feedback</h2>
+
+  {% include send-note.html %}
+</section>

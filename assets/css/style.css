@@ -300,6 +300,26 @@ section {
   color: #555;
 }
 
+/* ===== Homepage bottom blocks  ===== */
+
+.home-section {
+  margin-block: 2.5rem;
+  padding: clamp(1.25rem, 3vw, 2rem);
+  border: 1px solid #c8c1b8;
+  border-radius: 0.75rem;
+  background: #f7f4ef;
+}
+
+
+.home-section > h2 {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+}
+
+.home-section > :last-child {
+  margin-bottom: 0;
+}
+
 /* ===== pv-reveal ===== */
 
 /* ===== pv-reveal (intro panel) ===== */
