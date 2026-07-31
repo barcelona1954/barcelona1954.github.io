@@ -37,10 +37,11 @@ title: Pretzelvision
   {% include featured-grid.html %}
 </section>
 
-
+<!-- 
 <section class="home-section">
   {% include whats-new.html %}
 </section>
+-->
 
 
 <section class="home-section">
