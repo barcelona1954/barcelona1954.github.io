@@ -1,4 +1,3 @@
-```html
 ---
 layout: default
 title: Sunlight Through a Winter Window
