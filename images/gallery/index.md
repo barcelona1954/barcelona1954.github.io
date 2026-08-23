@@ -46,7 +46,7 @@ prev_url: /images/
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-027.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-027-thumb.jpg" alt="-27 - Temperature">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-027.jpg" alt="-27 - Temperature">
   </a>
   <div class="gallery-caption">027 – Temperature</div>
   <div class="gallery-actions">
