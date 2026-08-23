@@ -44,6 +44,18 @@ prev_url: /images/
   </div>
 </div>
 
+<div class="gallery-item">
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-018.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-027-thumb.jpg" alt="-27 - Temperature">
+  </a>
+  <div class="gallery-caption">027 – Temperature</div>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-027.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/boiling-water-sequence-alan-mcclellan.html" 
+   target="_blank" rel="noopener">Prints</a>
+  </div>
+</div>
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-019.jpg">
