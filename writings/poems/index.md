@@ -4,9 +4,20 @@ title: Poems
 prev_label: Writings
 prev_url: /writings/
 noindex: true
+---
 
-# Poems
+<details class="pv-reveal">
+  <summary>My Story</summary>
+  <p>
+  When I was backpacking through Europe and on my own, it was not uncommon to stumble onto street fairs and markets. At one, I believe it was in Zurich, I purchased a copy of Dostoevsky's <I>The Idiot</I> and a book of poems by Leonard Cohen in Spanish. While sitting on a nearby park bench looking over my new books, I found a  tattered notebook belonging to one Godric Saint. It was full of poems and journal notes, all in English. I sat for some time waiting to see if anyone nearby would come back to claim the notebook, but after an hour or so, no one showed up. I have carried this notebook with me ever since and decided I'd use my personal web site to share some of the work therein. 
+
+  </p>
+
+  </details>
+
+# Poems of Godric Saint
 
 Welcome to the writings section. This is a placeholder document showing how writing pieces will appear on your site.
 
 - [In Sunlight Through a Winter Window](In Sunlight Through a Winter Window.md)
+
