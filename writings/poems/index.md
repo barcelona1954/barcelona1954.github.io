@@ -10,8 +10,8 @@ noindex: true
   <summary>My Story</summary>
   <p>
   When I was backpacking through Europe and on my own, it was not uncommon to stumble onto street fairs and markets. At one, I believe it was in Zurich, I purchased a copy of Dostoevsky's <I>The Idiot</I> and a book of poems by Leonard Cohen in Spanish. While sitting on a nearby park bench looking over my new books, I found a  tattered notebook belonging to one Godric Saint. It was full of poems and journal notes, all in English. I sat for some time waiting to see if anyone nearby would come back to claim the notebook, but after an hour or so, no one showed up. I have carried this notebook with me ever since and decided I'd use my personal web site to share some of the work therein. 
-
   </p>
+  Oh, I'v also taken the liberty to augment these words with my own art, inspired by the poem. 
 
   </details>
 
