@@ -38,6 +38,7 @@ Now, because I thought bands were supposed to practice in the garage, I had pull
 </p>
 
 </details>
+<h2>Corpse Revivers</h2>
 <p>
 Corpse Revivers are Alan McClellan (guitar), Chuck Brennaman (guitar), and Brian Smithey (bass and percussion).
 <br>
