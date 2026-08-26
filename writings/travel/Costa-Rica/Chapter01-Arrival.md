@@ -10,7 +10,7 @@ prev_url: /writings/travel/
   <h2>Chapter 1 Arrival</h2>
 
   <div class="poem-text">
-  <p>April 4, 2019</p>
+  <p>April 2, 2019</p>
 
     <p>
     I mean this in the general, rather than the existential sense (not why am i HERE). While I feel sure that somewhere in these posts I'll stumble across something profound, I'm not going there out of the gate. Anyway, why am I in this little Costa Rican community for a few months? It starts with a story....
