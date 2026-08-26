@@ -41,6 +41,6 @@ Poems, short reflections, and other written work.
 
 - **[Poems](poems/)** – short lyrical and reflective pieces from Godric Saint.
 
-- **Travel** – coming soon.
+- **[Travel](travel/)** – coming soon.
 
 - **Reflections** – coming soon.
