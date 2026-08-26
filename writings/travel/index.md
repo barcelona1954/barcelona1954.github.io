@@ -10,6 +10,8 @@ noindex: true
 
 Welcome to the writings section. This is a placeholder document showing how writing pieces will appear on your site.
 
-- [Travel 1](Travel1.md)
 
 
+
+<h1>Tico Times - My Time in Costa Rica</h1>
+- [Chapter 1](Costa-Rica/Chapter01-Arrival.md)
