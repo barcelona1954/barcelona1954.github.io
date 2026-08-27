@@ -31,7 +31,7 @@ Poems, short reflections, and other written work.
   I look back on that single experience as one that made me believe in myself as a writer and creative spirit. I went on to write an essay or two for the college newspaper (imagine the voice of Sam Spade as political commentator), tutored and taught writing, and gained confidence in creative self. 
   </p>
   <p>
-  Over time, I realized that I enjoy writing about the world around me and the world I've experienced. (Damn hard and time consuming, though!) Telling my stories has a current that I like ot float in. (But fiction...that's something altogether different and difficult. Even when I have the kernel of an idea, I can't turn it into anything.) That said, some of my life experiences have taken shape here in reflective narratives and I've also chosen to share some poems from a kindred spirt, Godric Saint. 
+  Over time, I realized that I enjoy writing about the world around me and the world I've experienced. (Damn hard and time consuming, though!) Telling my stories has a current that I like to  float in. (But fiction...that's something altogether different and difficult. Even when I have the kernel of an idea, I can't turn it into anything.) That said, some of my life experiences have taken shape here in reflective narratives and I've also chosen to share some poems from a kindred spirt, Godric Saint. 
   </p>
 </details>
 
