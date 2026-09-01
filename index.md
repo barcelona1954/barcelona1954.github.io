@@ -57,22 +57,7 @@ title: Pretzelvision
 
 <section class="home-section">
   <h2>Stay in the Loop</h2>
-
-  <p>
-    Pretzelvision is an ongoing project, and I add new drawings, music,
-    cartoons, and writing from time to time.
-  </p>
-
-  <p>
-    If you'd like an occasional email when something new is posted, or if you have any feedback, 
-    send me a note at
     {% include send-note.html %}.
   </p>
 </section>
 
-
-<section class="home-section">
-  <h2>Feedback</h2>
-
-  {% include send-note.html %}
-</section>
