@@ -64,9 +64,9 @@ title: Pretzelvision
   </p>
 
   <p>
-    If you'd like an occasional email when something new is posted,
+    If you'd like an occasional email when something new is posted, or if you have any feedback, 
     send me a note at
-    <a href="mailto:pretzelvision@gmail.com">pretzelvision@gmail.com</a>.
+    {% include send-note.html %}.
   </p>
 </section>
 
