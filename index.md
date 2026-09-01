@@ -57,7 +57,6 @@ title: Pretzelvision
 
 <section class="home-section">
   <h2>Stay in the Loop</h2>
-    {% include send-note.html %}.
-  </p>
+    {% include send-note.html %}
 </section>
 
