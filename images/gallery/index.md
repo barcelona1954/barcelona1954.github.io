@@ -223,7 +223,7 @@ prev_url: /images/
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2026/2026-Drawings-007.jpg">View full</a>
     <span class="gallery-sep">·</span>
-    <a href="https://fineartamerica.com/featured/coastal-view-in-four-panels-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
+    <a href="https://fineartamerica.com/featured/seaside-panels-capturing-ocean-waves-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
   </div>
 </div>
 
