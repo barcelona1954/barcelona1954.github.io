@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter 1 Arrival
+title: Preface
 prev_label: Travel
 prev_url: /writings/travel/
 ---
