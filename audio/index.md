@@ -74,7 +74,7 @@ Contact: pretzelvision@gmail.com
        alt="Theme for the Champions video thumbnail">
 
   <div class="recording-card-text">
-    <h3>Theme for the Champions</h3>
+    <h3 id="theme-for-champions">Theme for Champions</h3>
 
     <p>
       Official music video by The Corpse Revivers.
