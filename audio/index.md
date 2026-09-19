@@ -53,7 +53,7 @@ Contact: pretzelvision@gmail.com
   <div class="recording-card-text">
     <h3 id="latinia">Latinia</h3>
     <p>Cover of The Sentinals from their 1963 album, <i> Big Surf </i>.</p>
-    <a class="primary-button"    href="Singles/01 Hobo.mp3"    target="_blank" rel="noopener"> Listen to Latinia </a>
+    <a class="primary-button"    href="Singles/02 Latinia.mp3"    target="_blank" rel="noopener"> Listen to Latinia </a>
   </div>
 </div>
 
