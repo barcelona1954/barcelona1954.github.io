@@ -908,7 +908,7 @@ padding: 0.8rem 1rem 0.9rem;
   opacity: 0.9;
 }
 
-/* ===== Featured hero ===== */
+/* ===== Featured ===== */
 
 .featured-hero {
   max-width: 900px;
@@ -917,13 +917,45 @@ padding: 0.8rem 1rem 0.9rem;
   background: #faf7f2;
   border: 1px solid #e4dccf;
   border-radius: 12px;
+
+  display: grid;
+  gap: 1.25rem;
+}
+
+/* One featured item */
+.featured-count-1 {
+  grid-template-columns: 1fr;
+}
+
+/* Two featured items */
+.featured-count-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+/* Three featured items */
+.featured-count-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+/* Four featured items */
+.featured-count-4 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.featured-card {
+  min-width: 0;
+}
+
+.featured-hero-image {
+  display: block;
 }
 
 .featured-hero-image img {
   display: block;
   width: 100%;
-  max-height: 420px;
+  height: 280px;
   object-fit: contain;
+  background: #fff;
   border-radius: 8px;
   box-shadow: 0 10px 22px rgba(0,0,0,0.12);
 }
@@ -948,6 +980,20 @@ padding: 0.8rem 1rem 0.9rem;
   margin-top: 6px;
   font-size: 0.95rem;
   opacity: 0.9;
+}
+
+/* Stack featured cards on smaller screens */
+@media (max-width: 700px) {
+  .featured-count-2,
+  .featured-count-3,
+  .featured-count-4 {
+    grid-template-columns: 1fr;
+  }
+
+  .featured-hero-image img {
+    height: auto;
+    max-height: 420px;
+  }
 }
 
 /* ===== Reader Notes ===== */
