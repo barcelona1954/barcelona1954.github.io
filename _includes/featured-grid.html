@@ -1,17 +1,34 @@
-{% assign item = site.data.featured[0] %}
+{% assign featured_items = site.data.featured %}
+{% assign item_count = featured_items | size %}
 
-{% if item %}
-<div class="featured-hero">
+{% if item_count > 0 %}
+<div class="featured-hero featured-count-{{ item_count }}">
 
-  <a href="{{ item.href }}" class="featured-hero-image">
-    <img loading="lazy" src="{{ item.thumb }}" alt="{{ item.title }}">
-  </a>
+  {% for item in featured_items limit:4 %}
+  <div class="featured-card">
 
-    {% if item.caption %}
-  <div class="featured-hero-meta">
-    <div class="featured-hero-caption">{{ item.caption }}</div>
+    <a href="{{ item.href }}" class="featured-hero-image">
+      <img loading="lazy" src="{{ item.thumb }}" alt="{{ item.title }}">
+    </a>
+
+    <div class="featured-hero-meta">
+
+      {% if item.type %}
+      <div class="featured-hero-type">{{ item.type }}</div>
+      {% endif %}
+
+      {% if item.title %}
+      <div class="featured-hero-title">{{ item.title }}</div>
+      {% endif %}
+
+      {% if item.caption %}
+      <div class="featured-hero-caption">{{ item.caption }}</div>
+      {% endif %}
+
+    </div>
+
   </div>
-  {% endif %}
+  {% endfor %}
 
 </div>
 {% endif %}
