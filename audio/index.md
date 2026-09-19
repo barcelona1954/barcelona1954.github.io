@@ -48,10 +48,21 @@ Contact: pretzelvision@gmail.com
 ## Recordings
 
 <div class="recording-card">
+<img src="/images/audio/covers/300x300Latinia.jpg" alt="Latinia release cover">
+
+  <div class="recording-card-text">
+    <h3 id="latinia">Latinia</h3>
+    <p>Cover of The Sentinals from their 1963 album, <i> Big Surf </i>.</p>
+    <a class="primary-button"    href="Singles/01 Hobo.mp3"    target="_blank" rel="noopener"> Listen to Hobo </a>
+  </div>
+</div>
+
+
+<div class="recording-card">
 <img src="/images/audio/covers/300x300Hobo.jpg" alt="Hobo release cover">
 
   <div class="recording-card-text">
-    <h3>Hobo</h3>
+    <h3 id="hobo">Hobo</h3>
     <p>Cover of The Plimsouls from their 1983 album, <i> Everywhere At Once </i>.</p>
     <a class="primary-button"    href="Singles/01 Hobo.mp3"    target="_blank" rel="noopener"> Listen to Hobo </a>
   </div>
