@@ -44,6 +44,22 @@ prev_url: /images/
   </div>
 </div>
 
+<div class="gallery-item">
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-020.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-020-thumb.jpg" alt="-20 - Ironic">
+  </a>
+  <div class="gallery-caption">020 – Ironic</div>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-020.jpg">View full</a>
+    <!--
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/hands-holding-monarch-butterfly-alan-mcclellan.html" 
+   target="_blank" rel="noopener">Prints</a>
+   --> 
+  </div>
+</div>
+
+
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-018.jpg">
