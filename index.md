@@ -32,7 +32,7 @@ title: Pretzelvision
 </div>
 
 <section class="home-section">
-  <h2>Featured</h2>
+  <h2 id="featured">Featured</h2>
 
   {% include featured-grid.html %}
 </section>
