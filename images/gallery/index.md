@@ -33,7 +33,7 @@ prev_url: /images/
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-032.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-032-thumb.jpg" alt="32 - Insect">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-032.jpg" alt="32 - Insect">
   </a>
   <div class="gallery-caption">032 – Insect</div>
   <div class="gallery-actions">
