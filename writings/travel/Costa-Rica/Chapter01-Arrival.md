@@ -91,10 +91,6 @@ After a little rest at Casa Tica, we cleaned up for dinner with Claire and her h
 </p>
 <p>
 After dinner, we wound our way in the dark across the road and back down the long drive to Casa Tica.  All-in-all, the last 24 hours had gone smoothly. We had navigated major airports, foreign hotels and taxis, and rough roads leading us through jungle. As our first day in Venado came to a close, we realized that we were not really tourists here. We’d made some cursory acquaintances, learned the hike to the ocean, situated ourselves in Casa Tica, and gotten a hint of some bug issues which we’d have to deal with in the near future. We were going to live here. We retired for the evening, weary, but both anxious and excited to immerse ourselves in this community and the adventures it had to offer. 
-
-</p>
-<p>
-More photos?
 </p>
   </div>
 
