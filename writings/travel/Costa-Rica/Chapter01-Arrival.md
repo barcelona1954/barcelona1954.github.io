@@ -98,13 +98,3 @@ More photos?
 </p>
   </div>
 
-</div>
-<div class="writing-art">
-  <img src="/images/photos/CostaRicaBeachSunset.jpg"
-       alt="Costa Rica Pacific Sunset with Friends">
-
-  <p class="writing-art-caption">
-    From the Tico Times - My Costa Rica Diary collection
-  </p>
-</div>
-
