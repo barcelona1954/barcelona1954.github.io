@@ -607,6 +607,40 @@ padding: 0.8rem 1rem 0.9rem;
   padding-top: 1rem;
 }
 
+/* ===== Travel chapter navigation ===== */
+
+.chapter-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  max-width: 760px;
+  margin: 1.25rem auto;
+  font-size: 0.95rem;
+}
+
+.chapter-nav a {
+  color: #0056a3;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.chapter-nav a:hover {
+  color: #b14424;
+  border-bottom-color: currentColor;
+}
+
+.chapter-nav-next {
+  margin-left: auto;
+}
+
+@media (max-width: 480px) {
+  .chapter-nav {
+    flex-wrap: wrap;
+  }
+}
+
+
 /* ===== Writings reading layout ===== */
 
 .writings-reading {

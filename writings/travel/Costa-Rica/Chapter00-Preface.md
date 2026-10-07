@@ -3,6 +3,8 @@ layout: default
 title: Preface
 prev_label: Travel
 prev_url: /writings/travel/
+next_label: Arrival
+next_url: /writings/travel/Costa-Rica/Chapter01-Arrival.html
 ---
 
 <div class="poem-card">

@@ -3,7 +3,12 @@ layout: default
 title: Arrival
 prev_label: Travel
 prev_url: /writings/travel/
+#next_label: Arrival
+#next_url: /writings/travel/Costa-Rica/Chapter01-Arrival.html
 ---
+
+{% include chapter-nav.html %}
+
 
 <div class="poem-card">
 
@@ -94,3 +99,4 @@ After dinner, we wound our way in the dark across the road and back down the lon
 </p>
   </div>
 
+{% include chapter-nav.html %}
