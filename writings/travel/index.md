@@ -8,9 +8,7 @@ noindex: true
 
 # Travel
 
-Welcome to the writings section. This is a placeholder document showing how writing pieces will appear on your site.
-
-
+In 2019, Julie and I volunteered in a pueblo on the Pacific coast of Costa Rica. During that time, I wrote a blog and shared it on Facebook. Now, I am revisiting it and cleaning it up for a wider audience. I'll try to provide a few new entries per month.  
 
 
 <h1>Tico Times - My Time in Costa Rica</h1>
