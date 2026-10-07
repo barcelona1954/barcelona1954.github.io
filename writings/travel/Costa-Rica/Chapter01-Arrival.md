@@ -27,9 +27,17 @@ On our 15 minute taxi ride, we took in the late-night sights and sounds of the b
 We awoke the next morning ready to embark on the adventure in earnest. Boots on the ground. We crossed the courtyard, surrounded by lush, tropical plants and trees. We chatted with the couple of hotel staff members managing the open-air dining area where they were serving beans, rice, coffee, and fruit to other hotel guests: a couple from Germany we’d chatted with on our flight, a couple of truck drivers planning their day’s work. The young waiter was helpful and gave us a chance to warm up our Spanish. While chatting, I had the realization that the Spanish word for breakfast (desayuno) mirrors the English word, breakfast (break fast). In Spanish, the prefix “des” is a negation and “ayuno” is fast,  so desayuno literally means to un-fast. 
 
 </p>
-<p>
-Photo of Hotel Javy
-</p>
+
+<div class="writing-art">
+  <img src="/images/photos/Hotel-Javy2.jpg"
+       alt="Grounds of Hotel Javy">
+
+  <p class="writing-art-caption">
+    View of Hotel Javy courtyard
+  </p>
+</div>
+
+
 <p>
 With a hearty base in our tummies, we gathered up our luggage, two fully packed hardshell suitcases and a backpack each. And I was also carting around a small travel guitar my friend Chuck had lent me. The wavy-haired waiter called a taxi for us and we were soon on our way back towards the airport and the car rental agencies. 
 
@@ -43,7 +51,6 @@ Our drive was a couple hours duration, mostly on decent two-lane highways and th
     </p>
      <p>
 We parked and walked to the Clara Vista buildings. There, we found our liaison and one-person welcoming committee, Claire Malfante, a young French woman who was only a few weeks into her own stint with Clara Vista. She welcomed us with Euro kisses and offered us lunch at the soda. We ate, chatted, and met a few people working the restaurant and the pulperia next door. Finally, Claire showed us back up the road to our home for the next several months, a small one-room house set back into the jungle that everyone referred to as Casa TIca. 
-
     </p>
      <p>
 At Casa Tica, we unloaded our luggage and snooped around, but there’s only so much snooping to do in a one room cottage. The little kitchenette had a microwave (shelved at an appropriate height for Kareem Abdul Jabbar to peer eye level into the front panel), fridge, a hot plate, small sink and countertop. The remaining living area was split between a small dining table, diminutive sofa, and a full-sized bed.  Claire gave us a rundown on use of the air conditioning unit and the hot water heater in the shower (both luxury items in this community). And she showed us the chicken coop in the back, where we would have our pick of fresh eggs. Julie excused herself to use the bathroom, and after a few minutes, returned pale-faced and agitated. “Claire,” she said, “there are ants in the toilet.” “I mean, lots of ants, I couldn’t sit down. Everywhere in the toilet. I flushed them down and more came out. I flushed again. They were all over the inside of the toilet.”
@@ -54,22 +61,29 @@ At Casa Tica, we unloaded our luggage and snooped around, but there’s only so 
 Claire looked shocked and embarrassed and apologized profusely, saying she’d personally helped clean the house in preparation of our arrival. After a few more flushes, we seemingly washed them away, but it turns out this would be a harbinger of future troubles. 
     </p>
 
+<div class="writing-art">
+  <img src="/images/photos/CasaTica1.jpg"
+       alt="Casa Tica">
+
+  <p class="writing-art-caption">
+    Casa Tica
+  </p>
+</div>
+
+
 <p>
 Claire left us to get settled. We agreed to rendezvous later in the afternoon and walk to the ocean. And we were invited to dinner at her host family’s house, which was almost directly across the road from Casa Tica. We unpacked, walked the grounds, checked out the hammocks that we would stress-test over the next few months, and generally got our things organized. In the later afternoon, we met  Claire, and 2 of her younger host sisters, Susana and Sami, and we walked a forested dirt path past a few stray cattle, trees filled with termite nests the size of one-person kayaks, and periodic clouds of mosquitoes, until we crossed a small estuary and the jungle opened to the sound of crashing waves and a view of the Pacific coast horizon that seemed to stretch to the end of the Earth.  The beach was vast, mostly muddy sand, and largely unpopulated. We saw a handful of locals fishing with their hand-held spindles of fish line and baited hooks. Claire warned that the rip-tide is especially strong and that we should be careful entering the water. Julie and I hadn’t prepared to dip in the ocean, but Claire (and the family dog) took a swim to cool off.  We soaked in the sights and sounds, trudged through the thick sand, and chatted briefly with one of the fishermen. As the sun began to lower, we returned to Casa Tica, trying (but failing) to out-race the mosquitoes. 
 
 </p>
-<p>
 
-</div>
 <div class="writing-art">
   <img src="/images/photos/CostaRicaBeachSunset.jpg"
        alt="Costa Rica Pacific Sunset with Friends">
 
   <p class="writing-art-caption">
-    From the Tico Times - My Costa Rica Diary collection
+    Our first ocean view from the beach at Venado
   </p>
 </div>
-</p>
 
 <p>
 After a little rest at Casa Tica, we cleaned up for dinner with Claire and her host family. We crossed the dirt road in front of Casa Tica and entered their yard to the sounds of rhythmic salsa music and laughter of Claire and her host dad (Miguel) dancing on the porch. Their sweat shined on them as they bounced back-and-forth to the music and Miguel, light on his bare feet, led Claire through each move. When the song ended, they noticed our arrival, and we formally met Miguel, and in turn, his wife and Claire’s host mom, Argerie, and the youngest daughter, Aurora. They offered us drinks, cleared off the patio, set up tables, and we soon sat for dinner, where Julie and I were seated at one table and the family sat at another. This was our first (but not last) experience with an apparent local custom to feed guests, but to either watch them eat or to eat separately from them. We tried to make pleasant conversation. Miguel and Argerie kept using Claire as a translator, but she told them to speak directly to us in Spanish because, although we were not fluent, we were able to communicate. 
