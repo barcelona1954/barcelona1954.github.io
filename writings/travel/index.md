@@ -14,3 +14,5 @@ In 2019, Julie and I volunteered in a pueblo on the Pacific coast of Costa Rica.
 <h2>Tico Times - My Time in Costa Rica</h2>
 - [Preface](Costa-Rica/Chapter00-Preface.md)
 - [Arrival](Costa-Rica/Chapter01-Arrival.md)
+- [Why Am I Here](Costa-Rica/Chapter02-WhyAmIHere.md)
+

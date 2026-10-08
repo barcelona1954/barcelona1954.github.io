@@ -1,32 +1,35 @@
 ---
 layout: default
-title: Chapter 1 Arrival
+title: Why Am I Here
 prev_label: Travel
 prev_url: /writings/travel/
 ---
 
 <div class="poem-card">
 
-  <h2>Chapter 1 Arrival</h2>
+   <h2>April 2, 2019 - Why Am I Here</h2>
 
   <div class="poem-text">
-  <p>April 2, 2019</p>
 
-    <p>
-    I mean this in the general, rather than the existential sense (not why am i HERE). While I feel sure that somewhere in these posts I'll stumble across something profound, I'm not going there out of the gate. Anyway, why am I in this little Costa Rican community for a few months? It starts with a story....
+   <p>
+I mean this in the general, rather than the existential sense.  While I feel there’s a chance that somewhere in these posts I'll stumble across something profound, I'm not starting there. Anyway, why am I in this little Costa Rican community for a few months? It starts with a story....
 </p>
 <p>
-When I was 20 years old and a bit lost in life, I was asked by a friend to travel around Europe. Not really having any firm focus or direction, that seemed like a fine idea, so I saved some money, bought a backpack and ticket to Octoberfest (which is a tale for another time). I left Muncie, Indiana to backpack / hostel around Germany, Austria, France, England, and Spain.
+When I was 20 years old and a bit lost in life, my friend Rick asked me to travel around Europe. Not really having any firm focus or direction, that seemed like a fine idea, so I saved some money, bought a backpack and a ticket to Munich, Germany. </p>
+<p>
+Rick was our master planner and had grand ideas that we would set up shop in Paris and live like bohemian artists. But first was Oktoberfest (which is a tale for another time). Shortly after our arrival in Germany, however, I found I was not prepared for the patterns of life in another culture. The German food–all those wursts were the worst! To my naive and immature Midwestern self, the people were uptight and rigid. The language….it just sounded like they were slobbering on themselves. The beer, well, the beer was good, and it arrived in giant steins,  but it didn’t make up for the difficulty I had with a world so different from my home in central Indiana.  
 </p>
 <p>
-During this time (about 9 months total), I spent about 3 months in Spain, roughly splitting my time between a village in the Pyrenees Mountains and the industrial port town of Barcelona (a far cry from the cosmopolitan center it is now). While there, I learned essential Spanish: how to buy stamps, order food, negotiate the metro, talk to girls.
+But somehow, I persevered through that first bout of culture shock. I went on to spend roughly nine months away from home. Once I got comfortable with the differences in people, languages, and cultures, I discovered that I enjoyed learning and experiencing them. When I returned to Munich 9 months later, I found the people were friendlier. The food went well with the beer. The language was a perfectly functional means of communication. I was shocked at how  a place could change in such a short time! 
 </p>
 <p>
-When I left Spain, it was to return to Muncie. I didn't really have a deadline or anything. I just felt I was ready to return. However, from that time, I have always regretted that I didn't stay in Spain longer to learn the language better. To that end, for the last 44 years, I have been doing a little here-and-there to speak Spanish -- taking classes in college, going to immersion school, taking private lessons, joining a conversation group, etc.
+Among my travels, I spent about 3 months in Spain, splitting my time between a village in the Pyrenees Mountains and the industrial port town of Barcelona (a far cry from the cosmopolitan center it is now). While there, I learned essential Spanish: how to buy stamps, order food, negotiate the metro, talk to girls.  When I finally left Spain to return home, I wasn't working against any particular deadline. I just felt I was ready to head home.
 </p>
 <p>
-Now, a few decades later. I have the most adventurous of partners and best travel companion (Julie McClellan) who is willing to do crazy things with me, and together we have an opportunity to volunteer with claravista.org, give back a little in this small community, all while immersing ourselves in the culture and cementing our language skills. And that, my friends, is why I am here in the tiny pueblito of Venado, Costa Rica. (Oh, and it doesn't hurt that we have easy access to some of the most beautiful ocean in the world.) 🙂
-    </p>
+From that time,  I have always regretted that I didn't stay in Spain longer to learn the language better. For the next 50-plus years, I kept chipping away at speaking and understanding Spanis–taking classes in college, going to immersion school, taking private lessons, joining a conversation group at the local library.  </p>
+<p>
+And that, my friends, is why I’ve found my way to this tiny pueblo of Venado, Costa Rica. To immerse. To learn the language. To continue that experience I’d left hanging in Spain so many years ago.
+</p>
 
 
   </div>
