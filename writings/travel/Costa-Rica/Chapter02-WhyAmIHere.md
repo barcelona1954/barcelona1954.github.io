@@ -26,7 +26,7 @@ But somehow, I persevered through that first bout of culture shock. I went on to
 Among my travels, I spent about 3 months in Spain, splitting my time between a village in the Pyrenees Mountains and the industrial port town of Barcelona (a far cry from the cosmopolitan center it is now). While there, I learned essential Spanish: how to buy stamps, order food, negotiate the metro, talk to girls.  When I finally left Spain to return home, I wasn't working against any particular deadline. I just felt I was ready to head home.
 </p>
 <p>
-From that time,  I have always regretted that I didn't stay in Spain longer to learn the language better. For the next 50&endash;plus years, I kept chipping away at speaking and understanding Spanish&emdash;taking classes in college, going to immersion school, taking private lessons, joining a conversation group at the local library.  </p>
+From that time,  I have always regretted that I didn't stay in Spain longer to learn the language better. For the next 50&ndash;plus years, I kept chipping away at speaking and understanding Spanish&mdash;taking classes in college, going to immersion school, taking private lessons, joining a conversation group at the local library.  </p>
 <p>
 And that, my friends, is why I’ve found my way to this tiny pueblo of Venado, Costa Rica. To immerse. To learn the language. To continue that experience I’d left hanging in Spain so many years ago.
 </p>
@@ -34,7 +34,7 @@ And that, my friends, is why I’ve found my way to this tiny pueblo of Venado, 
 
   </div>
 
-<!-->
+<!--
 Placeholder for photo....
 
 </div>
