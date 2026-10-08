@@ -41,7 +41,7 @@ Poems, short reflections, and other written work.
 
 - **[Travel](travel/)** – coming soon.
 
-- **[Poems]** – coming soon.
+- **Poems** – coming soon.
 
 <!-- 
 
