@@ -5,9 +5,10 @@ prev_label: Home
 prev_url: /
 noindex: true
 ---
+<!--
 🚧 Under construction.
-
-Poems, short reflections, and other written work.
+--> 
+Diaries, poems, short reflections, and other written work.
 
 <div class="section-hero">
   <img src="/images/ink-drawings/banners/writings-banner.jpg" alt="Ink drawing: Seeds Drifting]">
@@ -39,7 +40,7 @@ Poems, short reflections, and other written work.
 
 <h2> Collections </h2>
 
-- **[Travel](travel/)** – coming soon.
+- **[Travel](travel/)** – Tico Times Diaries are in progress. Come take a look!
 
 - **Poems** – coming soon.
 
