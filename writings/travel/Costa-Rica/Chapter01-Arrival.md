@@ -7,9 +7,6 @@ prev_url: /writings/travel/
 #next_url: /writings/travel/Costa-Rica/Chapter01-Arrival.html
 ---
 
-{% include chapter-nav.html %}
-
-
 <div class="poem-card">
 
   <h2>April 2, 2019 - Arrival</h2>

@@ -7,9 +7,6 @@ next_label: Arrival
 next_url: /writings/travel/Costa-Rica/Chapter01-Arrival.html
 ---
 
-{% include chapter-nav.html %}
-
-
 <div class="poem-card">
 
   <h2>Preface</h2>
