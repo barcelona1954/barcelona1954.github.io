@@ -13,7 +13,7 @@ prev_url: /writings/travel/
   <p>
 After spending a couple of days situating ourselves, Julie, an avid animal and wildlife enthusiast, was anxious to see some sea turtles. Costa Rica’s rich ecosystem features turtle nesting sites on both the Caribbean and the Pacific coastlines. We discovered that a favorite nesting spot for the Olive Ridley Sea Turtle is a beach area called Ostional, known for periodic mass nesting events (called arribadas, or  “arrivals”) where thousands of turtles come ashore. And Ostional was only about 15 miles as the crow flies from Venado. Crows, however, have the advantage of bypassing the Costa Rican road that would take us to Ostional, so we avoided the rugged and bouncy drive in our little rental sedan and instead secured a boat ride in the nearby beach village of San Juanillo. 
 </p>
-</div>
+
 <div class="writing-art">
   <img src="/images/photos/Venado-SJ-Ostional.jpg"
        alt="Route from Venado to San Juanillo to Ostional">
@@ -21,6 +21,7 @@ After spending a couple of days situating ourselves, Julie, an avid animal and w
     Created with uMap. Map data © OpenStreetMap contributors.
   </p>
 </div>
+
 <p>
 We had gone to San Juanillo the previous day and found a smallish, but spectacular bay framed by a jungle shoreline on one side and a small sandy spit point on the other. The beach was populated with a mix of eastern European tourists, local families, and a sprinkling of fishermen in shaded huts. There, I had approached one of the fishermen for information and I had tried to explain what it was we wanted to do. This well-weathered fellow, named Santiago, said he could take us out  by boat and that we would definitely see turtles, even swim with them, and there was a good chance we’d see whales that were still in the area from their annual migration south. After torturing Santiago with my Spanish, I felt  the least I could do was repay him by booking a trip, so we arranged for a two-hour ride for the following day. 
 </p>
@@ -41,7 +42,6 @@ When we returned for our trip, Santiago met us near the fishermen’s huts and h
 The day was spectacular and the ocean was relatively calm for our ride south along the coast towards Ostional. Santiago, a sea-weathered native of San Juanillo, chatted with us as he scanned the horizon, searching for signs of animal life. Hoping to catch his dinner while playing tour guide, he tossed a couple of fishing lines in the water, and I noticed how his hands were hardened and cracked from his years fishing. 
 </p>
 
-</div>
 <div class="writing-art">
   <img src="/images/photos/SanJuanillo-Santiago.jpg"
        alt="Costa Rica fisherman">
@@ -50,7 +50,6 @@ The day was spectacular and the ocean was relatively calm for our ride south alo
     From the Tico Times - My Costa Rica Diary collection
   </p>
 </div>
-</p>
 
 <p>
 In the meantime, we waited, with wind blowing our hair, on the lookout for a mass of turtles.  And we waited some more. Another 15 minutes or so.  Still waiting. We had some excitement, as Santiago reeled in a black tuna. (I think he was feeling bad about our lack of luck with the turtles, because he offered me the chance to reel in the tuna.) 
@@ -58,7 +57,7 @@ In the meantime, we waited, with wind blowing our hair, on the lookout for a mas
 <p>
 We stopped briefly and snorkeled. And after that, we cruised and waited a bit longer until, finally, it happened. There, Santiago pointed. We saw it. A turtle! Exactly one. Skimming the top of the water. And in a flash, it was gone. That was it for the day. No whales. No more turtles.
 </p>
-</div>
+
 <div class="writing-art">
   <img src="/images/photos/SJ-Ostional-Boat-Route.jpg"
        alt="Boat Route from San Juanillo to Ostional">
