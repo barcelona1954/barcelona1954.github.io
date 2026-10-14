@@ -60,7 +60,7 @@ We stopped briefly and snorkeled. And after that, we cruised and waited a bit lo
 </p>
 </div>
 <div class="writing-art">
-  <img src="/images/photos/SJ-Ostional-Boat-Ride.jpg"
+  <img src="/images/photos/SJ-Ostional-Boat-Route.jpg"
        alt="Boat Route from San Juanillo to Ostional">
   <p class="writing-art-caption">
     Created with uMap. Map data © OpenStreetMap contributors.
@@ -75,14 +75,4 @@ We returned to Casa Tica to lie in the hammocks. I napped and then played guitar
 
 
   </div>
-
-</div>
-<div class="writing-art">
-  <img src="/images/photos/CostaRicaBeachSunset.jpg"
-       alt="Costa Rica Pacific Sunset with Friends">
-
-  <p class="writing-art-caption">
-    From the Tico Times - My Costa Rica Diary collection
-  </p>
-</div>
 
