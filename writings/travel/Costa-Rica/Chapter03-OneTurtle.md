@@ -75,3 +75,4 @@ We returned to Casa Tica to lie in the hammocks. I napped and then played guitar
 
   </div>
 
+{% include chapter-nav.html %}

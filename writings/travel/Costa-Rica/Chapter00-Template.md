@@ -49,3 +49,5 @@ Placeholder for photo....
 
 -->
 
+
+{% include chapter-nav.html %}
