@@ -28,9 +28,13 @@ Suddenly, our frequent dinner-talks about retirement and living in another count
 
 </div>
 <div class="writing-art">
+  <a href="/images/photos/SanJuanillo-FishingBoats.jpg"
+     class="lightbox-link"
+     aria-label="Enlarge photograph">
+
   <img src="/images/photos/MonteverdeHangingBridge.jpg"
        alt="Hanging bridge in Costa Rica cloud forest">
-
+</a>
   <p class="writing-art-caption">
     From the Tico Times - My Costa Rica Diary collection
   </p>

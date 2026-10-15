@@ -31,11 +31,14 @@ We awoke the next morning ready to embark on the adventure in earnest. Boots on 
 </p>
 
 <div class="writing-art">
-  <img src="/images/photos/Hotel-Javy2.jpg"
+  <a href="/images/photos/Hotel-Javy2.jpg"
+     class="lightbox-link"
+     aria-label="Enlarge photograph">
+       <img src="/images/photos/Hotel-Javy2.jpg"
        alt="Grounds of Hotel Javy">
-
+</a>
   <p class="writing-art-caption">
-    View of Hotel Javy courtyard
+    View of Hotel Javy courtyard - From the Tico Times - My Costa Rica Diary collection
   </p>
 </div>
 
@@ -64,11 +67,14 @@ Claire looked shocked and embarrassed and apologized profusely, saying she’d p
     </p>
 
 <div class="writing-art">
+  <a href="/images/photos/CasaTica1.jp"
+     class="lightbox-link"
+     aria-label="Enlarge photograph">
   <img src="/images/photos/CasaTica1.jpg"
        alt="Casa Tica">
-
+</a>
   <p class="writing-art-caption">
-    Casa Tica
+    Casa Tica - From the Tico Times - My Costa Rica Diary collection
   </p>
 </div>
 
@@ -79,9 +85,12 @@ Claire left us to get settled. We agreed to rendezvous later in the afternoon an
 </p>
 
 <div class="writing-art">
+  <a href="/images/photos/CostaRicaBeachSunset.jpg"
+     class="lightbox-link"
+     aria-label="Enlarge photograph">
   <img src="/images/photos/CostaRicaBeachSunset.jpg"
        alt="Costa Rica Pacific Sunset with Friends">
-
+</a>
   <p class="writing-art-caption">
     Our first ocean view from the beach at Venado
   </p>
