@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter 1 Arrival
+title: Arrival
 prev_label: Travel
 prev_url: /writings/travel/
 ---
@@ -14,13 +14,19 @@ prev_url: /writings/travel/
 After spending a couple of days situating ourselves, Julie, an avid animal and wildlife enthusiast, was anxious to see some sea turtles. Costa Rica’s rich ecosystem features turtle nesting sites on both the Caribbean and the Pacific coastlines. We discovered that a favorite nesting spot for the Olive Ridley Sea Turtle is a beach area called Ostional, known for periodic mass nesting events (called arribadas, or  “arrivals”) where thousands of turtles come ashore. And Ostional was only about 15 miles as the crow flies from Venado. Crows, however, have the advantage of bypassing the Costa Rican road that would take us to Ostional, so we avoided the rugged and bouncy drive in our little rental sedan and instead secured a boat ride in the nearby beach village of San Juanillo. 
 </p>
 
+
 <div class="writing-art">
-  <img src="/images/photos/Venado-SJ-Ostional.jpg"
-       alt="Route from Venado to San Juanillo to Ostional">
+  <a href="/images/photos/Venado-SJ-Ostional.jpg"
+     class="lightbox-link"
+     aria-label="Enlarge map">
+    <img src="/images/photos/Venado-SJ-Ostional.jpg"
+         alt="Route from Venado to San Juanillo to Ostional">
+  </a>
   <p class="writing-art-caption">
     Created with uMap. Map data © OpenStreetMap contributors.
   </p>
 </div>
+
 
 <p>
 We had gone to San Juanillo the previous day and found a smallish, but spectacular bay framed by a jungle shoreline on one side and a small sandy spit point on the other. The beach was populated with a mix of eastern European tourists, local families, and a sprinkling of fishermen in shaded huts. There, I had approached one of the fishermen for information and I had tried to explain what it was we wanted to do. This well-weathered fellow, named Santiago, said he could take us out  by boat and that we would definitely see turtles, even swim with them, and there was a good chance we’d see whales that were still in the area from their annual migration south. After torturing Santiago with my Spanish, I felt  the least I could do was repay him by booking a trip, so we arranged for a two-hour ride for the following day. 

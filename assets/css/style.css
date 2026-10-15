@@ -1159,3 +1159,60 @@ details.pv-reveal .reader-notes {
   display: block;
   border-radius: 4px;
 }
+
+/* =========================================
+   Pretzelvision Image Lightbox
+   ========================================= */
+
+/* Indicate that designated images are clickable */
+.lightbox-link {
+  cursor: zoom-in;
+}
+
+/* Full-screen overlay */
+.pv-lightbox {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background: rgba(0, 0, 0, 0.88);
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  box-sizing: border-box;
+}
+
+/* Show the overlay when activated */
+.pv-lightbox.is-open {
+  display: flex;
+}
+
+/* Enlarged image */
+.pv-lightbox-image {
+  display: block;
+  max-width: 100%;
+  max-height: 90vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.4);
+}
+
+/* Close button */
+.pv-lightbox-close {
+  position: absolute;
+  top: 12px;
+  right: 18px;
+  border: none;
+  background: transparent;
+  color: white;
+  font-size: 36px;
+  line-height: 1;
+  cursor: pointer;
+  z-index: 1;
+}
+
+.pv-lightbox-close:hover,
+.pv-lightbox-close:focus-visible {
+  color: #ddd;
+}
