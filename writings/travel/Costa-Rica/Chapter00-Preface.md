@@ -28,7 +28,7 @@ Suddenly, our frequent dinner-talks about retirement and living in another count
 
 </div>
 <div class="writing-art">
-  <a href="/images/photos/SanJuanillo-FishingBoats.jpg"
+  <a href="/images/photos/MonteverdeHangingBridge.jpg"
      class="lightbox-link"
      aria-label="Enlarge photograph">
 

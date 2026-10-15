@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Arrival
+title: One is the Loneliest Number
 prev_label: Travel
 prev_url: /writings/travel/
 ---
 
 <div class="poem-card">
 
-  <h2>April 4 2019 - One Turtle</h2>
+  <h2>April 4 2019 - One Tis the Loneliest Number</h2>
 
   <div class="poem-text">
   <p>
@@ -83,7 +83,7 @@ In the meantime, we waited, with wind blowing our hair, on the lookout for a mas
 </div>
 
 <p>
-We stopped briefly and snorkeled. And after that, we cruised and waited a bit longer until, finally, it happened. There, Santiago pointed. We saw it. A turtle! Exactly one. Skimming the top of the water. And in a flash, it was gone. That was it for the day. No whales. No more turtles.
+We stopped briefly and snorkeled. And after that, we cruised and waited a bit longer until, finally, it happened. There, Santiago pointed. We saw it. A turtle! Exactly one. Skimming the top of the water. The lonliest number. And in a flash, it was gone. That was it for the day. No whales. No more turtles.
 </p>
 
 

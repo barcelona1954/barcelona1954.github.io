@@ -67,7 +67,7 @@ Claire looked shocked and embarrassed and apologized profusely, saying she’d p
     </p>
 
 <div class="writing-art">
-  <a href="/images/photos/CasaTica1.jp"
+  <a href="/images/photos/CasaTica1.jpg"
      class="lightbox-link"
      aria-label="Enlarge photograph">
   <img src="/images/photos/CasaTica1.jpg"
