@@ -49,5 +49,18 @@ Placeholder for photo....
 
 -->
 
+<!--
+<div class="writing-art">
+  <a href="/images/photos/SJ-Ostional-Boat-Route.jpg"
+     class="lightbox-link"
+     aria-label="Enlarge boat route map">
+    <img src="/images/photos/SJ-Ostional-Boat-Route.jpg"
+         alt="Boat Route from San Juanillo to Ostional">
+  </a>
+  <p class="writing-art-caption">
+    A LIGHTBOX EXAMPLE for.
+  </p>
+</div>
+-->
 
 {% include chapter-nav.html %}
