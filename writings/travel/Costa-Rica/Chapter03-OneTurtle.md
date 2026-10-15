@@ -32,14 +32,19 @@ After spending a couple of days situating ourselves, Julie, an avid animal and w
 We had gone to San Juanillo the previous day and found a smallish, but spectacular bay framed by a jungle shoreline on one side and a small sandy spit point on the other. The beach was populated with a mix of eastern European tourists, local families, and a sprinkling of fishermen in shaded huts. There, I had approached one of the fishermen for information and I had tried to explain what it was we wanted to do. This well-weathered fellow, named Santiago, said he could take us out  by boat and that we would definitely see turtles, even swim with them, and there was a good chance we’d see whales that were still in the area from their annual migration south. After torturing Santiago with my Spanish, I felt  the least I could do was repay him by booking a trip, so we arranged for a two-hour ride for the following day. 
 </p>
 
-</div>
+
 <div class="writing-art">
-  <img src="/images/photos/SanJuanillo-FishingBoats.jpg"
-       alt="Fishing boats anchored in San Juanillo Bay, 2019">
+  <a href="/images/photos/SanJuanillo-FishingBoats.jpg"
+     class="lightbox-link"
+     aria-label="Enlarge photograph">
+    <img src="/images/photos/SanJuanillo-FishingBoats.jpg"
+         alt="Fishing boats anchored in San Juanillo Bay, 2019">
+  </a>
   <p class="writing-art-caption">
     From the Tico Times - My Costa Rica Diary collection
   </p>
 </div>
+
 
 <p>
 When we returned for our trip, Santiago met us near the fishermen’s huts and he ferried us in a small dinghy from the shore out to a fishing boat floating like a cork in the bay. Facing forward in the dinghy, he steered the outboard motor with his free-hand behind his back. We boarded the fishing boat, Santiago pulled up the anchor, and we were on our way, our expectations high.  
@@ -66,9 +71,12 @@ In the meantime, we waited, with wind blowing our hair, on the lookout for a mas
 </p>
 
 <div class="writing-art">
+<a href="/images/photos/SanJuanillo-Santiago.jpg"
+     class="lightbox-link"
+       aria-label="Enlarge photograph">
   <img src="/images/photos/SanJuanillo-Santiago.jpg"
        alt="Costa Rica fisherman">
-
+  </a>
   <p class="writing-art-caption">
     From the Tico Times - My Costa Rica Diary collection
   </p>
