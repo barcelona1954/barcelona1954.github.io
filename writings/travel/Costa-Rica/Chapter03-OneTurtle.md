@@ -65,8 +65,12 @@ We stopped briefly and snorkeled. And after that, we cruised and waited a bit lo
 </p>
 
 <div class="writing-art">
-  <img src="/images/photos/SJ-Ostional-Boat-Route.jpg"
-       alt="Boat Route from San Juanillo to Ostional">
+  <a href="/images/photos/SJ-Ostional-Boat-Route.jpg"
+     class="lightbox-link"
+     aria-label="Enlarge boat route map">
+    <img src="/images/photos/SJ-Ostional-Boat-Route.jpg"
+         alt="Boat Route from San Juanillo to Ostional">
+  </a>
   <p class="writing-art-caption">
     Created with uMap. Map data © OpenStreetMap contributors.
   </p>
