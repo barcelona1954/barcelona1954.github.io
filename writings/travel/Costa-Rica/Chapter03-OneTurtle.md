@@ -34,10 +34,10 @@ We had gone to San Juanillo the previous day and found a smallish, but spectacul
 
 </div>
 <div class="writing-art">
-  <img src="/images/photos/SanJuanillo-Stock-Credit-SageElyse.jpg"
-       alt="Aerial view of Playa San Juanillo, Costa Rica">
+  <img src="/images/photos/SanJuanillo-FishingBoats.jpg"
+       alt="Fishing boats anchored in San Juanillo Bay, 2019">
   <p class="writing-art-caption">
-    From the iStock, Sage Elyse
+    From the Tico Times - My Costa Rica Diary collection
   </p>
 </div>
 
