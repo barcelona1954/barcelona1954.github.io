@@ -1,8 +1,10 @@
 ---
 layout: default
 title: One is the Loneliest Number
-prev_label: Travel
-prev_url: /writings/travel/
+prev_label: Why Am I Here
+prev_url: /writings/travel/Chapter02-WhyAmIHere.html
+!next_label: One is the Loneliest Number
+!next_url: /writings/travel/Costa-Rica/Chapter03-OneTurtle.html
 ---
 
 <div class="poem-card">
