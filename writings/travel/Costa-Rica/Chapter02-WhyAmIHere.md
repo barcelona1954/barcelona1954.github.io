@@ -3,6 +3,8 @@ layout: default
 title: Why Am I Here
 prev_label: Travel
 prev_url: /writings/travel/
+next_label: One is the Lonliest Number
+next_url: /writings/travel/Costa-Rica/Chapter03-OneTurtle.html
 ---
 
 <div class="poem-card">
@@ -33,6 +35,8 @@ And that, my friends, is why I’ve found my way to this tiny pueblo of Venado, 
 
 
   </div>
+
+  {% include chapter-nav.html %}
 
 <!--
 Placeholder for photo....
