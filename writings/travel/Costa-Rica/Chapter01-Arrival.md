@@ -4,7 +4,7 @@ title: Arrival
 prev_label: Travel
 prev_url: /writings/travel/
 next_label: Why Am I Here
-next_url: /writings/travel/Costa-Rica/Chapter2-WhyAmIHere.html
+next_url: /writings/travel/Costa-Rica/Chapter2-WhyAmIHere.md
 ---
 
 <div class="poem-card">
