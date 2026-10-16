@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Why Am I Here
-prev_label: Travel
-prev_url: /writings/travel/
-next_label: One is the Lonliest Number
+prev_label: Arrival
+prev_url: /writings/travel/Chapter01-Arrival.html
+next_label: One is the Loneliest Number
 next_url: /writings/travel/Costa-Rica/Chapter03-OneTurtle.html
 ---
 
