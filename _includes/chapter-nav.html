@@ -1,16 +1,40 @@
 
-<nav class="chapter-nav" aria-label="Chapter navigation">
+{% assign chapters = site.data.costa-rica-chapters %}
+{% assign current_index = nil %}
 
-  {% if page.prev_url %}
-    <a class="chapter-nav-prev" href="{{ page.prev_url | relative_url }}">
-      &larr; {{ page.prev_label | default: "Previous" }}
-    </a>
+{% for chapter in chapters %}
+  {% if chapter.url == page.url %}
+    {% assign current_index = forloop.index0 %}
+    {% break %}
   {% endif %}
+{% endfor %}
 
-  {% if page.next_url %}
-    <a class="chapter-nav-next" href="{{ page.next_url | relative_url }}">
-      {{ page.next_label | default: "Next" }} &rarr;
-    </a>
-  {% endif %}
+{% if current_index != nil %}
 
-</nav>
+  {% assign previous_index = current_index | minus: 1 %}
+  {% assign next_index = current_index | plus: 1 %}
+
+  <nav class="chapter-nav" aria-label="Chapter navigation">
+
+    {% if current_index > 0 %}
+      {% assign previous_chapter = chapters[previous_index] %}
+      <a class="chapter-nav-prev" href="{{ previous_chapter.url | relative_url }}">
+        &larr; {{ previous_chapter.title }}
+      </a>
+    {% else %}
+      <a class="chapter-nav-prev" href="{{ '/writings/travel/' | relative_url }}">
+        &larr; Travel Contents
+      </a>
+    {% endif %}
+
+    {% if next_index < chapters.size %}
+      {% assign next_chapter = chapters[next_index] %}
+      <a class="chapter-nav-next" href="{{ next_chapter.url | relative_url }}">
+        {{ next_chapter.title }} &rarr;
+      </a>
+    {% endif %}
+
+  </nav>
+
+{% endif %}
+
