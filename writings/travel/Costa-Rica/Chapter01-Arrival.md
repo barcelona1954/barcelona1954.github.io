@@ -3,8 +3,8 @@ layout: default
 title: Arrival
 prev_label: Travel
 prev_url: /writings/travel/
-#next_label: Arrival
-#next_url: /writings/travel/Costa-Rica/Chapter01-Arrival.html
+next_label: Why Am I Here
+next_url: /writings/travel/Costa-Rica/Chapter2-WhyAmIHere.html
 ---
 
 <div class="poem-card">
@@ -52,8 +52,20 @@ After reading a lot of horror stories about people who suffered administrative n
     </p>
      <p>
 Our drive was a couple hours duration, mostly on decent two-lane highways and through a handful of villages with speedbumps and roadside open-air restaurants called sodas. Finally, we pulled off the highway and onto a dirt/rock road that would take us the last 20 to 30 minutes to Venado. (According to the signage,this road might also be considered a highway. Certainly a major route along this part of the coast. But the road itself reminded me of the dusty hard-pack scrabble road in front of my Grandpa’s country house in rural Indiana.) The car jolted and rattled over the rough road, and Julie and I looked at each other with a silent realization that we were leaving behind the paved roads, the hotels and taxis and rental car agencies, and we were no-going-back in route to a small rural pueblo in the jungle. Our trip was getting real.  We saw underfed, scrawny cattle and an occasional buzzard overhead. We crossed several one-lane dirt bridges that looked like they were ready to crumble under the weight of the next car. The forest thickened into a jungle around us. Finally, and excitedly, we saw signs for Venado and another sign for Clara Vista, the non-profit organization we would be volunteering for. We entered the main plaza via a rutted dirt drive that led to a few humble buildings – a soda, a pulperia (kind of a 3rd-world 7-11), and two side-by-side green buildings that belonged to Clara Vista. On first appearance, I was thinking….not exactly quaint. Not exactly the “village” I had imagined in my head. But here we were. 
+ </p>
 
-    </p>
+ <div class="writing-art">
+  <a href="/images/photos/VenadoEntrance.jpg"
+     class="lightbox-link"
+     aria-label="Enlarge photograph">
+  <img src="/images/photos/VenadoEntrance.jpg"
+       alt="Venado Plaza">
+</a>
+  <p class="writing-art-caption">
+    Entrance to Vendaso main plaza from the road -
+    From the Tico Times - My Costa Rica Diary collection
+  </p>
+</div>
      <p>
 We parked and walked to the Clara Vista buildings. There, we found our liaison and one-person welcoming committee, Claire Malfante, a young French woman who was only a few weeks into her own stint with Clara Vista. She welcomed us with Euro kisses and offered us lunch at the soda. We ate, chatted, and met a few people working the restaurant and the pulperia next door. Finally, Claire showed us back up the road to our home for the next several months, a small one-room house set back into the jungle that everyone referred to as Casa TIca. 
     </p>
