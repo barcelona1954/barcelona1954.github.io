@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Why Am I Here
-prev_label: Travel
-prev_url: /writings/travel/
+title: <TITLE>
 ---
 
 <div class="poem-card">
