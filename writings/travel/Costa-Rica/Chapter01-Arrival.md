@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Arrival
-prev_label: Travel
-prev_url: /writings/travel/
+prev_label: Preface
+prev_url: /writings/travel/hapter00-Preface.html
 next_label: Why Am I Here
 next_url: /writings/travel/Costa-Rica/Chapter02-WhyAmIHere.html
 ---
