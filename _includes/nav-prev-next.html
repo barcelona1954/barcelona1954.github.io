@@ -1,9 +1,20 @@
-<nav class="nav-prev-next">
 
-{% if page.prev_url %}
-<nav class="pv-breadcrumb" aria-label="Breadcrumb">
-  <a class="pv-breadcrumb-link" href="{{ page.prev_url }}">{{ page.prev_label | default: "Back" }}</a>
-  <span class="pv-breadcrumb-sep">›</span>
-  <span class="pv-breadcrumb-current">{{ page.title }}</span>
-</nav>
+{% if page.url contains '/writings/travel/Costa-Rica/' %}
+
+  <nav class="pv-breadcrumb" aria-label="Breadcrumb">
+    <a class="pv-breadcrumb-link" href="{{ '/writings/travel/' | relative_url }}">Travel</a>
+    <span class="pv-breadcrumb-sep">›</span>
+    <span class="pv-breadcrumb-current">{{ page.title }}</span>
+  </nav>
+
+{% elsif page.prev_url %}
+
+  <nav class="pv-breadcrumb" aria-label="Breadcrumb">
+    <a class="pv-breadcrumb-link" href="{{ page.prev_url | relative_url }}">
+      {{ page.prev_label | default: "Back" }}
+    </a>
+    <span class="pv-breadcrumb-sep">›</span>
+    <span class="pv-breadcrumb-current">{{ page.title }}</span>
+  </nav>
+
 {% endif %}
