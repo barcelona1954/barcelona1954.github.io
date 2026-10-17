@@ -1242,11 +1242,11 @@ prev_url: /images/
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2019/2019-Drawings-030.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2019/2019-Drawings-030-thumb.jpg" alt="039 – Cube">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2019/2019-Drawings-030-thumb.jpg" alt="030 – Cube">
   </a>
   <div class="gallery-caption">030 – Cube</div>
   <div class="gallery-actions">
-    <a href="/images/ink-drawings/full/2019/2019-Drawings-039.jpg">View full</a>
+    <a href="/images/ink-drawings/full/2019/2019-Drawings-030.jpg">View full</a>
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/sketch-of-a-ice-cube-alan-mcclellan.html" target="_blank" rel="noopener">Prints</a>
   </div>
