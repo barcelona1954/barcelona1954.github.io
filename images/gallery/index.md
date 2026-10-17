@@ -47,7 +47,7 @@ prev_url: /images/
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-025.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-025-thumb.jpg" alt="25 - Fruit">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-025.jpg" alt="25 - Fruit">
   </a>
   <div class="gallery-caption">025 – Fruit</div>
   <div class="gallery-actions">
@@ -60,7 +60,7 @@ prev_url: /images/
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-020.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-020-thumb.jpg" alt="-20 - Ironic">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-020.jpg" alt="-20 - Ironic">
   </a>
   <div class="gallery-caption">020 – Ironic</div>
   <div class="gallery-actions">
@@ -77,7 +77,7 @@ prev_url: /images/
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-018.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-018-thumb.jpg" alt="-18 - Peace">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-018.jpg" alt="-18 - Peace">
   </a>
   <div class="gallery-caption">018 – Peace</div>
   <div class="gallery-actions">
@@ -103,7 +103,7 @@ prev_url: /images/
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-019.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-019-thumb.jpg" alt="-19 - Garden">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-019.jpg" alt="-19 - Garden">
   </a>
   <div class="gallery-caption">019 – Garden</div>
   <div class="gallery-actions">
@@ -117,7 +117,7 @@ prev_url: /images/
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-017.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-017-thumb.jpg" alt="-17 - Motion">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-017.jpg" alt="-17 - Motion">
   </a>
   <div class="gallery-caption">017 – Motion</div>
   <div class="gallery-actions">
@@ -131,7 +131,7 @@ prev_url: /images/
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-016.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-016-thumb.jpg" alt="-13 - Shells">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-016.jpg" alt="-13 - Shells">
   </a>
   <div class="gallery-caption">016 – Shells (Watercolor & Ink)</div>
   <div class="gallery-actions">
@@ -147,7 +147,7 @@ prev_url: /images/
 
 
   <a href="/images/ink-drawings/full/2026/2026-Drawings-013.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-013-thumb.jpg" alt="013 – Abstract (Fruit)">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-013.jpg" alt="013 – Abstract (Fruit)">
   </a>
   <div class="gallery-caption">013 – Abstract (Fruit)</div>
   <div class="gallery-actions">
@@ -162,7 +162,7 @@ prev_url: /images/
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-012.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-012-thumb.jpg" alt="012 – Noise">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-012.jpg" alt="012 – Noise">
   </a>
   <div class="gallery-caption">012 – Noise (Avant Garde)</div>
   <div class="gallery-actions">
@@ -175,7 +175,7 @@ prev_url: /images/
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-011.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-011-thumb.jpg" alt="011 – Fortress (of Fortresses)">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-011.jpg" alt="011 – Fortress (of Fortresses)">
   </a>
   <div class="gallery-caption">011 – Fortress (of Fortresses)</div>
   <div class="gallery-actions">
@@ -189,7 +189,7 @@ prev_url: /images/
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-010.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-010-thumb.jpg" alt="010 – Weather">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-010.jpg" alt="010 – Weather">
   </a>
   <div class="gallery-caption">010 – Weather</div>
   <div class="gallery-actions">
@@ -201,7 +201,7 @@ prev_url: /images/
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-001.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-001-thumb.jpg" alt="001 – Resolution">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-001.jpg" alt="001 – Resolution">
   </a>
   <div class="gallery-caption">001 – Resolution</div>
   <div class="gallery-actions">
@@ -213,7 +213,7 @@ prev_url: /images/
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-002.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-002-thumb.jpg" alt="002 – Doll">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-002.jpg" alt="002 – Doll">
   </a>
   <div class="gallery-caption">002 – Doll</div>
   <div class="gallery-actions">
@@ -225,7 +225,7 @@ prev_url: /images/
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-003.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-003-thumb.jpg" alt="003 – Hummer">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-003.jpg" alt="003 – Hummer">
   </a>
   <div class="gallery-caption">003 – Hummer</div>
   <div class="gallery-actions">
@@ -237,7 +237,7 @@ prev_url: /images/
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-004.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-004-thumb.jpg" alt="004 – Hammer">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-004.jpg" alt="004 – Hammer">
   </a>
   <div class="gallery-caption">004 – Hammer</div>
   <div class="gallery-actions">
@@ -249,7 +249,7 @@ prev_url: /images/
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-006.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-006-thumb.jpg" alt="006 – Hobby">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-006.jpg" alt="006 – Hobby">
   </a>
   <div class="gallery-caption">006 – Hobby</div>
   <div class="gallery-actions">
@@ -261,7 +261,7 @@ prev_url: /images/
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-007.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-007-thumb.jpg" alt="007 – Shape">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-007.jpg" alt="007 – Shape">
   </a>
   <div class="gallery-caption">007 – Shape</div>
   <div class="gallery-actions">
@@ -273,7 +273,7 @@ prev_url: /images/
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-008.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-008-thumb.jpg" alt="008 – Up-Down">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-008.jpg" alt="008 – Up-Down">
   </a>
   <div class="gallery-caption">008 – Up-Down</div>
   <div class="gallery-actions">
@@ -285,7 +285,7 @@ prev_url: /images/
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-009.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-009-thumb.jpg" alt="009 – Futuristic">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-009.jpg" alt="009 – Futuristic">
   </a>
   <div class="gallery-caption">009 – Futuristic</div>
   <div class="gallery-actions">
