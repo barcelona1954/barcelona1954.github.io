@@ -41,7 +41,7 @@ Note, if you are interested in prints or additional formats of my original work,
 
 <div class="collection-grid">
   <a class="collection-card" href="/images/gallery/">
-    <img src="/images/ink-drawings/thumbnails/2026/2026-Drawings-001-thumb.jpg"
+    <img src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-001.jpg"
          alt="Art Gallery">
     <div class="collection-card-body">
   <h3>Art Gallery</h3>
