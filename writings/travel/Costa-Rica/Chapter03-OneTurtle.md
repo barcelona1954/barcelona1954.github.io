@@ -39,7 +39,7 @@ We had gone to San Juanillo the previous day and found a smallish, but spectacul
          alt="Fishing boats anchored in San Juanillo Bay, 2019">
   </a>
   <p class="writing-art-caption">
-    From the Tico Times - My Costa Rica Diary collection
+    San Juanillo bay - From the Tico Times - My Costa Rica Diary collection
   </p>
 </div>
 
@@ -76,12 +76,12 @@ In the meantime, we waited, with wind blowing our hair, on the lookout for a mas
        alt="Costa Rica fisherman">
   </a>
   <p class="writing-art-caption">
-    From the Tico Times - My Costa Rica Diary collection
+    Santiago holding his catch - From the Tico Times - My Costa Rica Diary collection
   </p>
 </div>
 
 <p>
-We stopped briefly and snorkeled. And after that, we cruised and waited a bit longer until, finally, it happened. There, Santiago pointed. We saw it. A turtle! Exactly one. Skimming the top of the water. The lonliest number. And in a flash, it was gone. That was it for the day. No whales. No more turtles.
+We stopped briefly and snorkeled. And after that, we cruised and waited a bit longer until, finally, it happened. There, Santiago pointed. We saw it. A turtle! Exactly one. The loneliest number. Skimming the top of the water.  And in a flash, it was gone. That was it for the day. No whales. No more turtles.
 </p>
 
 
