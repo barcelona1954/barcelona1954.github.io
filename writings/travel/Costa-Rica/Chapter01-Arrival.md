@@ -10,7 +10,7 @@ title: Arrival
   <div class="poem-text">
 
     <p>
- It was with more than a little trepidation that we boarded our flight in Los Angeles, heading to Atlanta and then on to Liberia, Costa Rica. I wore a game face, determined not to let any nerves show, and Julie took my lead, but confessed some butterflies about our upcoming adventure. Our flight to Atlanta was uneventful, and we then had a lengthy delay before our evening departure to Costa Rica. Because I like a little extra leg room and a few niceties on longer flights, I’d used some mileage points to upgrade our seats to the Comfort section. However, as it turned out, we were on a flight with fewer than 10 passengers. We picked our seats and got all the attention we needed from the flight attendants. 
+ It was with more than a little trepidation that we boarded our flight in Los Angeles, heading to Atlanta and then on to Liberia, Costa Rica. I wore a game face, determined not to let any nerves show, and Julie took my lead, but confessed some butterflies about our upcoming adventure. Our flight to Atlanta was uneventful, and we then had a short layover before our evening departure to Costa Rica. Because I like a little extra leg room and a few niceties on longer flights, I’d used some mileage points to upgrade our seats to the Comfort section. However, as it turned out, we were on a flight with fewer than 10 passengers. We picked our seats and got all the attention we needed from the flight attendants. 
 
 </p>
 <p>
