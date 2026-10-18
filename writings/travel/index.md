@@ -16,4 +16,5 @@ In 2019, Julie and I volunteered in a pueblo on the Pacific coast of Costa Rica.
 - [Arrival](Costa-Rica/Chapter01-Arrival.md)
 - [Why Am I Here](Costa-Rica/Chapter02-WhyAmIHere.md)
 - [One is the Loneliest Number](Costa-Rica/Chapter03-OneTurtle.md)
+- [Outstanding Duck](Costa-Rica/Chapter04-OutstandingDuck.md)
 
