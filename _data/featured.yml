@@ -16,13 +16,12 @@
   thumb: "/images/audio/video-thumbs/Latinia-thumb-Cover.jpg"
   caption: A cover of the  the song originally  released in 1963 by The Sentinals. <b>Now available on streaming platforms!</b> 
    
-- title: Tico Times
-  type: Writings
-  href: "/writings/travel"
-  thumb: "/images/writing-images/writing-featured.jpg"
-  caption: An ongoing series of stories and reflections from my time in Costa Rica. 
+#- title: Tico Times
+#  type: Writings
+#  href: "/writings/travel"
+#  thumb: "/images/writing-images/writing-featured.jpg"
+#  caption: An ongoing series of stories and reflections from my time in Costa Rica. 
  
-
 #- title: Theme for Champions
 #  type: Music
 #  href: "/audio/#theme-for-champions"
