@@ -13,21 +13,24 @@ Ink drawings in black-and-white and color, an artist sketchbook, and a portfolio
 
   <summary>My Story </summary>
   <p>
-  When I was in 2nd or 3rd grade, I started drawing with a Ticonderoga pencil on lined notebook paper. I specifically remember sitting on the couch in my grandparents living room and looking through library and school books for pictures to draw. I especially liked drawing profiles of the Wright brothers and capturing the likeness of an elephant. 
+  When I was in 2nd or 3rd grade, I started drawing with a Ticonderoga pencil on lined notebook paper. I remember sitting on the couch in my grandparents living room and looking through library and school books for pictures to draw. I especially liked drawing profiles of the Wright brothers and capturing the outline of an elephant. 
+  </p>
+  <p>
+  Between those early days of exploration and high school, there was a long hiatus when I didn't think much about art, except for occasional doodling. Then, sometime in my later teens, I had the epiphany that I liked art—both taking it in and creating it. I went to museums. I joined the Art Club. And with some encouragement from my teachers, I went to college as an art major. During my first year, a couple of professors took notice of my work and suggested I consider attending an art school to really focus on it.
   </p>
 
   <p>
-  Between these early days of exploration and high school there was a long hiatus where I didn't think much about art except for doodling. Then, wandering my way through my later teens, I had the epiphany that I liked art, both taking it in and creating it. I went to museums. I joined the Art Club. And with some encouragement from my teachers, I went to college and started as an art major. During my first year of university, I had professors recognize my work and suggest I consider going to an art school to really focus on art.
+  I liked this idea, but, alas, I was a wanderer. I quit college and traveled in Europe for several months. (I believe today this would be called a "gap" year. In my case, it turned into "gap years.") 
+  </P>
+  <p>
+  Fast forward 30 years. Along the way, I'd transitioned from hippie Euro backpacker to California beach bum to college grad to tech worker and family man. Then, in my 50s, I became an unfortunate casualty of the dot com bubble bursting. Out-of-work for several months with more than a little down-time and ample opportunity to reflect, I decided to spend more time on things that bring me joy and satisfaction. 
   </p>
 
   <p>
-  I liked this idea, but, alas, as a wanderer, I quit college and traveled in Europe for several months. (I believe today this would be called a "gap" year. In my case, it turned into "gap years.") 
-  
-  Then, fast forward 30 years. I have transitioned from hippie Euro backpacker to California beach bum to college grad to tech worker and family man. In my 50s, I find myself an unfortunate casualty of the dot com bubble bursting. Out-of-work for several months with more than a little down-time and ample opportunity to reflect, I decide to spend more time on things that bring me joy and satisfaction. 
+  So, I returned to art. I created cartoons. I took drawing classes. I found internet inspiration and used it for practicing and developing my skills. And, voilà, another 20 more years down the road, here we are. 
   </p>
-
   <p>
-  I return to art. I create cartoons. I take drawing classes. I find internet inspiration for practicing and developing my  skills, and, voilà, 20 more years down the road, here we are. This is my collection over the past number of years. Enjoy.
+  What started with a Ticonderoga pencil and lined notebook paper has become a collection of drawings and cartoons spanning many years. I hope you enjoy looking through them as much as I've enjoyed creating them.
   </p>
 <p>
 Note, if you are interested in prints or additional formats of my original work, 
