@@ -28,6 +28,7 @@ Over our first week or so, we had been eating a lot of beans and rice (let’s c
   </p>
 </div>
 
+
 <p>
 After our barbecue lunch, we shepherded the kids to the pool for a welcome cool-down on the hot, muggy day. Julie and I helped out and played some rousing games of duck-duck-goose with the younger kids. (Note, I dominated and was named outstanding duck for the afternoon.)
 </p>
