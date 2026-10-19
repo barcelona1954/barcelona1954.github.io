@@ -17,6 +17,24 @@ Over our first week or so, we had been eating a lot of beans and rice (let’s c
 </p>
 
 <div class="writing-art">
+  <a href="/images/photos/Miguel-Aurora.jpg"
+     class="lightbox-link"
+     aria-label="Enlarge photo">
+    <img src="/images/photos/Miguel-Aurora.jpg"
+         alt="Miguel and his muñeca">
+  </a>
+  <p class="writing-art-caption">
+    Miguel and his muñeca - From the Tico Times - My Costa Rica Diary collection
+  </p>
+</div>
+
+<p>
+After our barbecue lunch, we shepherded the kids to the pool for a welcome cool-down on the hot, muggy day. Julie and I helped out and played some rousing games of duck-duck-goose with the younger kids. (Note, I dominated and was named outstanding duck for the afternoon.)
+</p>
+<p>
+One thing that stood out to me about the day was the overall behavior of this group of kids. In the house, they had huddled around Claire, and several of the girls helped Tenny clean up after lunch. In the pool, they splashed and played in their little peer groups, and to my eye, they were conspicuously kind and inclusive in their game playing. (I don't always see groups of kids that age getting along quite so well.)  They really didn’t need too much oversight, other than to coax them out of the pool to return home. It was refreshing and encouraging to witness.
+</p>
+<div class="writing-art">
   <a href="/images/photos/BBQ-ClaireKids.jpg"
      class="lightbox-link"
      aria-label="Enlarge photo">
@@ -27,13 +45,6 @@ Over our first week or so, we had been eating a lot of beans and rice (let’s c
     Claire and kids at Tenny's bbq and pool party - From the Tico Times - My Costa Rica Diary collection
   </p>
 </div>
-
-<p>
-After our barbecue lunch, we shepherded the kids to the pool for a welcome cool-down on the hot, muggy day. Julie and I helped out and played some rousing games of duck-duck-goose with the younger kids. (Note, I dominated and was named outstanding duck for the afternoon.)
-</p>
-<p>
-One thing that stood out to me about the day was the overall behavior of this group of kids. In the house, they had huddled around Claire, and several of the girls helped Tenny clean up after lunch. In the pool, they splashed and played in their little peer groups, and to my eye, they were conspicuously kind and inclusive in their game playing. (I don't always see groups of kids that age getting along quite so well.)  They really didn’t need too much oversight, other than to coax them out of the pool to return home. It was refreshing and encouraging to witness.
-</p>
 
   </div>
 
