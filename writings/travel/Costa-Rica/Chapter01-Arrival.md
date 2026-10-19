@@ -5,7 +5,7 @@ title: Arrival
 
 <div class="poem-card">
 
-  <h2>March 26 &ndash; 27, 2019 - Arrival</h2>
+  <h2>March 26 &ndash; 27, 2019 &mdash; Arrival</h2>
 
   <div class="poem-text">
 

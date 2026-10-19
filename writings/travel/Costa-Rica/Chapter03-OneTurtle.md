@@ -5,7 +5,7 @@ title: One is the Loneliest Number
 
 <div class="poem-card">
 
-  <h2>April 4 2019 - One is the Loneliest Number</h2>
+  <h2>April 4 2019 &mdash; One is the Loneliest Number</h2>
 
   <div class="poem-text">
   <p>
