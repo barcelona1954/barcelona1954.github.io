@@ -17,7 +17,7 @@ Diaries, poems, short reflections, and other written work.
 <details class="pv-reveal">
   <summary>My Story</summary>
   <p>
-  When I was an undergraduate in college, I took a writing class at UC Berkeley from James (Jim) Gray, the driving force behind the influential the Bay Area Writing Project. The class was an eye opener for me and liberating. It focused on expression, creativity, flow, and certain language structures rather than formal grammar and argument. 
+  When I was an undergraduate in college, I took a writing class at UC Berkeley from James (Jim) Gray, the driving force behind the influential Bay Area Writing Project. The class was an eye opener for me and liberating. It focused on expression, creativity, flow, and certain language structures rather than formal grammar and argument. 
   </p>
   <p>
   One day in class, we had a short writing exercise. We were given 10-15 minutes to compose an introductory paragraph in response to a topic written on the chalkboard. 
