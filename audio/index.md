@@ -49,7 +49,7 @@ Then one day, Brian proposed an experiment. He invited a mutual friend, Chuck, w
 I was skeptical, but game.
 </p>
 <p>
-We picked <i>Surf Nouveau</i>, originally recorded by a group called the Aqua Velvets. Thanks to Chuck's amazing musical ear and Brian's sense of rhythm, we worked out the chords and melody, found a suitable beat on the drum machine, and rehearsed it a dozen times or so. Slowly at first, then at something approaching the original tempo. When the ladies returned from their night out, we played it for them.
+We picked <a href="/audio/ShakeRattleStrain/02%20SurfNouveau.mp3" target="_blank" rel="noopener noreferrer"><i>Surf Nouveau</i></a>, originally recorded by a group called the Aqua Velvets. Thanks to Chuck's amazing musical ear and Brian's sense of rhythm, we worked out the chords and melody, found a suitable beat on the drum machine, and rehearsed it a dozen times or so. Slowly at first, then at something approaching the original tempo. When the ladies returned from their night out, we played it for them.
 </p>
 <p>
  Not bad. 
