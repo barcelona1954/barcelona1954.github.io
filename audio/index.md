@@ -67,7 +67,7 @@ We picked <i>Surf Nouveau</i>, originally recorded by a group called the Aqua Ve
  The ladies were dancing. 
  </p>
  <p>
- Not exactly Ed Sullivan, but was feeling some of those vibes.
+ Not exactly Ed Sullivan, but I was feeling some of those vibes.
  </p>
  <p>
  And that's how the Corpse Revivers (Brian, Chuck, a drum machine, and me) were born. 
