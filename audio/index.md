@@ -42,7 +42,7 @@ Now, because I thought bands were supposed to practice in the garage, I'd pulled
 <p>
 So, for the next several years, we got together every few weeks, trading off between our houses—indoors! We never performed or tried playing outside our living rooms, but for fun, we called ourselves Al Palomino and the Pintos. Over time, we built up a playlist of maybe 15 songs that we could muddle through over cocktails and Friday night happy hours.
 </p>
-</p>
+<p>
 Then one day, Brian proposed an experiment. He invited a mutual friend, Chuck, who'd been playing in bands since he was knee-high to a harpsichord, to join us. The challenge: While our wives went out for dinner and drinks, we'd learn a song and play it for them when they returned.
 </p>
 <p>
@@ -67,7 +67,7 @@ We picked <i>Surf Nouveau</i>, originally recorded by a group called the Aqua Ve
  The ladies were dancing. 
  </p>
  <p>
- Okay....I'm starting to feel those Ed Sullivan vibes.
+ Not exactly Ed Sullivan, but was feeling some of those vibes.
  </p>
  <p>
  And that's how the Corpse Revivers (Brian, Chuck, a drum machine, and me) were born. 
