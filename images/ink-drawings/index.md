@@ -15,16 +15,20 @@ Sketchbooks, ink drawings, studies, and visual experiments from the Pretzelvisio
 <details class="pv-reveal">
   <summary>My Story</summary>
 <p>
-Several years ago, my daughter, Li-Mae, told me about an internet led art program called Inktober. The idea of the program was that each day in the month of October, a prompt was given, and then people drew something that that prompt meant to them. The guy who started it was looking for a way to improve his own drawing skills and develop regular drawing habits. (This program grew to include thousands of artists from all over the world.)  Also, part of the goal was that the art had to be shared...on the internet, on the kitchen fridge, a bathroom stall...anywhere someone else could see it. 
+Several years ago, my daughter, Li-Mae, told me about an internet-based art challenge called Inktober. The idea was to draw something every day for the month of October based on a daily one-word prompt. And then share the work &mdash on the internet, on the kitchen fridge, in a bathroom stall...anywhere someone else could see it. 
 </p>
 <p>    
-My daughter, who frequently inspires me to action, thought this program would be something that would interest me. (She was already participating, literally drawing something on a sticky note to each prompt.) So, in 2019, I started participating, too. I liked the idea of having a driving goal to practice and develop my own drawing skills. Somewhere along the way, I told other artists and artsy people in my circle of friends, and before long, I had my own little coterie of drawers. We decided to start our own drawing group and shared our work each week on What's App. Instead of drawing everyday in October, we drew something once a week throughout the year. 
-</p>
-<p>  
-Now, after 6 years of doing this, I have quite a collection of drawings. Some are drawings on napkins. Some are exercises in shading, speed drawing, off-handed drawing, perspective, representative drawing, etc. Many (especially the earlier ones) are based on a photo or image found somewhere on the internet. I'm not trying to sell or make money on these, but I've included them here for your entertainment.  
+Li-Mae, who frequently inspires me to action, thought this program would be something I might like. (She was already participating, literally drawing something on sticky notes.) So, in 2019, I joined in. I liked the idea of having a goal to practice and develop my own skills.
 </p>
 <p>
-As you will see if you look at the early sketchbooks, I started drawing almost exclusively with black ink. Later, I introduced color, and occasionally some other media like pastels or colored pencil. As you mosey through the sketchbooks (or the Art Gallery from bottom to top), I think you'll see some development. Take a look and see what you think. </p>
+ Somewhere along the way, I told other artists and artsy people in my circle of friends, and before long, I had my own little coterie of drawers. We decided to start our own drawing group and shared our work each week on WhatsApp. Instead of drawing every day in October, we drew something once a week throughout the year. 
+</p>
+<p> 
+Since then, I have gathered quite a collection of drawings. Some are on napkins or colored paper. Others are are small or large-format drawings. Some are exercises in shading, speed drawing, perspective, etc. I started drawing exclusively with black ink, but later introduced color, and other media like pastels or pencil. The earlier works are often modeled on an internet image. (These were never intended as commercial works, but I've included them here for your entertainment.)   
+</p>
+<p>
+As you mosey through the sketchbooks or the Art Gallery, I think you'll see some development. Take a look and see what you think. 
+</p>
 <p>
 Note, if you are interested in prints or additional formats of my original work, 
   <br>
