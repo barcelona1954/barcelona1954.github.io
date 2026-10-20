@@ -16,7 +16,7 @@ Casa Tica, the modest guesthouse we are renting, is a great little setup for our
 The day we arrived and unpacked, we realized we’d have a little bug problem. There were fairly large creeping and flying ants in the cupboard, on the bathroom floor, and generally roaming around the house. However, the situation got a little more icky when Julie flushed the toilet only to see ants wash down the bowl from the inner rim. (I knew something was amiss by the yelp from Julie watching hundreds of ants flow into the Costa Rican sewage system.)
 </p>
 <p>
-The next day, we let the casa caretaker know about the issue,, but we took the liberty to buy some insecticide and try to bring the problem under control as soon as possible. Besides spot-spraying bug killer inside the house, I reckoned that if I sprayed the doors, window frames, and the baseboards from the porch-side, I would deter ants from entering. After dinner, I took my spray can to the porch and went to work….the baseboards, a window frame, one door, and then the next.
+The next day, we let the casa caretaker know about the issue, but we took the liberty to buy some insecticide and try to bring the problem under control as soon as possible. Besides spot-spraying bug killer inside the house, I reckoned that if I sprayed the doors, window frames, and the baseboards from the porch-side, I would deter ants from entering. After dinner, I took my spray can to the porch and went to work….the baseboards, a window frame, one door, and then the next.
 </p>
 <p>
 I walked back into the house. Ooooops. Oh. My. God. Dios mío. WTF! 
@@ -24,7 +24,7 @@ I walked back into the house. Ooooops. Oh. My. God. Dios mío. WTF!
 <p>
 Termites, centipedes, soldier ants (I swear they were packing weapons), and all sorts of bugs were scampering into the house, although scampering suggests they were entering with a little spring in their step. In reality, if bugs could gasp for air, that’s what these guys were doing. Wobbling, weaving, some running over others in a massive stampede of insects into the house. Too many to count. An infestation. A plague. A lot of bugs.
 </p>
-<p>.
+<p>
 Adrenaline rushing through my body, I grabbed the can of insecticide, and I sprayed everything in sight. I sprayed like a madman. A maniac. An insect-icidal maniac. And I left piles of writhing insects, some still wriggling in pools of insecticide.
 </p>
 <p>
