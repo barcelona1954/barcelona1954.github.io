@@ -30,7 +30,21 @@ Single-panel cartoons, visual jokes, and odd little observations from the Pretze
 <details class="pv-reveal">
   <summary>My Story</summary>
 
-During the dot.com bust of the early 2000s, I was let go from my job in technology and out of work for about 18 months. During that time, I collected unemployment and poked around looking for someone to hire me (with little success). While I had this time on my hands, I decided to take up "cartooning." I had no experience, so I read books on drawing cartoons and on the process to submit them for publication, and I interviewed local cartoonists to get their advice.  I started submitting for publication, and as is my want, I aimed or the top cartoon publishers like The Saturday Evening Post and The New Yorker. I got lots of rejections and an occasional positive input to "keep at it," but the only time I ever published a cartoon was in a local weekly paper that was actually interested in my "out-of-work" hobby. Anyway, here they are. I hadn't looked at these for several years, and on review, I thought some held up okay, some were dated, and some, I thought, well, what was I thinking?  Go ahead and browse them here. They are organized alphabetically just to break them up into logical groups.
+During the dot-com bust of the early 2000s, I was laid off from my job in technology and out of work for about 18 months. During that time, I collected unemployment and poked around looking for someone to hire me, but times were tough. 
+</p>
+<p>
+I decided, however, to treat this as an opportunity to do something creative and fulfilling. With absolutely no prior experience, I took up "cartooning." I read books on drawing cartoons and on the process to submit them for publication, and I interviewed local cartoonists to get their advice. I developed a daily workflow, built a little portfolio, and pretty soon I started submitting for publication.
+</p>
+<p>
+As is my wont, I aimed for top cartoon publishers like <i>The Saturday Evening Post</i> and <i>The New Yorker</i>. I got lots of rejections and occasional encouragement. However, the only time I had a cartoon published was in a local weekly paper that was actually interested in my "out-of-work" hobby. 
+</p>
+<p>
+In retrospect, I realize that my "cartooning period" rekindled my interest in drawing and art. While I did not have a successful career as a pubished cartoonist, I did find my way back to creative projects that I enjoy. 
+</p>
+<p>
+Anyway, here are my cartoons for your perusal. I hadn't looked at these for several years. On review, I thought some held up okay, some were dated, and some...well, what was I thinking?
+</p>
+
 </details>
 
 

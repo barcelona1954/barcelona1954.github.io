@@ -27,7 +27,7 @@ Ink drawings in black-and-white and color, an artist sketchbook, and a portfolio
   </p>
 
   <p>
-  So, I returned to art. I created cartoons. I took drawing classes. I found internet inspiration and used it for practicing and developing my skills. And, voilà, another 20 more years down the road, here we are. 
+  I started by creating cartoons, which eventually led me back to art more generally. Then I took drawing classes. I found internet inspiration and used it for practicing and developing my skills. And, voilà, 20 more years down the road, here we are. 
   </p>
   <p>
   What started with a Ticonderoga pencil and lined notebook paper has become a collection of drawings and cartoons spanning many years. I hope you enjoy looking through them as much as I've enjoyed creating them.
