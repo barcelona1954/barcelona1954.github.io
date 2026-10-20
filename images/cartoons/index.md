@@ -30,6 +30,7 @@ Single-panel cartoons, visual jokes, and odd little observations from the Pretze
 <details class="pv-reveal">
   <summary>My Story</summary>
 
+<p>
 During the dot-com bust of the early 2000s, I was laid off from my job in technology and out of work for about 18 months. During that time, I collected unemployment and poked around looking for someone to hire me, but times were tough. 
 </p>
 <p>
