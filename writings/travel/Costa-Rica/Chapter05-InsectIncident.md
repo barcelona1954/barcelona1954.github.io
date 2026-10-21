@@ -39,8 +39,7 @@ We sat down. Sighed. Opened a beer. Maybe two. Julie took a moment to gloat abou
 
   </div>
 
-<!--
-Placeholder for photo....
+
 
 </div>
 <div class="writing-art">
@@ -52,7 +51,18 @@ Placeholder for photo....
   </p>
 </div>
 
--->
+
+<div class="writing-art">
+  <a href="/images/photos/Bug-Montage.jpg"
+     class="lightbox-link"
+     aria-label="Enlarge photograph">
+       <img src="/images/photos/Bug-Montage.jpg"
+       alt="A few of the perpetrators and some of the casualties">
+</a>
+  <p class="writing-art-caption">
+    The Great Costa Rican Insect Incident: A few of the perpetrators and some of the casualties. - From the Tico Times - My Costa Rica Diary collection
+  </p>
+</div>
 
 <!--
 <div class="writing-art">
