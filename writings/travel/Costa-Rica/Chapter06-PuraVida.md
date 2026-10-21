@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Arrival
+title: Pura Vida
 ---
 
 <div class="poem-card">
