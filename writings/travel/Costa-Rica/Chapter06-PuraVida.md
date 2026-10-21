@@ -36,6 +36,7 @@ And for this experience, we say, Pura Vida!
 </p>
 
   </div>
+  </div>
 
 
 <div class="writing-art">
