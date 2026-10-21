@@ -48,6 +48,8 @@ And for this experience, we say, Pura Vida!
     Papaya and mango from William - From the Tico Times - My Costa Rica Diary collection
   </p>
 </div>
+</div>
+</div>
 
 
 {% include chapter-nav.html %}
