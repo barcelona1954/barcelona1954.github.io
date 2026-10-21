@@ -10,12 +10,15 @@ title: Arrival
   <div class="poem-text">
 
  <p>
-The term Pura Vida (literally, pure life) is a common greeting and national slogan of Costa Rica. I don’t know if I use it exactly right, but my impression is that it works anytime you want to indicate that “life is good.” Something like:  
+The term Pura Vida (literally, pure life) is a common greeting and national slogan of Costa Rica. I don’t know if I use it exactly right, but my impression is that it works anytime you want to indicate that “life is good.” Something like: 
+</p> 
 <p>
-
 “That was a rad wave dude. Pura Vida!”
+<br>
 “Those rice and frijoles are delicious. Pura Vida.”
+<br>
 “Have they really increased the recommended serving size of Pepperidge Farm Mint Milano cookies!?! Pura Vida!”
+</p>
 <p>
 (Thinking more about it, I’m not sure about the rice and frijoles. While it is the most common food here, it gets old for breakfast, lunch, and dinner. Maybe not so Pura Vida.)
 </p>
