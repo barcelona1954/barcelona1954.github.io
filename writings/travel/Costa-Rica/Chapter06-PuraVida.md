@@ -49,6 +49,5 @@ And for this experience, we say, Pura Vida!
   </p>
 </div>
 
-</div>
 
 {% include chapter-nav.html %}
