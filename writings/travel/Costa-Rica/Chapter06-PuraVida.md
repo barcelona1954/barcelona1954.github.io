@@ -35,8 +35,6 @@ In the end, Luis gave us contact info for a nearby poultry farmer who owns and r
 And for this experience, we say, Pura Vida!
 </p>
 
-  </div>
-  </div>
 
 
 <div class="writing-art">
@@ -49,6 +47,8 @@ And for this experience, we say, Pura Vida!
   <p class="writing-art-caption">
     Papaya and mango from William - From the Tico Times - My Costa Rica Diary collection
   </p>
+</div>
+
 </div>
 
 {% include chapter-nav.html %}
