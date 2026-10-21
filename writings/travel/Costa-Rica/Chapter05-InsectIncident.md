@@ -22,7 +22,7 @@ The next day, we let the casa caretaker know about the issue, but we took the li
 I walked back into the house. Ooooops. Oh. My. God. Dios mío. WTF! 
 </p>
 <p>
-Termites, centipedes, soldier ants (I swear they were packing weapons), and all sorts of bugs were scampering into the house, although scampering suggests they were entering with a little spring in their step. In reality, if bugs could gasp for air, that’s what these guys were doing. Wobbling, weaving, some running over others in a massive stampede of insects into the house. Too many to count. An infestation. A plague. A lot of bugs.
+Termites, centipedes, soldier ants (I swear they were packing heavy artillery), and all sorts of bugs were scampering into the house, although scampering suggests they were entering with a little spring in their step. In reality, if bugs could gasp for air, that’s what these guys were doing. Wobbling, weaving, some running over others in a massive stampede of insects into the house. Too many to count. An infestation. A plague. A lot of bugs.
 </p>
 <p>
 Adrenaline rushing through my body, I grabbed the can of insecticide, and I sprayed everything in sight. I sprayed like a madman. A maniac. An insect-icidal maniac. And I left piles of writhing insects, some still wriggling in pools of insecticide.
