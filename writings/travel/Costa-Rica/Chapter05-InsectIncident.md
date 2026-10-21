@@ -10,7 +10,7 @@ title: The Great Costa Rica Insect Incident
   <div class="poem-text">
 
   <p>
-Casa Tica, the modest guesthouse we are renting, is a great little setup for our needs. It’s a one-room house, with all the basics, including both air conditioning and hot water in the shower, both luxury features compared to many houses in Venado. However, one thing we definitely share with the common Costa Rican is that we have bugs. And lots of them.
+Casa Tica, the modest guesthouse we are renting, is a great little setup for our needs. It’s a one-room house, with all the basics, including air conditioning and hot water in the shower, both luxury features compared to many houses in Venado. However, one thing we definitely share with the common Costa Rican is that we have bugs. And lots of them.
 </p>
 <p>
 The day we arrived and unpacked, we realized we’d have a little bug problem. There were fairly large creeping and flying ants in the cupboard, on the bathroom floor, and generally roaming around the house. However, the situation got a little more icky when Julie flushed the toilet only to see ants wash down the bowl from the inner rim. (I knew something was amiss by the yelp from Julie watching hundreds of ants flow into the Costa Rican sewage system.)
