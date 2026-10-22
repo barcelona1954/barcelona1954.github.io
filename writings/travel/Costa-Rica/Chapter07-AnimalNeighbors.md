@@ -5,7 +5,7 @@ title: Our Animal Neighbors
 
 <div class="poem-card">
 
-   <h2>April 10 2019 &mdash; Our Animal Neighbors</h2>
+   <h2>April 10, 2019 &mdash; Our Animal Neighbors</h2>
 
   <div class="poem-text">
 <p>
