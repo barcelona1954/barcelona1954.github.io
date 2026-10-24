@@ -12,7 +12,9 @@ This gallery features a selection of my drawings, beginning with my first effort
 Most of the drawings are my original compositions, although I've also included a handful based on existing photographs. I like the way some of those turned out, and wanted to share them, too.
 </p>
 <p>
-If you're interested in prints or other formats (perhaps a shower curtain or throw pillow?), you can [browse my collections on Fine Art America](https://fineartamerica.com/profiles/alan-mcclellan). Some individual drawings also link directly to their available print options.
+If you're interested in prints or other formats (perhaps a shower curtain or throw pillow?), you can 
+<a href="https://fineartamerica.com/profiles/alan-mcclellan">browse my collections on Fine Art America</a>.
+Some individual drawings in my gallery also link directly to their available print options.
 </p>
 
 ## 2026 - New Work
