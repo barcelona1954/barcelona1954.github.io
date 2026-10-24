@@ -70,19 +70,6 @@ Some individual drawings in my gallery also link directly to their available pri
   </div>
 </div>
 
-<div class="gallery-item">
-  <a href="/images/ink-drawings/full/2026/2026-Drawings-032.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-032.jpg" alt="32 - Insect">
-  </a>
-  <div class="gallery-caption">032 – Insect</div>
-  <div class="gallery-actions">
-    <a href="/images/ink-drawings/full/2026/2026-Drawings-032.jpg">View full</a>
-    <span class="gallery-sep">·</span>
-    <a href="https://fineartamerica.com/featured/close-up-of-a-rhinoceros-beetle-alan-mcclellan.html?newartwork=true" 
-   target="_blank" rel="noopener">Prints</a>
-  </div>
-</div>
-
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-025.jpg">
