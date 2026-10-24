@@ -21,6 +21,60 @@ Some individual drawings in my gallery also link directly to their available pri
 <section class="gallery-grid">
 
 <div class="gallery-item">
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-033.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-033.jpg" alt="33 - Ink">
+  </a>
+  <div class="gallery-caption">033 – Ink</div>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-033.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/intricate-tattoo-application-alan-mcclellan.html" 
+   target="_blank" rel="noopener">Prints</a>
+  </div>
+</div>
+
+
+<div class="gallery-item">
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-036.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-036.jpg" alt="36 - Gourmet (Macaroni)">
+  </a>
+  <div class="gallery-caption">036 – Gourmet (Macaroni)</div>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-036.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/close-.html?newartwork=true" 
+   target="_blank" rel="noopener">Prints</a>
+  </div>
+</div>
+
+
+<div class="gallery-item">
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-029.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-025.jpg" alt="29 - Decade">
+  </a>
+  <div class="gallery-caption">029 – Decade</div>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-029.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/diverse-raised-fists-alan-mcclellan.html" 
+   target="_blank" rel="noopener">Prints</a>
+  </div>
+</div>
+
+<div class="gallery-item">
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-032.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-032.jpg" alt="32 - Insect">
+  </a>
+  <div class="gallery-caption">032 – Insect</div>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-032.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/close-up-of-a-rhinoceros-beetle-alan-mcclellan.html?newartwork=true" 
+   target="_blank" rel="noopener">Prints</a>
+  </div>
+</div>
+
+<div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-032.jpg">
     <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-032.jpg" alt="32 - Insect">
   </a>
@@ -46,6 +100,7 @@ Some individual drawings in my gallery also link directly to their available pri
    target="_blank" rel="noopener">Prints</a>
   </div>
 </div>
+
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-020.jpg">
