@@ -44,14 +44,26 @@ Diaries, poems, short reflections, and other written work.
 
 <h2> Collections </h2>
 
-- **[Travel](travel/)** – Tico Times Diaries are in progress. Come take a look!
+<ul>
+  <li id="travel">
+    <strong><a href="travel/">Travel</a></strong>
+    – Tico Times Diaries are in progress. I'll release a few new stories each week. 
+  </li>
 
-- **Poems** – coming soon.
+<!--
+  <li id="poems">
+    <strong>Poems</strong> – coming soon.
+  </li>
+  
+  <li>
+    <a href="poems/">Poems</a>
+    – short lyrical and reflective pieces from Godric Saint.
+  </li>
+  
 
-<!-- 
+  <li id="reflections">
+    <strong>Reflections</strong> – coming soon.
+  </li>
+  -->
 
-- [Poems](poems/) – short lyrical and reflective pieces from Godric Saint.
-
--->
-
-- **Reflections** – coming soon.
+</ul>
