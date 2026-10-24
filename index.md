@@ -27,8 +27,7 @@ title: Pretzelvision
   <div class="home-card disabled">
     <h2>Writing Collections</h2>
     <p>Notes, sketches, and short writing.</p>
-    <div class="coming-soon">Coming soon-ish</div>
-  </div>
+    <a class="primary-button" href="/writings/">Go to Writings</a>  </div>
 </div>
 
 <section class="home-section">
