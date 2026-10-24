@@ -41,16 +41,12 @@ Some individual drawings in my gallery also link directly to their available pri
   <div class="gallery-caption">036 – Gourmet (Macaroni)</div>
   <div class="gallery-actions">
     <a href="/images/ink-drawings/full/2026/2026-Drawings-036.jpg">View full</a>
-    <span class="gallery-sep">·</span>
-    <a href="https://fineartamerica.com/featured/close-.html?newartwork=true" 
-   target="_blank" rel="noopener">Prints</a>
   </div>
 </div>
 
-
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-029.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-025.jpg" alt="29 - Decade">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-029.jpg" alt="29 - Decade">
   </a>
   <div class="gallery-caption">029 – Decade</div>
   <div class="gallery-actions">
