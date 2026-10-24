@@ -5,28 +5,15 @@ prev_label: Art
 prev_url: /images/
 ---
 
-<details class="pv-reveal">
-  <summary>My Story</summary>
-
-  <p>
-  My gallery highlights a chronological view of selected drawings and visual work from Pretzelvision. New work is highlighted at the top, and then you can see work from previous years, going back to the beginning of this artistic endeavor in 2019 (works near the bottom).
-  </p>
-
-  <p>
-  If you are looking for prints or additional formats (maybe a shower curtain or throw pillow?),
-  <br>
-  → <a href="https://fineartamerica.com/profiles/alan-mcclellan" target="_blank" rel="noopener">
-  browse the Alan McClellan Art Collections on Fine Art America
-  </a>
-  <br>
-  You'll also see individual art below that has a direct link to the "print" options on my Fine Art America site.
-  </p>
-
-  <p>
-  I believe any drawing that links to Fine Art America is original work. I've also included a handful of drawings in the gallery that are based on existing photographs. While I'm not trying to sell them, I do like the way some of them turned out and I want to share those as well.
-  </p>
-
-</details>
+<p>
+This gallery features a selection of my drawings, beginning with my first efforts in 2019 and continuing through my most recent work at the top of the page.
+</p>
+<p>
+Most of the drawings are my original compositions, although I've also included a handful based on existing photographs. I like the way some of those turned out, and wanted to share them, too.
+</p>
+<p>
+If you're interested in prints or other formats (perhaps a shower curtain or throw pillow?), you can [browse my collections on Fine Art America](https://fineartamerica.com/profiles/alan-mcclellan). Some individual drawings also link directly to their available print options.
+</p>
 
 ## 2026 - New Work
 <section class="gallery-grid">
