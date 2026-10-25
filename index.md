@@ -24,7 +24,7 @@ title: Pretzelvision
     <a class="primary-button" href="/audio/">Go to Music</a>
   </div>
 
-  <div class="home-card disabled">
+  <div class="home-card live">
     <h2>Writing Collections</h2>
     <p>Notes, sketches, and short writing.</p>
     <a class="primary-button" href="/writings/">Go to Writings</a>  </div>
