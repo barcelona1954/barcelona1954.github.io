@@ -1,6 +1,8 @@
 ---
 layout: default
 title: My Art
+prev_label: Home
+prev_url: /
 ---
 
 Ink drawings in black-and-white and color, an artist sketchbook, and a portfolio of single panel cartoons. 
