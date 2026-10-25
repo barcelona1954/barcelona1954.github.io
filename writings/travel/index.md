@@ -15,18 +15,9 @@ In 2019, Julie and I volunteered in a pueblo on the Pacific coast of Costa Rica.
 
 <ul>
 {% for chapter in site.data.costa-rica-chapters %}
-  <li><a href="{{ chapter.url }}">{{ chapter.title }}</a></li>
+  {% if chapter.published %}
+    <li><a href="{{ chapter.url }}">{{ chapter.title }}</a></li>
+  {% endif %}
 {% endfor %}
 </ul>
-
-<!-- 
-OLD TOC
-
-<h2>Tico Times - My Time in Costa Rica</h2>
-- [Preface](Costa-Rica/Chapter00-Preface.md)
-- [Arrival](Costa-Rica/Chapter01-Arrival.md)
-- [Why Am I Here](Costa-Rica/Chapter02-WhyAmIHere.md)
-- [One is the Loneliest Number](Costa-Rica/Chapter03-OneTurtle.md)
-- [Outstanding Duck](Costa-Rica/Chapter04-OutstandingDuck.md)
---> 
 
