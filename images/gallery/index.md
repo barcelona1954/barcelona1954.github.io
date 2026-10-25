@@ -13,7 +13,8 @@ Most of the drawings are my original compositions, although I've also included a
 </p>
 <p>
 If you're interested in prints or other formats (perhaps a shower curtain or throw pillow?), you can 
-<a href="https://fineartamerica.com/profiles/alan-mcclellan">browse my collections on Fine Art America</a>.
+<a href="https://fineartamerica.com/profiles/alan-mcclellan"
+   target="_blank" rel="noopener noreferrer">browse my collections on Fine Art America</a>
 Some individual drawings in my gallery also link directly to their available print options.
 </p>
 
