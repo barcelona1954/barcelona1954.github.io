@@ -24,7 +24,7 @@ Over our first week or so, we had been eating a lot of beans and rice (let’s c
          alt="Miguel and his muñeca">
   </a>
   <p class="writing-art-caption">
-    Miguel and his muñeca - From the Tico Times - My Costa Rica Diary collection
+    Miguel and his muñeca. 
   </p>
 </div>
 
@@ -43,8 +43,8 @@ One thing that stood out to me about the day was the overall behavior of this gr
          alt="Claire and kids at BBQ and pool party">
   </a>
   <p class="writing-art-caption">
-    Claire and kids at Tenny's bbq and pool party - From the Tico Times - My Costa Rica Diary collection
-  </p>
+    Claire and kids at Tenny's bbq and pool party. 
+      </p>
 </div>
 
   </div>
@@ -58,7 +58,7 @@ Placeholder for photo....
        alt="Costa Rica Pacific Sunset with Friends">
 
   <p class="writing-art-caption">
-    From the Tico Times - My Costa Rica Diary collection
+    View of beach. 
   </p>
 </div>
 

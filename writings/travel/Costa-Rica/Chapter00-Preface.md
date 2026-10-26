@@ -32,7 +32,9 @@ Suddenly, our frequent dinner-talks about retirement and living in another count
        alt="Hanging bridge in Costa Rica cloud forest">
 </a>
   <p class="writing-art-caption">
-    From the Tico Times - My Costa Rica Diary collection
+    Hanging bridge leading into jungle. 
+    <br>
+    (<i>Unless otherwise noted, photographs throughout this journal are by Julie McClellan.</i>)
   </p>
 </div>
 

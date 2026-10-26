@@ -44,7 +44,7 @@ Placeholder for photo....
        alt="Costa Rica Pacific Sunset with Friends">
 
   <p class="writing-art-caption">
-    From the Tico Times - My Costa Rica Diary collection
+    View of beach at sunset. 
   </p>
 </div>
 

@@ -34,7 +34,7 @@ We awoke the next morning ready to embark on the adventure in earnest. Boots on 
        alt="Grounds of Hotel Javy">
 </a>
   <p class="writing-art-caption">
-    View of Hotel Javy courtyard - From the Tico Times - My Costa Rica Diary collection
+    View of Hotel Javy courtyard. 
   </p>
 </div>
 
@@ -44,10 +44,10 @@ With a hearty base in our tummies, we gathered up our luggage, two fully packed 
 
     </p>
     <p>
-After reading a lot of horror stories about people who suffered administrative nightmares with their rental cars, I had reserved one with Sixt, a German company with a solid reputation for no-shenanigans rentals, even if they might cost a little more. We didn’t really know what our car driving needs were going to be in our destination community of Venado, but we rented a car for a month to have one on hand while we scoped out the lay of the land, both physically and metaphorically. After checking with the agent for a critical piece of information – how fast we could drive without getting in trouble with local police (he said 55 kph) – we hit the road, leaving Liberia behind and heading towards the remote Pacific jungle village of Venado. 
+After reading a lot of horror stories about people who suffered administrative nightmares with their rental cars, I had reserved one with Sixt, a German company with a solid reputation for no-shenanigans rentals, even if they might cost a little more. We didn’t really know what our car driving needs were going to be in our destination community of Venado, but we rented a car for a month to have one on hand while we scoped out the lay of the land, both physically and metaphorically. After checking with the agent for a critical piece of information – how fast we could drive without getting in trouble with local police (he said 55 kph) – we hit the road, leaving Liberia behind and heading towards the remote Pacific coast village of Venado. 
     </p>
      <p>
-Our drive was a couple hours duration, mostly on decent two-lane highways and through a handful of villages with speedbumps and roadside open-air restaurants called sodas. Finally, we pulled off the highway and onto a dirt/rock road that would take us the last 20 to 30 minutes to Venado. (According to the signage,this road might also be considered a highway. Certainly a major route along this part of the coast. But the road itself reminded me of the dusty hard-pack scrabble road in front of my Grandpa’s country house in rural Indiana.) The car jolted and rattled over the rough road, and Julie and I looked at each other with a silent realization that we were leaving behind the paved roads, the hotels and taxis and rental car agencies, and we were no-going-back in route to a small rural pueblo in the jungle. Our trip was getting real.  We saw underfed, scrawny cattle and an occasional buzzard overhead. We crossed several one-lane dirt bridges that looked like they were ready to crumble under the weight of the next car. The forest thickened into a jungle around us. Finally, and excitedly, we saw signs for Venado and another sign for Clara Vista, the non-profit organization we would be volunteering for. We entered the main plaza via a rutted dirt drive that led to a few humble buildings – a soda, a pulperia (kind of a 3rd-world 7-11), and two side-by-side green buildings that belonged to Clara Vista. On first appearance, I was thinking….not exactly quaint. Not exactly the “village” I had imagined in my head. But here we were. 
+Our drive was a couple hours duration, mostly on decent two-lane highways and through a handful of villages with speedbumps and roadside open-air restaurants called sodas. Finally, we pulled off the highway and onto a dirt/rock road that would take us the last 20 to 30 minutes to Venado. (According to the signage,this road might also be considered a highway. Certainly a major route along this part of the coast. But the road itself reminded me of the dusty hard-pack scrabble road in front of my Grandpa’s country house in rural Indiana.) The car jolted and rattled over the rough road, and Julie and I looked at each other with a silent realization that we were leaving behind the paved roads, the hotels and taxis and rental car agencies, and we were "no-going-back" in route to a small rural pueblo in the jungle. Our trip was getting real.  We saw underfed, scrawny cattle and an occasional buzzard overhead. We crossed several one-lane dirt bridges that looked like they were ready to crumble under the weight of the next car. The forest thickened around us. Finally, and excitedly, we saw signs for Venado and another sign for Clara Vista, the non-profit organization we would be volunteering for. We entered the main plaza via a rutted dirt drive that led to a few humble buildings – a soda, a pulperia (kind of a 3rd-world 7-11), and two side-by-side green buildings that belonged to Clara Vista. On first appearance, I was thinking….not exactly quaint. Not exactly the “village” I had imagined in my head. But here we were. 
  </p>
 
  <div class="writing-art">
@@ -58,12 +58,11 @@ Our drive was a couple hours duration, mostly on decent two-lane highways and th
        alt="Venado Plaza">
 </a>
   <p class="writing-art-caption">
-    Entrance to Vendaso main plaza from the road -
-    From the Tico Times - My Costa Rica Diary collection
+    Entrance to Venado main plaza from the road. -
   </p>
 </div>
      <p>
-We parked and walked to the Clara Vista buildings. There, we found our liaison and one-person welcoming committee, Claire Malfante, a young French woman who was only a few weeks into her own stint with Clara Vista. She welcomed us with Euro kisses and offered us lunch at the soda. We ate, chatted, and met a few people working the restaurant and the pulperia next door. Finally, Claire showed us back up the road to our home for the next several months, a small one-room house set back into the jungle that everyone referred to as Casa TIca. 
+We parked and walked to the Clara Vista buildings. There, we found our liaison and one-person welcoming committee, Claire Malfante, a young French woman who was only a few weeks into her own stint with Clara Vista. She welcomed us with Euro kisses and offered us lunch at the soda. We ate, chatted, and met a few people working the restaurant and the pulperia next door. Finally, Claire showed us back up the road to our home for the next several months, a small one-room house set back off the road that everyone referred to as Casa TIca. 
     </p>
      <p>
 At Casa Tica, we unloaded our luggage and snooped around, but there’s only so much snooping to do in a one room cottage. The little kitchenette had a microwave (shelved at an appropriate height for Kareem Abdul Jabbar to peer eye level into the front panel), fridge, a double hot-plate, small sink and countertop. The remaining living area was split between a small dining table, diminutive sofa, and a full-sized bed.  Claire gave us a rundown on use of the air conditioning unit and the hot water heater in the shower (both luxury items in this community). And she showed us the chicken coop in the back, where we would have our pick of fresh eggs. Julie excused herself to use the bathroom, and after a few minutes, returned pale-faced and agitated. “Claire,” she said, “there are ants in the toilet.” “I mean, lots of ants, I couldn’t sit down. Everywhere in the toilet. I flushed them down and more came out. I flushed again. They were all over the inside of the toilet.”
@@ -82,7 +81,7 @@ Claire looked shocked and embarrassed and apologized profusely, saying she’d p
        alt="Casa Tica">
 </a>
   <p class="writing-art-caption">
-    Casa Tica - From the Tico Times - My Costa Rica Diary collection
+    View of Casa Tica from the driveway. 
   </p>
 </div>
 
@@ -99,7 +98,7 @@ Claire left us to get settled. We agreed to rendezvous later in the afternoon an
        alt="Dirt path to beach">
 </a>
   <p class="writing-art-caption">
-    Beginning of dirt path to the beach near Venado
+    Beginning of the dirt path leading to the beach. 
   </p>
 </div>
 
@@ -116,7 +115,7 @@ Claire left us to get settled. We agreed to rendezvous later in the afternoon an
        alt="Costa Rica Pacific Sunset with Friends">
 </a>
   <p class="writing-art-caption">
-    Our first ocean view from the beach at Venado
+    Our first ocean view from the beach at Venado.
   </p>
 </div>
 
@@ -125,7 +124,7 @@ After a little rest at Casa Tica, we cleaned up for dinner with Claire and her h
 
 </p>
 <p>
-After dinner, we wound our way in the dark across the road and back down the long drive to Casa Tica.  All-in-all, the last 24 hours had gone smoothly. We had navigated major airports, foreign hotels and taxis, and rough roads leading us through jungle. As our first day in Venado came to a close, we realized that we were not really tourists here. We’d made some cursory acquaintances, learned the hike to the ocean, situated ourselves in Casa Tica, and gotten a hint of some bug issues which we’d have to deal with in the near future. We were going to live here. We retired for the evening, weary, but both anxious and excited to immerse ourselves in this community and the adventures it had to offer. 
+After dinner, we wound our way in the dark across the road and back down the long drive to Casa Tica.  All-in-all, the last 48 hours had gone smoothly. We had navigated major airports, foreign hotels and taxis,  rough roads, and shaky bridges to our destination. As our first day in Venado came to a close, we realized that we were not really tourists here. We’d made some cursory acquaintances, learned the hike to the ocean, situated ourselves in Casa Tica, and gotten a hint of some bug issues which we’d have to deal with in the near future. We were going to live here. We retired for the evening, weary, but both anxious and excited to immerse ourselves in this community and the adventures it had to offer. 
 </p>
   </div>
 

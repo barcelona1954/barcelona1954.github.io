@@ -48,7 +48,7 @@ And for this experience, we say, Pura Vida!
        alt="Papaya and mango from William">
 </a>
   <p class="writing-art-caption">
-    Papaya and mango from William - From the Tico Times - My Costa Rica Diary collection
+    Papaya and mango gifts from William. 
   </p>
 </div>
 </div>

@@ -51,7 +51,7 @@ We sat down. Sighed. Opened a beer. Maybe two. Julie took a moment to gloat abou
        alt="A few of the perpetrators and some of the casualties">
 </a>
   <p class="writing-art-caption">
-    The Great Costa Rican Insect Incident: A few of the perpetrators and some of the casualties. - From the Tico Times - My Costa Rica Diary collection
+    The Great Costa Rican Insect Incident: A few of the perpetrators and some of the casualties.
   </p>
 </div>
 

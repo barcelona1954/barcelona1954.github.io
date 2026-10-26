@@ -21,7 +21,7 @@ After spending a couple of days situating ourselves, Julie, an avid animal and w
          alt="Route from Venado to San Juanillo to Ostional">
   </a>
   <p class="writing-art-caption">
-    Created with uMap. Map data © OpenStreetMap contributors.
+    Route from Venado to San Juanillo to Ostional. (Created with uMap. Map data © OpenStreetMap contributors.)
   </p>
 </div>
 
@@ -39,7 +39,7 @@ We had gone to San Juanillo the previous day and found a smallish, but spectacul
          alt="Fishing boats anchored in San Juanillo Bay, 2019">
   </a>
   <p class="writing-art-caption">
-    San Juanillo bay - From the Tico Times - My Costa Rica Diary collection
+    View of San Juanillo bay. 
   </p>
 </div>
 
@@ -59,7 +59,7 @@ The day was spectacular and the ocean was relatively calm for our ride south alo
          alt="Boat Route from San Juanillo to Ostional">
   </a>
   <p class="writing-art-caption">
-    Created with uMap. Map data © OpenStreetMap contributors.
+    Boat route from San Juanillo to Ostional. (Created with uMap. Map data © OpenStreetMap contributors.)
   </p>
 </div>
 
@@ -76,7 +76,7 @@ In the meantime, we waited, with wind blowing our hair, on the lookout for a mas
        alt="Costa Rica fisherman">
   </a>
   <p class="writing-art-caption">
-    Santiago holding his catch - From the Tico Times - My Costa Rica Diary collection
+    Santiago holding his catch. 
   </p>
 </div>
 

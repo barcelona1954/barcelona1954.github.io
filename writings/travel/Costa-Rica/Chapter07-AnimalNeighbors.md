@@ -21,7 +21,7 @@ We live in a tropical forest, so, no surprise, many animals we think of as exoti
          alt="Collage of local animals">
   </a>
   <p class="writing-art-caption">
-    A collage of some of our animal neighbors - From the Tico Times - My Costa Rica Diary collection
+    A collage of some of our animal neighbors. 
   </p>
 </div>
 </div>
