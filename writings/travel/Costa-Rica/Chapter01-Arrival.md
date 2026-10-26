@@ -88,7 +88,23 @@ Claire looked shocked and embarrassed and apologized profusely, saying she’d p
 
 
 <p>
-Claire left us to get settled. We agreed to rendezvous later in the afternoon and walk to the ocean. And we were invited to dinner at her host family’s house, which was almost directly across the road from Casa Tica. We unpacked, walked the grounds, checked out the hammocks that we would stress-test over the next few months, and generally got our things organized. In the later afternoon, we met  Claire, and 2 of her younger host sisters, Susana and Sami, and we walked a forested dirt path past a few stray cattle, trees filled with termite nests the size of one-person kayaks, and periodic clouds of mosquitoes, until we crossed a small estuary and the jungle opened to the sound of crashing waves and a view of the Pacific coast horizon that seemed to stretch to the end of the Earth.  The beach was vast, mostly muddy sand, and largely unpopulated. We saw a handful of locals fishing with their hand-held spindles of fish line and baited hooks. Claire warned that the rip-tide is especially strong and that we should be careful entering the water. Julie and I hadn’t prepared to dip in the ocean, but Claire (and the family dog) took a swim to cool off.  We soaked in the sights and sounds, trudged through the thick sand, and chatted briefly with one of the fishermen. As the sun began to lower, we returned to Casa Tica, trying (but failing) to out-race the mosquitoes. 
+Claire left us to get settled. We agreed to rendezvous later in the afternoon and walk to the ocean. And we were invited to dinner at her host family’s house, which was almost directly across the road from Casa Tica. We unpacked, walked the grounds, checked out the hammocks that we would stress-test over the next few months, and generally got our things organized. In the later afternoon, we met  Claire, and 2 of her younger host sisters, Susana and Sami, and we walked a forested dirt path past a few stray cattle, trees filled with termite nests the size of one-person kayaks, and periodic clouds of mosquitoes, until we crossed a small estuary and the jungle opened to the sound of crashing waves and a view of the Pacific coast horizon that seemed to stretch to the end of the Earth.
+</p>
+
+<div class="writing-art">
+  <a href="/images/photos/path-to-beach.jpg"
+     class="lightbox-link"
+     aria-label="Enlarge photograph">
+  <img src="/images/photos/path-to-beach.jpg"
+       alt="Dirt path to beach">
+</a>
+  <p class="writing-art-caption">
+    Beginning of dirt path to the beach near Venado
+  </p>
+</div>
+
+<p>
+  The beach was vast, mostly muddy sand, and largely unpopulated. We saw a handful of locals fishing with their hand-held spindles of fish line and baited hooks. Claire warned that the rip-tide is especially strong and that we should be careful entering the water. Julie and I hadn’t prepared to dip in the ocean, but Claire (and the family dog) took a swim to cool off.  We soaked in the sights and sounds, trudged through the thick sand, and chatted briefly with one of the fishermen. As the sun began to lower, we returned to Casa Tica, trying (but failing) to out-race the mosquitoes. 
 
 </p>
 
