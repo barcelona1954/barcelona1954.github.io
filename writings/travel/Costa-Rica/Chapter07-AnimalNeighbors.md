@@ -21,7 +21,7 @@ We live in a tropical forest, so, no surprise, many animals we think of as exoti
          alt="Collage of local animals">
   </a>
   <p class="writing-art-caption">
-    A collage of some of our animal neighbors. 
+    Some of our animal neighbors (roughly from top to bottom): howler monkey, birds, butterfly, gecko, horses, sea turtle, blue beetle, green snake, cattle, coati, and iguana.
   </p>
 </div>
 </div>
