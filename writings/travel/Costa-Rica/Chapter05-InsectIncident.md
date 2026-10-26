@@ -13,7 +13,9 @@ title: The Great Costa Rica Insect Incident
 Casa Tica, the modest guesthouse we are renting, is a great little setup for our needs. It’s a one-room house, with all the basics, including air conditioning and hot water in the shower, both luxury features compared to many houses in Venado. However, one thing we definitely share with the common Costa Rican is that we have bugs. And lots of them.
 </p>
 <p>
-The day we arrived and unpacked, we realized we’d have a little bug problem. There were fairly large creeping and flying ants in the cupboard, on the bathroom floor, and generally roaming around the house. However, the situation got a little more icky when Julie flushed the toilet only to see ants wash down the bowl from the inner rim. (I knew something was amiss by the yelp from Julie watching hundreds of ants flow into the Costa Rican sewage system.)
+The day we arrived and unpacked, we realized we’d have a little bug problem. There were fairly large creeping and flying ants in the cupboard, on the bathroom floor, and generally roaming around the house. However, the situation got a little more icky when Julie flushed the toilet only to see ants wash down the bowl from the inner rim and into the Costa Rican sewage system. 
+And then that night, Julie felt a bug falling from the ceiling onto her face as she was trying to go to sleep. Maybe more than a little bug problem. 
+
 </p>
 <p>
 The next day, we let the casa caretaker know about the issue, but we took the liberty to buy some insecticide and try to bring the problem under control as soon as possible. Besides spot-spraying bug killer inside the house, I reckoned that if I sprayed the doors, window frames, and the baseboards from the porch-side, I would deter ants from entering. After dinner, I took my spray can to the porch and went to work….the baseboards, a window frame, one door, and then the next.
