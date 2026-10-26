@@ -28,13 +28,14 @@ Termites, centipedes, soldier ants (I swear they were packing heavy artillery), 
 Adrenaline rushing through my body, I grabbed the can of insecticide, and I sprayed everything in sight. I sprayed like a madman. A maniac. An insect-icidal maniac. And I left piles of writhing insects, some still wriggling in pools of insecticide.
 </p>
 <p>
-After the killing was done, the next problem presented itself. Being new to the house, we could not find a broom or mop for the floor.  What to do? As cringe-worthy as it was, we resorted to getting on our hands and knees and used big handfuls of paper towels to herd the dead, the dying (and some literally biting to stay alive) into moveable mounds. We pushed them back through the front door and scooched them off the porch. Eventually, the room was mostly clear. 
+After the killing was done, the next problem presented itself. Being new to the house, we could not find a broom or mop for the floor.  What to do? As cringe-worthy as it was, we resorted to getting on our hands and knees and used big handfuls of paper towels and plastic grocery bags to herd the dead, the dying (and many literally biting to stay alive) into moveable mounds. We pushed them back through the front door and scooched them off the porch. Eventually, the room was mostly clear. 
 </p>
 <p>
 It dawned on me far too late that a throng of insects was apparently living inside the walls and baseboards and that my master plan to coat the perimeter with bug spray (to keep them out of the house!) left them only one route of escape. Into the inner sanctum of Casa Tica. I’d just thrown a canister of tear gas into their abode. 
 </p>
 <p>
-We sat down. Sighed. Opened a beer. Maybe two. Julie took a moment to gloat about how she had brought her slippers to wear, but I had not. (I am normally the planner in the family, but Julie’s the one who anticipated the need for slippers so as not to be barefooted and crunching critters in the middle of the night.)
+
+We sat down. Sighed. Opened a beer. Maybe two. Julie took a moment to gloat about how she had brought night-time footwear, but I had not. (I am normally the planner in the family, but Julie’s the one who anticipated avoiding crunching critters under bare foot in the middle of the night.
 </p>
 
   </div>
