@@ -88,7 +88,7 @@ We stopped briefly and snorkeled. And after that, we cruised and waited a bit lo
 <p>
 We returned to San Juanillo to lounge and lunch on the white sand beach. We thanked Santiago, paid him for his troubles, and gathered our things to return to Venado. True, we’d only seen one turtle, and no whales, but it was hard to feel too disappointed. We snorkeled in blue-green water and saw some pretty fish, and we enjoyed a solid couple hours of Spanish immersion with Santiago. While hardly the wildlife excursion we’d anticipated, our day definitely was not a waste of our time and money.</p>
 <p>
-We returned to Casa Tica to lie in the hammocks. I napped and then played guitar. A curious little neighbor girl named Doña Paloma came to the porch to investigate the strangers in Casa Tica. She and Julie talked about Doña’s day at school, and Julie shared her day about looking for turtles. (They were a couple of Chatty-Cathys). Doña helped Julie play Words With Friends. All in all, we decided we could live with this disappointment about the turtles. Pura Vida.
+We returned to Casa Tica to lie in the hammocks. I napped and then played guitar. A curious little neighbor girl named Paloma came to the porch to investigate the strangers in Casa Tica. She and Julie talked about Paloma’s day at school, and Julie shared her day about looking for turtles. (They were a couple of Chatty-Cathys). Paloma helped Julie play Words With Friends. All in all, we decided we could live with this disappointment about the turtles. Pura Vida.
 </p>
 
 
