@@ -87,7 +87,7 @@ Claire looked shocked and embarrassed and apologized profusely, saying she’d p
 
 
 <p>
-Claire left us to get settled. We agreed to rendezvous later in the afternoon and walk to the ocean. And we were invited to dinner at her host family’s house, which was almost directly across the road from Casa Tica. We unpacked, walked the grounds, checked out the hammocks that we would stress-test over the next few months, and generally got our things organized. In the later afternoon, we met  Claire, and 2 of her younger host sisters, Susana and Sami, and we walked a forested dirt path past a few stray cattle, trees filled with termite nests the size of one-person kayaks, and periodic clouds of mosquitoes, until we crossed a small estuary and the jungle opened to the sound of crashing waves and a view of the Pacific coast horizon that seemed to stretch to the end of the Earth.
+Claire left us to get settled. We agreed to rendezvous later in the afternoon and walk to the ocean. And we were invited to dinner at her host family’s house, which was almost directly across the road from Casa Tica. We unpacked, walked the grounds, checked out the hammocks that we would stress-test over the next few months, and generally got our things organized. In the later afternoon, we met  Claire and 2 of her younger host sisters, Susana and Sami, and we walked a forested dirt path past a few stray cattle, trees filled with termite nests the size of small kayaks, and periodic clouds of mosquitoes. Finally, we crossed a small estuary and the jungle opened to the sound of crashing waves and a view of the Pacific coast horizon that seemed to stretch to the end of the Earth.
 </p>
 
 <div class="writing-art">
