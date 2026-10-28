@@ -1,44 +1,48 @@
-- title: Resolution
-  type: Art
-  href: "/images/ink-drawings/full/2026/2026-Drawings-001.jpg"
-  thumb: "/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-001.jpg"
-  caption: This was my first drawing of 2026, and I wanted to express a statement about Art vs the chaos and mayhem of the world.
-
-- title: Deep Thinker
-  type: Cartoon
-  href: "/images/cartoons/full/DeepThinkerCopyrighted.jpg"
-  thumb: "/images/cartoons/thumbnails/DeepThinkerCopyrighted-thumb.jpg"
-  caption: A fellow giving serious thought to the issues of the day, from the Pretzelvision cartoon library. 
-
-- title: Latinia
-  type: Music
-  href: "/audio/#latinia"
-  thumb: "/images/audio/video-thumbs/Latinia-thumb-Cover.jpg"
-  caption: A cover of the  the song originally  released in 1963 by The Sentinals. <b>Now available on streaming platforms!</b> 
-   
 # Featured for November 2026....
 
-#- title: Tico Times
-#  type: Writings
-#  href: "/writings/travel"
-#  thumb: "/images/writing-images/writing-featured.jpg"
-#  caption: An ongoing series of stories and reflections from my time in Costa Rica. 
+- title: Tico Times Travel Diaries
+  type: Writings
+  href: "/writings/travel"
+  thumb: "/images/writing-images/writing-featured.jpg"
+  caption: An ongoing series of stories about our adventures and misadbentures
+   in Costa Rica back in 2019. 
  
-#- title: Theme for Champions
-#  type: Music
-#  href: "/audio/#theme-for-champions"
-#  thumb: "/images/audio/video-thumbs/theme-for-the-champions-thumb.jpg"
-#  caption: An original Corpse Revivers music video from the Shake, Rattle, and Strain album release. 
+- title: Theme for Champions
+  type: Music
+  href: "/audio/#theme-for-champions"
+  thumb: "/images/audio/video-thumbs/theme-for-the-champions-thumb.jpg"
+  caption: An original Corpse Revivers music video from the Shake, Rattle, and Strain album release. 
 
-#- title: Back to the Basic
-#  type: Cartoon
-#  href: "/images/cartoons/full/BackToTheBasicsCopyrighted.jpg"
-#  thumb: "/images/cartoons/thumbnails/BackToTheBasicsCopyrighted-thumb.jpg"
-#  caption: A teacher getting serious getting back to the basics, from the Pretzelvision cartoon library. 
+- title: Back to the Basic
+  type: Cartoon
+  href: "/images/cartoons/full/BackToTheBasicsCopyrighted.jpg"
+  thumb: "/images/cartoons/thumbnails/BackToTheBasicsCopyrighted-thumb.jpg"
+  caption: A teacher getting serious getting back to the basics, from the Pretzelvision cartoon library. 
 
-#- title: Weather
+- title: Weather
+  type: Art
+  href: "/images/ink-drawings/full/2026/2026-Drawings-010.jpg"
+  thumb: "/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-010.jpg"
+  caption: Capturing liquids of any sort is an artistic challenge. Here, I wanted to focus on the downpour and the shimmer of light and water on the umbrella.
+
+
+
+# Featured for October 2026....
+#- title: Resolution
 #  type: Art
-#  href: "/images/ink-drawings/full/2026/2026-Drawings-010.jpg"
-#  thumb: "/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-010.jpg"
-#  caption: Caputuring liquids of any sort is an artistic challenge. Here, I wanted to focus on the downpour and the shimmer of light and water on the umbrella.
+#  href: "/images/ink-drawings/full/2026/2026-Drawings-001.jpg"
+#  thumb: "/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-001.jpg"
+#  caption: This was my first drawing of 2026, and I wanted to express a statement about Art vs the chaos and mayhem of the world.
+#
+#- title: Deep Thinker
+#  type: Cartoon
+#  href: "/images/cartoons/full/DeepThinkerCopyrighted.jpg"
+#  thumb: "/images/cartoons/thumbnails/DeepThinkerCopyrighted-thumb.jpg"
+#  caption: A fellow giving serious thought to the issues of the day, from the Pretzelvision cartoon library. 
 
+#- title: Latinia
+#  type: Music
+#  href: "/audio/#latinia"
+#  thumb: "/images/audio/video-thumbs/Latinia-thumb-Cover.jpg"
+#  caption: A cover of the  the song originally  released in 1963 by The Sentinals. <b>Now available on streaming platforms!</b> 
+   
