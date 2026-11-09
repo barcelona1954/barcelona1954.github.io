@@ -47,7 +47,7 @@ Diaries, poems, short reflections, and other written work.
 <ul>
   <li id="travel">
     <strong><a href="travel/">Travel</a></strong>
-    – Tico Times Diaries are in progress. I'll release a few new stories each week. 
+    – Tico Times Diaries, a collection of stories from our time in Costa Rica. New entries added regularly.
   </li>
 
 <!--
