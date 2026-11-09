@@ -9,7 +9,7 @@ title: One is the Loneliest Number
 
   <div class="poem-text">
   <p>
-After spending a couple of days situating ourselves, Julie, an avid animal and wildlife enthusiast, was anxious to see some sea turtles. Costa Rica’s rich ecosystem features turtle nesting sites on both the Caribbean and the Pacific coastlines. We discovered that a favorite nesting spot for the Olive Ridley Sea Turtle is a beach area called Ostional, known for periodic mass nesting events (called arribadas, or  “arrivals”) where thousands of turtles come ashore. And Ostional was only about 15 miles as the crow flies from Venado. Crows, however, have the advantage of bypassing the Costa Rican road that would take us to Ostional, so we avoided the rugged and bouncy drive in our little rental sedan and instead secured a boat ride in the nearby beach village of San Juanillo. 
+After spending a couple of days situating ourselves, Julie, an avid animal and wildlife enthusiast, was anxious to see some sea turtles. Costa Rica’s rich ecosystem features turtle nesting sites on both the Caribbean and the Pacific coastlines. We discovered that a favorite nesting spot for the Olive Ridley Sea Turtle is a beach area called Ostional, known for periodic mass nesting events (called arribadas, or  “arrivals”) where thousands of turtles come ashore. And Ostional was only about 15 miles as the crow flies from Venado. Crows, however, have the advantage of bypassing the Costa Rican road that would take us to Ostional, so we shortened the rugged and bouncy drive in our little rental sedan and instead secured a boat ride in the nearby beach village of San Juanillo. 
 </p>
 
 
