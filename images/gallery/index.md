@@ -22,6 +22,58 @@ Some individual drawings in my gallery also link directly to their available pri
 <section class="gallery-grid">
 
 <div class="gallery-item">
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-035.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-035.jpg" alt="35 - Stuck">
+  </a>
+  <div class="gallery-caption">035 – Stuck</div>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-033.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/finger-trap-tugging-hands-alan-mcclellan.html?newartwork=true" 
+   target="_blank" rel="noopener">Prints</a>
+  </div>
+</div>
+
+<div class="gallery-item">
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-021.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-021.jpg" alt="21 - Vegetable">
+  </a>
+  <div class="gallery-caption">021 – Vegetable</div>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-021.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/colorful-vegetable-assortment-alan-mcclellan.html" 
+   target="_blank" rel="noopener">Prints</a>
+  </div>
+</div>
+
+<div class="gallery-item">
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-033.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-033.jpg" alt="35 - Stuck">
+  </a>
+  <div class="gallery-caption">035 – Stuck</div>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-035.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/finger-trap-tugging-hands-alan-mcclellan.html?newartwork=true" 
+   target="_blank" rel="noopener">Prints</a>
+  </div>
+</div>
+
+<div class="gallery-item">
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-031.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-031.jpg" alt="31 - Colorful (Song Art)">
+  </a>
+  <div class="gallery-caption">031 – Colorful (Song Art)</div>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-031.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/colorful-mule-and-skeleton-musician-alan-mcclellan.html" 
+   target="_blank" rel="noopener">Prints</a>
+  </div>
+</div>
+
+<div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-033.jpg">
     <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-033.jpg" alt="33 - Ink">
   </a>
