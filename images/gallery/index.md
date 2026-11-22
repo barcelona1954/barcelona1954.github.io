@@ -48,7 +48,7 @@ Some individual drawings in my gallery also link directly to their available pri
 </div>
 
 <div class="gallery-item">
-  <a href="/images/ink-drawings/full/2026/2026-Drawings-033.jpg">
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-035.jpg">
     <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-033.jpg" alt="35 - Stuck">
   </a>
   <div class="gallery-caption">035 – Stuck</div>
