@@ -21,19 +21,21 @@ Some individual drawings in my gallery also link directly to their available pri
 ## 2026 - New Work
 <section class="gallery-grid">
 
+<!-- Stuck 35 -->
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-035.jpg">
     <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-035.jpg" alt="35 - Stuck">
   </a>
   <div class="gallery-caption">035 – Stuck</div>
   <div class="gallery-actions">
-    <a href="/images/ink-drawings/full/2026/2026-Drawings-033.jpg">View full</a>
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-035.jpg">View full</a>
     <span class="gallery-sep">·</span>
     <a href="https://fineartamerica.com/featured/finger-trap-tugging-hands-alan-mcclellan.html?newartwork=true" 
    target="_blank" rel="noopener">Prints</a>
   </div>
 </div>
 
+<!-- Vegetable 21 -->
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-021.jpg">
     <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-021.jpg" alt="21 - Vegetable">
@@ -47,18 +49,21 @@ Some individual drawings in my gallery also link directly to their available pri
   </div>
 </div>
 
+<!-- Ink 33 -->
 <div class="gallery-item">
-  <a href="/images/ink-drawings/full/2026/2026-Drawings-035.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-033.jpg" alt="35 - Stuck">
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-033.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-033.jpg" alt="33 - Ink">
   </a>
-  <div class="gallery-caption">035 – Stuck</div>
+  <div class="gallery-caption">033 – Ink</div>
   <div class="gallery-actions">
-    <a href="/images/ink-drawings/full/2026/2026-Drawings-035.jpg">View full</a>
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-033.jpg">View full</a>
     <span class="gallery-sep">·</span>
-    <a href="https://fineartamerica.com/featured/finger-trap-tugging-hands-alan-mcclellan.html?newartwork=true" 
+    <a href="https://fineartamerica.com/featured/intricate-tattoo-application-alan-mcclellan.html?newartwork=true" 
    target="_blank" rel="noopener">Prints</a>
   </div>
 </div>
+
+<!-- Colorful (Song) 31 -->
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-031.jpg">
