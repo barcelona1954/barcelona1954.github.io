@@ -78,19 +78,7 @@ Some individual drawings in my gallery also link directly to their available pri
   </div>
 </div>
 
-<div class="gallery-item">
-  <a href="/images/ink-drawings/full/2026/2026-Drawings-033.jpg">
-    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-033.jpg" alt="33 - Ink">
-  </a>
-  <div class="gallery-caption">033 – Ink</div>
-  <div class="gallery-actions">
-    <a href="/images/ink-drawings/full/2026/2026-Drawings-033.jpg">View full</a>
-    <span class="gallery-sep">·</span>
-    <a href="https://fineartamerica.com/featured/intricate-tattoo-application-alan-mcclellan.html" 
-   target="_blank" rel="noopener">Prints</a>
-  </div>
-</div>
-
+<!-- Gourmet 36 -->
 
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-036.jpg">
