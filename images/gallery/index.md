@@ -21,6 +21,20 @@ Some individual drawings in my gallery also link directly to their available pri
 ## 2026 - New Work
 <section class="gallery-grid">
 
+<!-- Pumpkin 39 -->
+<div class="gallery-item">
+  <a href="/images/ink-drawings/full/2026/2026-Drawings-039.jpg">
+    <img loading="lazy" src="/images/ink-drawings/thumbnails/2026/2026-Drawings-thumb-039.jpg" alt="39 - Pumpkin">
+  </a>
+  <div class="gallery-caption">039 – Pumpkin</div>
+  <div class="gallery-actions">
+    <a href="/images/ink-drawings/full/2026/2026-Drawings-039.jpg">View full</a>
+    <span class="gallery-sep">·</span>
+    <a href="https://fineartamerica.com/featured/pumpkin-on-a-wooden-table-alan-mcclellan.html?newartwork=true" 
+   target="_blank" rel="noopener">Prints</a>
+  </div>
+</div>
+
 <!-- Stuck 35 -->
 <div class="gallery-item">
   <a href="/images/ink-drawings/full/2026/2026-Drawings-035.jpg">
